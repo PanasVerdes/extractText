@@ -1,0 +1,3139 @@
+page_1:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIVERSIDAD DEL SABES 
+ 
+“TITULO DEL PROYECTO” 
+PRODUCCIÓN DE HIERRO NODULAR EN CUBILOTE 
+PARA LA SUSTITUCIÓN DE PIEZAS DE HIERRO GRIS 
+ 
+ 
+PROYECTO DE INVESTIGACIÓN. 
+PARA OBTENER EL TÍTULO DE LICENCIATURA EN 
+INGENIERIA INDUSTRIAL 
+ 
+ 
+ 
+PRESENTA: 
+LUIS ARMANDO GUTIÉRREZ JAIME 
+ 
+ASESOR: 
+GLORIA ANGELICA HERNÁNDEZ GUTIÉRREZ 
+ 
+San José Iturbide, Guanajuato, MES 2023 
+ 
+ 
+
+==================================================
+page_2:
+ 
+ 
+i 
+ 
+ÍNDICE  
+RESUMEN ......................................................................................................... III 
+INTRODUCCIÓN ................................................................................................ 1 
+1. CAPÍTULO I. PLANTEAMIENTO DEL PROBLEMA ................................... 3 
+1.1 
+ANTECEDENTES DEL PROBLEMA ................................................................ 3 
+1.2 
+PLANTEAMIENTO DEL PROBLEMA. .............................................................. 6 
+1.3 
+OBJETIVOS ............................................................................................ 10 
+1.5 
+JUSTIFICACIÓN ....................................................................................... 11 
+2. CAPÍTULO II MARCO CONCEPTUAL Y TEÓRICO. ................................ 12 
+2.1 
+MARCO CONCEPTUAL ............................................................................. 12 
+2.1.1 Producción. ....................................................................................... 12 
+2.1.2 Calidad .............................................................................................. 13 
+2.1.3 Hierro fundido .................................................................................... 15 
+2.1.4 Hierro gris .......................................................................................... 15 
+2.1.5 Hierro nodular. ................................................................................... 16 
+2.1.6 Cubilote. ............................................................................................ 17 
+2.2 
+MARCO TEÓRICO .................................................................................... 18 
+2.2.1 Fabricación de hierro nodular. ........................................................... 20 
+2.2.1.1. Materiales de caga. .................................................................... 20 
+2.2.1.2. Desulfuración de la fundición. .................................................... 23 
+2.2.1.3. Materiales esferoidizantes. ......................................................... 24 
+2.2.1.4. Métodos de esferoidización de la fundición. ............................... 29 
+2.2.1.5. inoculación de hierro nodular. .................................................... 42 
+2.2.1.6. Control de la fabricación de hierro nodular. ................................ 48 
+3. CAPÍTULO III. MARCO METODOLÓGICO. .............................................. 49 
+3.1 
+HIPÓTESIS. ............................................................................................ 50 
+4. CAPÍTULO V. PRESENTACIÓN Y ANÁLISIS DE RESULTADOS ........... 54 
+
+==================================================
+page_3:
+ 
+ 
+ii 
+ 
+4.1 
+PRESENTACIÓN DE RESULTADOS ............................................................. 54 
+4.2 
+ANÁLISIS DE RESULTADOS. ...................................................................... 63 
+5. CAPÍTULO VI. CONCLUSIONES .............................................................. 67 
+5.1 
+DISCUSIÓN ............................................................................................ 67 
+5.2 
+CONCLUSIONES ..................................................................................... 69 
+5.3 
+RECOMENDACIONES. .............................................................................. 70 
+ANEXOS Y APÉNDICES ................................................................................. 72 
+6. REFERENCIAS .......................................................................................... 74 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_4:
+ 
+ 
+iii 
+ 
+RESUMEN 
+La investigación se basó en dar solución a un problema en JL 
+FUNDICIÓN SAS de CV que es una fábrica de fundición de hierro, fue 
+fundada en 1998 y cuenta con un horno de cuba alto (cubilote) de 900 mm 
+de diámetro interior. La capacidad aproximada calculada de la fábrica es 
+de 85 toneladas al año. Esta empresa ha experimentado problemas de 
+calidad en la producción de piezas de hierro gris, lo que ha llevado a la 
+búsqueda de una solución mediante la producción de hierro nodular. Esta 
+fábrica atiende principalmente a clientes de las industrias mecánica y 
+minera. El objetivo es desarrollar una solución para el problema de calidad 
+en la producción de piezas de hierro gris mediante la fabricación hierro 
+nodular con estándares de calidad aceptables para los clientes aplicando 
+técnicas adecuadas de fusión en cubilote. El estudio se desarrolló 
+utilizando el método tradicional de experimentación, mediante el cual se 
+realizó una serie de pruebas para evaluar varios factores, siendo el 
+nodulizante el principal de ellos en el proceso de obtención de hierro 
+nodular. Este enfoque riguroso y sistemático permitió obtener información 
+precisa y valiosa sobre la influencia del nodulizante en la formación y 
+calidad del hierro nodular. Los resultados mostraron que en las primeras 
+pruebas persistía el grafito laminar, característico del hierro gris. Sin 
+embargo, a medida que se aumentó la cantidad de nodulizante, se 
+observaron cambios en la estructura, se presentó una combinación de 
+grafito laminar y grafito compacto, indicando una nodulización parcial. En 
+pruebas posteriores, se evidenció una disminución del grafito laminar y un 
+aumento del grafito compacto, con forma más redonda y esferoidal. Estos 
+indicaron una nodulización más avanzada y una tendencia hacia el hierro 
+nodular. 
+ 
+Palabras clave: Cubilote. Nodulizante. Hierro nodular. Hierro gris. 
+Calidad. 
+ 
+
+==================================================
+page_5:
+ 
+ 
+iv 
+ 
+ABSTRACT. 
+The research was based on providing a solution to a problem in JL 
+FUNDICIÓN SAS de CV, which is an iron foundry, founded in 1998 and 
+has a high shaft furnace (cupola) of 900 mm inside diameter. The estimated 
+capacity of the plant is 85 tons per year. This company has experienced 
+quality problems in the production of gray iron parts, which has led to the 
+search for a solution through the production of nodular iron. This factory 
+mainly serves customers in the mechanical and mining industries. The 
+objective is to develop a solution to the quality problem in the production of 
+gray iron parts by manufacturing nodular iron with quality standards 
+acceptable to customers by applying appropriate cupola melting 
+techniques. The study was developed using the traditional method of 
+experimentation, through which a series of tests were carried out to 
+evaluate several factors, the nodulizer being the main one in the process 
+of obtaining nodular iron. This rigorous and systematic approach made it 
+possible to obtain accurate and valuable information on the influence of the 
+nodulant on the formation and quality of nodular iron. The results showed 
+that in the first tests the lamellar graphite, characteristic of gray iron, 
+persisted. However, as the amount of nodulant was increased, changes in 
+the structure were observed; a combination of lamellar graphite and 
+compact graphite appeared, indicating partial nodulization. In later tests, a 
+decrease in lamellar graphite and an increase in compact graphite, with a 
+more round and spheroidal shape, were observed. These indicated more 
+advanced nodulization and a trend towards nodular iron. 
+ 
+ 
+
+==================================================
+page_6:
+ 
+ 
+1 
+ 
+INTRODUCCIÓN 
+ 
+Las fundiciones son aleaciones de hierro, carbono y silicio que 
+generalmente contienen también manganeso fósforo, azufre, etc. Su 
+contenido en carbono (2 a 4.5%) es superior al contenido en carbono de 
+los aceros (0.1 a 1.5%). Para la fabricación de piezas de fundición, se 
+emplea generalmente como materia prima fundamental el arrabio o lingote 
+de hierro y además se utiliza también en las cargas de los hornos y 
+cubilotes, chatarras de fundición y a veces se emplean también cantidades 
+variables de chatarra de acero. Las investigaciones de Gaguerin, Millis y 
+Pilliny en 1949 condujeron a la fabricación de fundición con grafito 
+esferoidal por medio de una adición de magnesio siendo este proceso 
+patentado por la International Nickel Company en Estados Unidos y por la 
+Mond  Company en Europa (Barreiro, 1963). 
+ 
+En 2010, se produjo un total de 94,1 millones de toneladas de 
+piezas metálicas, y de ese volumen, el 25% correspondió a piezas de 
+hierro nodular, una cifra que sigue en aumento (1). La producción anual a 
+nivel mundial supera los 12 millones de toneladas, y se proyecta que en 
+los próximos 10 años llegará a alcanzar los 20 millones de toneladas.  
+En la actualidad, la producción de hierro nodular supera a la del 
+hierro maleable y al acero. Se está realizando una transición exitosa de 
+piezas previamente fabricadas con hierro gris, maleable, acero fundido y 
+acero forjado hacia el hierro nodular, especialmente en regiones en 
+desarrollo. La razón principal de este cambio radica en la reducción de 
+costos que implica la fundición con hierro nodular en comparación con la 
+maquinación, soldadura y forja de piezas. 
+JL FUNDICION es una empresa familiar situada en San Diego de 
+las Trasquilas, San José Iturbide, Gto, que se especializa en la fabricación 
+de piezas de hierro gris partiendo de la fundición y utilizando el proceso de 
+
+==================================================
+page_7:
+ 
+ 
+2 
+ 
+moldeo en arena verde. Durante 22 años, se ha enfocado exclusivamente 
+en la producción de hierro gris, lo cual ha limitado su base de clientes y ha 
+llevado a la empresa a enfrentar dificultades competitivas y casi declararse 
+en bancarrota. Estas dificultades se deben tanto a la limitada 
+diversificación de clientes como a problemas de calidad en las piezas 
+fabricadas. La pregunta central este trabajo es ¿Cómo producir hierro 
+nodular de buena calidad aplicando técnicas de fusión adecuadas en 
+cubilote? La hipótesis central es que las cantidades de nodulizante (ferro 
+silicio magnesio 5911) agregadas al metal líquido influyen en la formación 
+de grafito esferoidal, en la microestructura y determina el índice de calidad 
+del metal para las piezas fabricadas. El objetivo central es Producir hierro 
+nodular en JL FUNDICIÓN S.A.S de C.V, con estándares de calidad 
+aceptables por los clientes aplicando técnicas de fusión adecuadas en 
+cubilote, con el fin de remplazar piezas de hierro gris.  
+ 
+Para llevar a cabo este estudio, la investigación se ha estructurado 
+en 5 capítulos. En el capítulo I “Planteamiento del Problema” se describen 
+algunos antecedentes referentes a la problemática del tema, al igual que 
+el problema y sus respectivos objetivos y preguntas. En el capítulo ll 
+“Marco Conceptual y Teórico” se describen los materiales usados para la 
+obtención de hierro nodular, técnicas adecuadas de fusión de hierro, los 
+aditamentos para la formación de grafito esferoidal y conceptos teóricos. 
+En el capítulo lll “Marco Metodológico” se presenta la hiposes de la 
+investigación, las variables que intervienen en la producción de hierro 
+nodular, el enfoque de la investigación, el diseño y el muestreo de la 
+investigación. En el capítulo lV “Presentación y Análisis de Resultados” en 
+donde se presentan los resultados y se analizan los resultados importantes 
+de la investigación. Y finalmente en el capitulo V “Conclusiones” se discute 
+sobre los resultados obtenidos se llega una conclusión y recomendaciones 
+respecto a la investigación. 
+ 
+
+==================================================
+page_8:
+ 
+ 
+3 
+ 
+1. CAPÍTULO I. PLANTEAMIENTO DEL PROBLEMA 
+1.1 
+Antecedentes del problema 
+Muchas fundiciones de hierro gris están intentando producir hierro 
+dúctil como producto secundario a partir del hierro gris. En muchos casos 
+el personal de estas fundiciones tiene la creencia de que sólo es necesario 
+desulfurizar el hierro gris y tratarlo con magnesio en alguna forma. El 
+resultado de este proceso es normalmente algún hierro con grafito 
+esferoidal con calidad marginal que no cumple con las especificaciones 
+aceptables del hierro dúctil siendo entonces indispensable alguna forma 
+de tratamiento térmico.  Por años los productores de hierro dúctil han 
+usado el tratamiento térmico como un recurso una excusa para no 
+controlar debidamente sus prácticas de fusión del hierro base. (Arthur f, 
+1979) 
+   
+Hoy en día las fundiciones de hierro y sus aleaciones, por su uso 
+ocupan un lugar predominante en la industria automotriz maquinaria 
+pesada, minería, etc. Este material comparado con el acero y las 
+aleaciones no ferrosas es más barato y posee buenas propiedades 
+mecánicas al estado sólido, así como buena fluidez y colabilidad al estado 
+líquido, con una baja tendencia a la formación de rechupes. por esta razón 
+se pueden fabricar un sinnúmero de piezas vaciadas con este material. 
+(Fras, Serrano Toledo, & Bustos Alcala, 1990).  
+ 
+El hierro nodular es utilizado en la industria automotriz y minería, ya 
+que este presenta algunas ventajas frente al acero o hierro gris, con una 
+mayor resistencia a la fatiga y una mayor resistencia al desgaste, aunque 
+con un mayor costo de fabricación más alto que el hierro gris. Por su buena 
+tenacidad, el hierro nodular se está utilizando para la fabricación de piezas 
+que experimentan ciclos de fatiga, ya que por el tipo de estructura 
+cristalográfica que posee inhibe el crecimiento y propagación de grietas, 
+
+==================================================
+page_9:
+ 
+ 
+4 
+ 
+además tiene una alta resistencia al desgaste, como se requiere, por 
+ejemplo, en cigüeñales, monobloques, engranajes, roscas, tuberías etc. 
+(Acosta Esqueda, Martínez Madrid, & López, 2000). 
+ 
+Históricamente, las fundiciones han fabricado hierro fundido en 
+hornos de cubilote y, aunque hace unas décadas se predijo que 
+desaparecerían, hoy en día aproximadamente el 70% de los hierros 
+fundidos del mundo se producen en cubilotes. esta situación se ha logrado 
+porque el cubilote se ha modernizado de acuerdo con los avances 
+tecnológicos y los estándares ambientales. (Héctor Daniel Mejía, 2002). 
+ 
+En 1948, el hierro nodular, el hierro con grafito esferoidal o el hierro 
+dúctil se anunciaron en la Conferencia Anual de la American Foundrymen's 
+Society. En los primeros años, INCO, la empresa responsable y titular de 
+la patente, comunico el hierro nodular a ingenieros y diseñadores a través 
+de la distribución de literatura técnica y seminarios. Su uso aumentó 
+notablemente en la década de 1950 y principios de la de 1960. Después 
+de que INCO terminara su promoción del hierro nodular en 1966, el 
+mercado siguió creciendo incluso por delante de otras fundiciones ferrosas 
+debido a sus propiedades, características y el beneficio económico que 
+brindaba. (Ramírez Natera, 2015).   
+ 
+En la actualidad, la producción de hierro, de donde se deriva 
+el Hierro dúctil es indicativa de la prosperidad de una nación y constituye 
+una de las materias primas base para la producción en serie de muchas 
+otras industrias, como la construcción naval, la construcción de edificios y 
+la fabricación de automóviles, maquinaria, herramientas, equipamiento 
+doméstico, etc. (Sion, 2019).  
+ 
+La Empresa JL FUNDICIÓN S.A.S de C.V en particular es una 
+fábrica de Fundición Hierro, una de las entidades que presenta en su 
+
+==================================================
+page_10:
+ 
+ 
+5 
+ 
+banco de problemas es la producción de piezas de hierro gris con 
+estándares de calidad aceptables los cuales ya no fueron aceptados por 
+los clientes, por lo que optado por una nueva producción la cual es obtener 
+hierro nodular para dar solución al mismo, la misma está ubicada en el km 
+6.5 a un costado de la carretera que va de San José Iturbide a Puerto 
+Carroza en la comunidad de San Diego de las Trasquilas. 
+ 
+JL FUNDICIÓN S.A.S de C.V, fue fundada en el año de 1998 cuenta 
+con un horno de cuba alta (cubilote) de 900 mm de diámetro interior. La 
+capacidad aproximada calculada de la mencionada fabrica es de 85 
+toneladas al año. Se producen piezas principalmente para la Industria 
+Mecánica y Minera, el moldeo se realiza en cajas metálicas de 
+dimensiones 900 x 500 x 300 mm y 650 x 500 x 400 mm y se utilizan 
+mezclas en verde. En la actualidad, la carga para la producción del hierro 
+fundido gris presenta la siguiente composición. 70 % de chatarra de hierro 
+y 30 % de retorno. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_11:
+ 
+ 
+6 
+ 
+1.2 
+Planteamiento del problema. 
+Realizar piezas de fundición no es para el fundador un fin, sino un 
+medio. El fundidor, al igual que todos los industriales, que los 
+comerciantes, y en general todo ser humano desarrollado, tiene un fin bien 
+determinado, una voluntad bien definida: hacer piezas de buena calidad 
+para ganar dinero, y este, en la mayor cantidad posible. 
+Diariamente se invierten sumas considerables en ejecutar piezas 
+que apenas salidas de los moldes resultan inadecuadas para su empleo 
+debido a los defectos que presentan, estos rechazos como se dice en 
+términos profesionales contribuyen en gran manera a mantener el precio 
+medio de las piezas de fundición. 
+Los fundidores que saben, pues la experiencia se los ha 
+demostrado, que los defectos representan un cierto porcentaje del número 
+de piezas coladas, tienen en cuenta este hecho a la hora de determinar 
+los precios de costo, de los cuales se derivan los de venta. Todo aumento 
+del número de rechazos no puede traducirse para el fundidor más que por 
+una disminución --a veces catastrófica--, del beneficio de explotación, por 
+el contrario, la reducción de rechazos es una de las causas más 
+importantes del aumento del beneficio. 
+Toda pieza rechazada debe de rehacerse, y en ocasiones varias 
+veces, por ende, exige mano de obra, por consiguiente, horas de trabajo 
+que es preciso pagar (a veces horas extras, por tanto, a un precio mayor, 
+puesto que, por causa de las imperfecciones, los plazos de entrega se 
+encuentran generalmente comprometidos). 
+Los defectos que se presentan en las piezas de hierro gris son 
+comunes cuando no se tienen conocimiento en el tema, por ejemplo, en 
+una pieza fundida en arena verde, se observan repentinamente extensas 
+superficies ásperas y rugosas en la parte superior de la pieza que a 
+Menudo llevan a la pieza a ser rechazada, así como a un gran trabajo de 
+recuperación en costo y tiempo.  
+
+==================================================
+page_12:
+ 
+ 
+7 
+ 
+Este problema es de los más comunes en las piezas y este defecto 
+puede ocurrir en todas las piezas moldeadas (preferiblemente arena 
+verde). Las penetraciones ocurren en lugares donde las piezas se 
+calientan fuertemente, como en los bordes o en las áreas de los ataques, 
+en lugares donde el material de moldeo está débilmente compactado. 
+(ask-chemicals, s.f.). 
+Otro defecto que podemos encontrar en las piezas de hierro gris 
+son cavidades con paredes redondeadas en su mayoría lisas que están 
+acompañadas de escoria, a este problema se le conoce como sopladuras, 
+y se produce principalmente como resultado de un pobre proceso de 
+desgasificación en el molde y es más común en las fundiciones de hierro 
+con grafito laminar (Hierro gris) que en las fundiciones de hierro con grafito 
+esferoidal (Hierro nodular). Las cavidades con paredes redondas y lisas 
+suelen aparecer entonces en grandes áreas. La razón de las sopladuras 
+redondeadas o alargadas son los gases encerrados por el metal durante 
+la solidificación en la superficie de la pieza, a menudo asociados con 
+escorias u óxidos. 
+Los materiales para un fundidor juegan un papel muy importante ya 
+que de este dependerá la calidad de las piezas fabricadas, dado que si 
+utilizamos malos materiales obtendremos malos resultados en las piezas. 
+El hierro base más utilizado en las fundiciones son: El Hierro gris 
+(Hierro colado), Hierro dúctil (Hierro nodular).  
+El 
+hierro 
+fundido 
+gris, 
+ofrece 
+una buena 
+colabilidad 
+y 
+maquinabilidad, además de propiedades mecánicas moderadas. Debido a 
+sus ventajas económicas, el hierro fundido se utiliza en múltiples 
+aplicaciones en automoción, fabricación y procesamiento de industrias 
+metálicas. (Struers, s.f.). 
+ 
+El hierro gris al tener una alta tensión de rotura, pero baja ductilidad, 
+casi toda su curva de tensión alargamiento presente muchas zonas en 
+donde las tensiones son proporcionales a las deformaciones. Comparada 
+
+==================================================
+page_13:
+ 
+ 
+8 
+ 
+con otras aleaciones de hierro modernas, el hierro gris tiene una baja 
+resistencia a la tracción y ductilidad por lo tanto su resistencia al impacto 
+es casi inexistente. (Corporativo Mejorada, 2019).  
+La fundición dúctil o nodular se caracteriza por sus notables 
+propiedades 
+mecánicas 
+(elasticidad, 
+resistencia 
+a 
+los 
+golpes, 
+alargamiento…) lo que la diferencia de las fundiciones grises tradicionales. 
+(PAM SAINT-GOBAIN, s.f.). 
+ 
+En el estado de Guanajuato, y sus alrededores, hay un gran número 
+de empresas que se dedicaban a la producción de hierro gris, y estas en 
+su totalidad quebraron por depender solamente de un cierto número de 
+clientes, y no poderse adaptar a los nuevos estándares de calidad 
+propuestos por los mismos, y por la falta de relación.  
+ 
+“La clave es escuchar a nuestros clientes, saber lo que necesita y cubrir 
+esa necesidad”] (López, 2022) 
+ 
+JL FUNDICION es una Fábrica (Empresa familiar) ubicada en la 
+comunidad de San Diego de las Trasquilas, San José Iturbide, Gto 
+dedicada a la producción de piezas de hierro gris, la principal actividad de 
+esta pequeña empresa es la realización de piezas de hierro gris partiendo 
+del moldeo de piezas en arena verde (mezcla compactada de arena de 
+sílice SiO2 y bentonita derivada de la arcilla humedecida.  
+Gracias a este proceso de función en arena verde se puede abarcar 
+muchas posibilidades en el moldeo de piezas con formas específicas que 
+a través de otros procesos sería imposible alcanzar. Esta cualidad brinda 
+la posibilidad de ofrecer soluciones muy dispares dirigidas a sectores 
+industriales específicos. 
+ 
+Esta pequeña empresa por 22 años solamente se ha dedicado a la 
+producción de hierro gris para sector automotriz y sector minero, 
+
+==================================================
+page_14:
+ 
+ 
+9 
+ 
+manteniéndose con un cierto número de clientes lo cual la ha orillado a 
+salir del sector de competencia y casi declararse en quiebra debido a las 
+dificultades de solo tener un cierto número de clientes así como también 
+por problemas de calidad en las piezas fabricadas, como lo son, problemas 
+relacionados con tenacidad, ya que al ser piezas de hierro gris al momento 
+de aplicarles una fuerza sobre ellas, las piezas está en riesgo de ruptura. 
+Baja resistencia a la tracción, las piezas de hierro gris no tienen mucha 
+propiedad de alongarse (estirarse) por lo que al momento de estirarlas 
+tienden a fracturarse de los puntos más débiles.  
+Ductilidad, el hierro gris presenta una baja ductilidad por ende las 
+piezas de hierro gris bajo la acción de una fuerza no pueden deformarse 
+(plásticamente) de manera sostenible sin romperse. 
+ 
+Por otra parte, los competidores se han adaptado a las nuevas 
+normas y estándares de calidad por parte de sus clientes, además de que 
+han implementado nuevas técnicas de trabajo con el fin de sobresalir y 
+ampliarse a más mercados de la industria, así como obtener más números 
+de clientes lo cual ha hecho que se mantengan por delante de algunos 
+competidores. 
+ 
+Finalmente, y por tal razón, surge la siguiente pregunta ¿Cómo 
+producir hierro nodular aplicando técnicas de fusión adecuadas en 
+cubilote, con estándares de calidad aceptables por los clientes con el fin 
+de remplazar piezas de hierro gris? Con el objetivo de volver a tener una 
+estabilidad económica y productiva.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_15:
+ 
+ 
+10 
+ 
+1.3 
+Objetivos 
+• Objetivo general 
+➢ Producir hierro nodular en JL FUNDICIÓN S.A.S de C.V, con 
+estándares de calidad aceptables por los clientes aplicando 
+técnicas de fusión adecuadas en cubilote, con el fin de 
+remplazar piezas de hierro gris. 
+ 
+• Objetivos específicos 
+• Identificar los requerimientos para producir hierro nodular 
+en cubilote. 
+• Identificar los estándares de calidad de los clientes para 
+una buena producción de hierro nodular. 
+• Implementar técnicas adecuadas de fusión de hierro para 
+la producción de hierro nodular. 
+ 
+1.4 
+Preguntas de investigación 
+• ¿Cuáles son los factores a los que nos enfrentamos al producir 
+hierro nodular en cubilote? 
+• ¿Qué tipos de estándares de calidad tienen los clientes para 
+una buena producción de hierro nodular? 
+• ¿Como implementar técnicas adecuadas de fusión de hierro 
+nodular para la producción de hierro nodular? 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_16:
+ 
+ 
+11 
+ 
+1.5 
+Justificación 
+Esta investigación se encuentra en que, permitirá producir un 
+producto secundario con nuevos estándares de calidad con el fin de salir 
+de la banca rota y poder acceder a un nuevo crecimiento dentro de las 
+fundiciones de hierros dúctiles, así mismo, un aumento en la productividad 
+de la empresa (laboral y económicamente), ser más competitiva dentro de 
+la rama de la industria metalúrgica además de que brindara estabilidad 
+laboral para las personas que laboran ahí, brindándoles  un  trabajo 
+seguro, estable y  contribuir a la economía local. 
+ 
+De igual forma, proporcionará información que será útil para todas 
+aquellas empresas de la rama metalúrgica y talleres de fundición de 
+metales para mejorar o implementar nuevos productos y así mismo 
+incrementar la producción y ampliarse aún más al sector de clientes, 
+además de que los resultados obtenidos podrán ser contrastados con 
+otras investigaciones el mismo tópico, e incluso, servir como referente para 
+otros trabajos.  
+ 
+Por otra parte, la investigación contribuye a ampliar conocimientos 
+relacionados con la producción del hierro nodular en cubilote, así como 
+técnicas adecuadas de fusión de hierros en cubilote, el trabajo tiene una 
+utilidad metodológica, ya que podrían realizarse futuras investigaciones 
+que utilizaran metodologías compatibles, de manera que se posibilitaran 
+análisis conjuntos, comparaciones entre periodos temporales. La 
+investigación es viable, pues se dispone de los recursos necesarios para 
+llevarla a cabo.   
+ 
+ 
+ 
+
+==================================================
+page_17:
+ 
+ 
+12 
+ 
+2. CAPÍTULO II MARCO CONCEPTUAL Y TEÓRICO. 
+2.1 
+Marco conceptual 
+La producción es un proceso fundamental en la industria que 
+implica la fabricación y creación de bienes y servicios para satisfacer las 
+necesidades de los consumidores. La calidad, por su parte, es un factor 
+clave en la producción, ya que se refiere al grado de excelencia de los 
+productos y servicios que se ofrecen. 
+En la industria metalúrgica, el hierro fundido es uno de los materiales más 
+utilizados en la producción de piezas y componentes para maquinarias y 
+estructuras. Este material se divide en diferentes tipos según sus 
+características, como el hierro gris y el hierro nodular, que se diferencian 
+por su composición y propiedades mecánicas. 
+ 
+Para la producción de hierro fundido, se utiliza un horno llamado 
+cubilote, que es un recipiente en forma de cilindro donde se funde el hierro 
+y se vierte en moldes para su posterior utilización en la producción 
+industrial. La calidad del hierro fundido y el proceso de producción son 
+aspectos críticos para garantizar la confianza y durabilidad de los 
+productos fabricados. A continuación, se describirán más a detalle los 
+conceptos mencionados en el texto anterior. 
+ 
+2.1.1 Producción. 
+“La producción es la actividad económica que se encarga de 
+transformar los insumos para convertirlos en productos”]  (Quiroa, 
+2019).  
+ 
+También se podría decir que la producción es una actividad dirigida 
+a la satisfacción de las necesidades humanas, a través del procesamiento 
+de las materias primas, hasta generar productos o mercancías, que serán 
+intercambiadas dentro del mercado. 
+
+==================================================
+page_18:
+ 
+ 
+13 
+ 
+Otro concepto de definición de producción hace referencia a la acción de 
+generar (entendido como sinónimo de producir), al objeto producido, 
+al modo en que se llevó a cabo el proceso o a la suma de los productos del 
+suelo o de la industria. 
+ 
+El verbo producir, por su parte, se asocia con las ideas 
+de engendrar, procrear, criar, procurar, originar, ocasionar y fabricar. 
+Cuando se refiere a un terreno, en cambio, producir es una noción que 
+describe la situación de rendir fruto. Por otra parte, cuando esta palabra 
+se aplica a un elemento, adquiere el sentido de rentar o redituar interés. 
+En el campo de la economía, la producción está definida como 
+la creación y el procesamiento de bienes y mercancías. El proceso abarca 
+la concepción, el procesamiento y la financiación. La producción constituye 
+uno de los procesos económicos más importantes y es el medio a través 
+del cual el trabajo humano genera riqueza. (Pérez Porto, 2023). 
+ 
+Por otro lado, producción también se define como el conjunto de 
+procesos, procedimientos, métodos y técnicas que son necesarios para la 
+obtención de bienes o servicios mediante la aplicación sistemática de un 
+conjunto de decisiones que tienen como objetivo incrementar el valor de 
+los factores que intervienen en la creación de dichos bienes y servicios, de 
+forma que los mencionados productos satisfagan las necesidades sentidas 
+por los clientes.  (Dolores Tous Zamora, 2019). 
+ 
+2.1.2 Calidad  
+“Calidad: grado en el que un conjunto de características inherentes 
+cumple con los requisitos” (ISO 9000, 2015). 
+ 
+El termino de calidad puede ser definido de diferentes perspectivas, 
+si hablamos de la perspectiva del usuario nos referimos a la capacidad de 
+
+==================================================
+page_19:
+ 
+ 
+14 
+ 
+satisfacer los deseos de los consumidores. Si se define desde la 
+perspectiva de un producto se dice que: La calidad de un producto o 
+servicio es la percepción que el cliente tiene del mismo. Es una fijación 
+mental del consumidor que asume conformidad con un producto o servicio 
+determinado, que solo permanece hasta el punto de necesitar nuevas 
+especificaciones. La calidad es un conjunto de propiedades inherentes a 
+un objeto que le confieren capacidad para satisfacer necesidades 
+implícitas o explícitas. Por otra parte, si la definidos por la perspectiva de 
+la producción define que es la conformidad relativa con las 
+especificaciones, a lo que al grado en que un producto cumple las 
+especificaciones del diseño. (Ródenas, 2011). 
+ 
+La calidad también puede referirse a la conformidad con los 
+estándares y específicas, así como a la mejora continua de los procesos y 
+productos. En este sentido, la calidad no es un evento aislado, sino un 
+proceso continuo de mejora que requiere un enfoque sistemático y una 
+cultura organizacional centrada en la excelencia. Dicho esto entonces 
+podemos decir que la calidad se refiere a la medida en que un producto, 
+servicio o proceso cumple con los requisitos y expectativas de los clientes 
+o usuarios, además se considera que la calidad es un factor clave en la 
+satisfacción del cliente y en la capacidad de una empresa para mantener 
+una ventaja competitiva, las empresas que tienen una reputación de alta 
+calidad suelen tener una mayor lealtad de los clientes, una mejor imagen 
+de marca y una mayor capacidad para atraer y retener a los empleados 
+talentosos. 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_20:
+ 
+ 
+15 
+ 
+2.1.3 Hierro fundido  
+El término hierro fundido se refiere a una familia de aleaciones 
+ferrosas 
+compuestas 
+de 
+hierro, 
+carbono 
+(desde 
+2.11% 
+hasta 
+aproximadamente 4.5%) y silicio (hasta aproximadamente 3.5%). 
+ 
+“En ingeniería de materiales, los hierros fundidos son una clase de 
+aleaciones ferrosas con contenidos de carbono superiores al 2,14% en 
+peso. La diferencia es que los hierros fundidos pueden aprovechar la 
+solidificación eutéctica en el sistema binario de hierro y carbono, por lo 
+tanto, los hierros fundidos son un material ideal para la fundición en 
+arena en formas complejas”  (William D. Callister, 2016). 
+ 
+Normalmente, los hierros colados (Hierros fundidos) contienen 
+de 2,14% en peso a 4,0% en peso de carbono y en cualquier lugar de 0,5% 
+en peso a 3% en peso de silicio. Las aleaciones de hierro con menor 
+contenido de carbono se conocen como acero. La diferencia es que los 
+hierros fundidos pueden aprovechar la solidificación eutéctica en el 
+sistema binario hierro-carbono. El término eutéctico es griego para “fusión 
+fácil o bien “, y el punto eutéctico representa la composición en el diagrama 
+de fases donde se alcanza la temperatura de fusión más baja. Para el 
+sistema hierro-carbono el punto eutéctico se produce a una composición 
+de 4,26% en peso de C y una temperatura de 1148°C. (Departamento de 
+Energia de EE . UU, 1993). 
+ 
+2.1.4 Hierro gris  
+El hierro fundido gris, también conocido como hierro gris o hierro 
+maleable, es un tipo de hierro fundido que tiene una apariencia grisácea 
+debido a su alto contenido de carbono y su estructura cristalina en forma 
+de laminillas. La estructura del hierro fundido gris está formada por una 
+matriz de grafito laminar o en escamas, dispersa en una matriz de hierro y 
+otros elementos. Esta estructura le produjo al hierro fundido gris una serie 
+
+==================================================
+page_21:
+ 
+ 
+16 
+ 
+de propiedades mecánicas y físicas, como buena resistencia a la 
+compresión, 
+buena 
+capacidad 
+de 
+absorción 
+de 
+vibraciones 
+y 
+amortiguación, y buena resistencia a la abrasión y al desgaste. (Metalium, 
+2014). 
+ 
+El grafito existe principalmente en forma de hojuelas (laminillas). Se 
+le llama hierro fundido gris o hierro gris, debido a que, cuando se le rompe, 
+la trayectoria de la fractura ocurre a lo largo de las hojuelas de grafito y 
+tiene, por tanto, una apariencia gris y de color del hollín. Estás hojuelas 
+actúan como elemento de esfuerzo. Como resultado, el hierro gris tiene 
+una ductilidad insignificante, y como otros materiales frágiles, es débil a la 
+tensión, aunque resistente a la compresión. 
+ 
+Por otra parte, la presencia de hojuelas de grafito le da a este material la 
+capacidad de amortiguar vibraciones causadas por fricción interna y, en 
+consecuencia, capacidad de disparar energía. Esta capacidad hace del 
+hierro fundido gris adecuado y de uso común como material para construir 
+bastidores y estructuras de máquinas herramientas. (Serope Kalpakjian, 
+2009). 
+ 
+2.1.5 Hierro nodular. 
+También conocido como hierro dúctil, es un tipo de hierro fundido 
+que ha sido tratado con magnesio u otros elementos químicos para 
+cambiar su estructura y hacerlo más flexible, resistente y maleable que el 
+hierro fundido convencional. La estructura del hierro nodular se caracteriza 
+por la presencia de nódulos o esferoides de grafito en su matriz metálica, 
+en lugar de la estructura laminar o en escamas que se encuentra en el 
+hierro fundido gris convencional. Esta estructura única le soporta al hierro 
+nodular una serie de propiedades mecánicas y físicas superiores, como 
+alta resistencia, ductilidad, tenacidad, resistencia a la fatiga y resistencia a 
+la corrosión. (Corporativo Mejorada., 2019). 
+
+==================================================
+page_22:
+ 
+ 
+17 
+ 
+ 
+Para producir la estructura nodular el hierro fundido que sale del horno se 
+inocula con una pequeña cantidad de materiales como magnesio, cerio, o 
+ambos. Esta microestructura produce propiedades deseables como alta 
+ductilidad, resistencia, buen maquinado, buena fluidez para la colada, 
+buen endurecimiento y tenacidad. (Reliance Foundry, 2023).  
+ 
+El hierro nodular se utiliza en una amplia variedad de aplicaciones, desde 
+piezas de maquinaria pesada hasta componentes de automóviles, tuberías 
+y accesorios de fontanería, debido a sus propiedades mecánicas y físicas 
+superiores. 
+ 
+2.1.6 Cubilote. 
+El diccionario lo define como horno cilíndrico vertical para fundir 
+lingotes de hierro gris. La Enciclopedia Británica afirma que René-Antoine 
+Ferchault de Réaumur construyó el primer horno cubilote en Francia 
+alrededor de 1720.  (Insertec, 2016). 
+ 
+Es un tipo de horno cilíndrico vertical de aproximadamente 6 metros de 
+alto, el cual lleva a los metales en él colocados, hasta el estado líquido y 
+permite su colado, el mismo puede ser utilizado para la fabricación de casi 
+todas las aleaciones de Hierro. 
+ 
+Su nombre proviene de la palabra cupa que significa cuba; es un 
+horno cilíndrico compuesto de una capa exterior de acero y una capa 
+interior de ladrillos. Los mismos pueden variar en su tamaño desde sólo 
+30 cm de diámetro hasta más de 3 metros. El Cubilote, sigue siendo el 
+proceso de fusión más económico si el horno funciona continuamente. Es 
+el único horno de fusión secundaria, no siderúrgico, que tiene al metal y al 
+combustible en contacto directo por lo que logra altos grados de eficiencia 
+térmica; usando coque de carbón, carbón mineral y carbón vegetal. El 
+
+==================================================
+page_23:
+ 
+ 
+18 
+ 
+cubilote descansa sobre una placa circular que es soportada arriba del 
+piso mediante cuatro columnas separadas convenientemente para que las 
+puertas abisagradas puedan caer libremente. Estando en operación, estas 
+puertas se giran hasta una posición horizontal y se mantienen en su lugar 
+por medio de una estaca vertical.  
+ 
+La puerta de carga está localizada más o menos a la mitad de la 
+cubierta vertical y la parte superior del cubilote queda abierta, a excepción 
+de una pantalla de metal o para chispas. Las aberturas para introducir el 
+aire a la cama de coque se conocen como toberas. Alrededor del cubilote 
+y en la zona de las toberas, se encuentra una caja, para el suministro del 
+aire, opuestas a cada tobera se encuentran unas pequeñas ventanas 
+cubiertas con mica de tal forma que puedan inspeccionarse las 
+condiciones dentro del cubilote. El aire, suministrado por un ventilador 
+centrífugo entra por un lado de la caja. Opuesto al vertedero de colada, se 
+encuentra otro vertedor para la escoria, en la parte de atrás del cubilote. 
+Esta abertura está colocada debajo de las toberas para evitar un posible 
+enfriamiento de la escoria, provocado por la corriente de aire. (Edoardo, 
+1974). 
+ 
+2.2 
+Marco teórico 
+El objetivo primordial de la fabricación de fundición nodular es la 
+formación de grafito esferoidal mediante la adición de cantidades 
+pequeñas de magnesio bien puro o combinado con otros elementos. La 
+cantidad mínima de magnesio retenido necesaria para producir un grafito 
+esencialmente nodular oscila entre 0.018 y 0.050; viene determinada por 
+los contenidos de azufre y oxígeno de hierro base. Para conseguir la 
+cristalización de grafito en forma esferoidal, la fundición líquida debe ser 
+sometida a un tratamiento en la cual consiste añadir a la fundición líquida 
+
+==================================================
+page_24:
+ 
+ 
+19 
+ 
+por los procedimientos que se consideran más adelante una aleación que 
+contenga un elemento esferoidizante. 
+ 
+El número de estos elementos es bastante limitado y, 
+principalmente, son el Mg, Ca, Ba, Ce, Sr. Aleado el magnesio con metales 
+pesados como Fe, Ni, Cu, o Si, la presión de vapor puede reducirse 
+considerablemente, pero la reacción con la fundición será todavía violenta 
+si la proporción de magnesio en la alineación es superior al 50%, sólo se 
+evita el peligro con proporciones de magnesio inferiores al 25%. El punto 
+de ebullición del magnesio puro se sitúa aproximadamente entre 1100 y 
+1500° C temperatura normal del tratamiento de fundición líquida 
+alcanzando la presión de vapor del magnesio las 10 atmósferas. por ello 
+la adición del magnesio a la fundición líquida provoca una vaporización 
+explosiva que implica peligrosas proyecciones de metal líquido. El 
+magnesio no puede por tanto utilizarse en estado metálico puro excepto si 
+se les recurre a técnicas especiales de adicción. 
+ 
+Las aleaciones de tipo Fe, Si, Ca y Mg con 20% a 30% de Ca 
+apenas se utilizan actualmente por ser demasiado ligeras y de reactividad 
+muy débil. Además, se desintegran lentamente por oxidación atmosférica. 
+Hay algunas aleaciones que contienen cerio y otros elementos de las 
+tierras raras que se emplean para compensar o anular la influencia de 
+otros elementos perniciosos. La cantidad de aleación que debe 
+adicionarse a la fundición líquida para obtener el grafito esferoidal depende 
+de varios factores, entre los que desempeña un papel preponderante el 
+contenido de azufre, ya que el magnesio presenta mayor afinidad con el 
+azufre que el hierro o manganeso. Por ello, cierta cantidad de magnesio 
+adicionado al baño será consumida por la desvalorización con la formación 
+de magnesio y azufre. Durante esta reacción una unidad de azufre se 
+combina con 3/4 de unidades de magnesio.  
+ 
+
+==================================================
+page_25:
+ 
+ 
+20 
+ 
+Se ha comprobado experimentalmente que la esferoidización 
+perfecta requiere la presencia de la fundición de cierta cantidad de 
+magnesio residual, según las circunstancias oscilará entre 0.03% y 0.06%. 
+Por otra parte, el rendimiento del magnesio no es del 100% sino que 
+depende de la temperatura de la fundición del proceso del tratamiento 
+empleado y del contenido de magnesio de la aleación. 
+ 
+2.2.1 Fabricación de hierro nodular.  
+La fabricación de hierro nodular es un tipo determinado comprende 
+entre otros, la elección de: 
+• Los materiales de carga 
+• El desulfurante y método de desulfuración (si es necesario) 
+• La cantidad de material esferoidizante 
+• El método de tratamiento 
+• La cantidad de inoculante 
+• El método de inoculación 
+• El método de control del proceso de fabricación del hierro 
+nodular. 
+2.2.1.1. Materiales de caga. 
+Las materias primas requeridas para la fabricación de hierro base, 
+para obtener el hierro nodular perlítico ferrítico, pertenecen a un grupo 
+especial de materiales de carga y algunos de ellos no se utilizan en la 
+fabricación de hierro gris o inoculado.  
+Normalmente en la fabricación de hierro nodular perlítico se utiliza. 
+• Hierro nodular de retorno; 
+• Arrabio Especial de bajo fosforo; 
+• Briquetas de carburo de silicio; 
+• Carburo de silicio granulado; 
+• Trozos de ferro-silicio al 50%; 
+
+==================================================
+page_26:
+ 
+ 
+21 
+ 
+• Placa cortada y chatarra de acero estructural; 
+En el caso de la fabricación de hierro nodular férrico, que utiliza la 
+mayoría de estas materias primas, con la diferencia de que en lugar de 
+arrabio de bajo fósforo se utiliza arrabio con menores cantidades de 
+fósforo y manganeso, en lugar de placa cortada y chatarra de acero 
+estructural, se usa chatarra de lámina de acero 
+ 
+Hierro nodular de retorno. Normalmente el rendimiento total del 
+hierro nodular es de orden de 40-60%, siendo este rendimiento menor que 
+el hierro gris. Debido a esto, en la carga el hierro lugar de retorno (Sistema 
+de colada, alimentadores y piezas defectuosas de las fundiciones 
+anteriores), se utilizan alrededor del 50%. Es muy importante, que el hierro 
+nodular de retorno no se mezcle con otros tipos de fundición en el almacén 
+de materias primas, por lo tanto, debe ser clasificado y fácil de identificar, 
+ya que en caso contrario puede producir fundiciones defectuosas o fuera 
+de las especificaciones requeridas por el cliente. (Fras, Serrano Toledo, & 
+Bustos Acalá, Fundiciones de hierro , 1990) 
+ 
+Arrabio de bajo fósforo y manganeso. Uno de los factores más 
+importantes en la fabricación de hierro nodular de alta calidad, es la 
+disminución del contenido de elementos que favorecen la formación de 
+grafito laminar y de carburos. Para reducir el contenido de estos 
+elementos, mediante disolución, frecuentemente se utiliza en la carga el 
+15% al 30% de arrabio con bajo contenido de fósforo y manganeso 
+adicionalmente el uso de este arrabio posibilita la reducción de fósforo, 
+silicio y manganeso a niveles recomendables. 
+Soremetal. Este material de carga se caracteriza especialmente 
+por los bajos contenidos de elementos que se encuentran en el hierro (con 
+excepción del carbono). el papel que juega la utilización del sobre metal al 
+principio es similar a la utilización de arrabio de bajo fósforo y manganeso 
+es decir reduce el contenido de fósforo manganeso y elementos dañinos. 
+
+==================================================
+page_27:
+ 
+ 
+22 
+ 
+ 
+Adiciones de carbono. En ocasiones el hierro base se fabrica en 
+hornos eléctricos a partir de chatarra de acero en el cual es necesario 
+carbonizar el baño para alcanzar un nivel de carbono requerido. Como 
+carburizante se recomienda utilizar materiales de bajo contenido de azufre 
+y cenizas, tales como; grafito sintético, electrodos de grafito, coque de 
+petróleo con bajo contenido de azufre o grafito natural mexicano. 
+ 
+Briquetas de carburo de silicio y carburo de silicio granulado. 
+Estos materiales son la fuente de silicio y carburo durante la fusión de la 
+carga en cubilote y hornos eléctricos. Además, actúan como gérmenes de 
+grafito y aumenta el número de granos eutécticos. El carburo de silicio 
+reduce la tendencia a la formación de cementita en los hierros aumenta la 
+elongación y reduce en forma pronunciada la dureza de las piezas 
+coladas. Las briquetas de carburo de silicio se utilizan en las cargas de los 
+cubilotes en cantidades de uno a 2%. En el mercado se venden 2 tipos de 
+estas briquetas que contienen 65% y 75% de carburo de silicio. El carburo 
+de silicio granulado cumple el mismo papel que las briquetas y es utilizado 
+en la carga a fundir en hornos eléctricos de diferentes tipos. 
+ 
+Trozos de ferro-silicio al 50%. Esta aleación (47-51% Si, 0.1% C, 
+0.025% S, 0.035% P, 1.2% Al, y 0.75% Mn) es aprovechada como una 
+fuente de silicio durante la fusión del hierro base en hornos eléctricos.  
+Placa cortada y chatarra de acero estructural. La fracción de 
+perlita en las piezas fundidas depende entre otros del nivel de manganeso 
+en la fundición. Debido a esto en la fabricación de hierro nodular perlico, 
+el tipo 80-55-06 y el 100-70-03, una fuente de manganeso en la carga 
+puede ser chatarra de acero estructural que contiene 0.5-0.7% de Mn. 
+Además, utilizando este acero el rendimiento del manganeso es mayor y 
+los costos son menores, que si utilizamos ferro manganeso. 
+ 
+
+==================================================
+page_28:
+ 
+ 
+23 
+ 
+Chatarra de lámina de acero. En el caso de la fabricación de hierro 
+nodular con bajos contenidos de manganeso (normalmente 0.15 0.25%), 
+se recomienda utilizar chatarra de lámina de acero que contiene 0.20 a 
+0.35% en manganeso. Utilizando esta combinación con el arrabio de bajo 
+fósforo y manganeso se puede producir nodular de la clase 60-40-18 y 65-
+45-12. 
+ 
+2.2.1.2. Desulfuración de la fundición.  
+Materiales desulfurantes. Los elementos esferoidezantes tienen 
+una propiedad característica a saber, gran afinidad química por el azufre, 
+por lo tanto, estos elementos después de introducirlos en el baño causan 
+entre otras cosas la desulfuración hasta un nivel menor a 0.02% S, lo que 
+sirve como hierro base para obtener el hierro con grafito nodular. Sin 
+embargo, cuando el contenido de azufre en la fundición sobrepasa en la 
+práctica el valor de 0.05% los costos de desulfuración mediante materiales 
+esferoidezantes son mayores que si hubiéramos usado desulfurantes más 
+baratos y eficientes como, por ejemplo, CaO, Na2CO3 y CaC2. Cuando se 
+usan cubilotes de recubrimiento ha sido el contenido de azufre en las 
+fundiciones de 0.07-0.12% lo cual implica realizar un tratamiento de 
+desulfuración posterior fuera del cubilote. 
+ 
+Desulfuración mediante sosa Na2CO3 (Carbonato de Calcio). La 
+sosa se introduce a la olla una vez que existe una pequeña cantidad de 
+metal líquido en la misma, procediendo enseguida al llenado total de la 
+olla, después se espera hasta que la llama amarilla desaparezca de la 
+superficie del metal líquido y luego la escoria se desinfecta durante la 
+edición de la piedra caliza en polvo en la cantidad de 50 a 60% con 
+respecto a la sosa consumida. el grado de desulfuración que se alcanza 
+cuando se consume aproximadamente 1% sosa del peso total del metal 
+líquido normalmente es de 30 a 50%. 
+ 
+
+==================================================
+page_29:
+ 
+ 
+24 
+ 
+Desulfuración mediante compuestos de Calcio. La reacción de 
+desulfuración de la fundición de carburo de calcio es exotérmica.  Por esto, 
+la fundición se puede sulfurar eficazmente a temperaturas relativamente 
+bajas. La granulometría del carburo de calcio utilizado en este proceso es 
+de 0.3 a 3 mm. Otros compuestos de calcio pueden ser usados para la 
+desulfuración de la fundición son la cal CaO y el cianuro (cianamida) de 
+calcio CaCN2, sin embargo, la eficiencia de desulfuración de la fundición 
+mediante CaO es menor a la del uso de Ca2C. Además, la reacción de 
+desulfuración es endotérmica por lo que las caídas de temperatura son 
+mayores a temperaturas altas, es decir, mayores que el 1400° C, el 
+material más efectivo es CaCN2, el cual se disocia en calcio, carbono y 
+nitrógeno atómico. El calcio se une con el azufre y forma CaS, quien flota 
+a la escoria. 
+ 
+2.2.1.3. Materiales esferoidizantes.  
+Los esferoidizantes más comunes en la práctica industrial son: el 
+magnesio, el cerio, y las aleaciones de estos elementos. 
+Magnesio. El uso de magnesio es más económico, pero existen 
+problemas en la tecnología desde su adicción al hierro líquido. El 
+magnesio es muy volátil, su punto de evaporación es bajo (1107° C) por lo 
+que a la temperatura de la fabricación de las fundiciones la presión de los 
+vapores del magnesio es alta. Su densidad es cuatro veces menor que la 
+del hierro y fácilmente flota en la superficie donde se quema con intensos 
+desprendimientos de luz y calor acompañado de chispas luminosas lo que 
+en lo sucesivo llamaremos fenómenos pirotécnicos. El magnesio se usa 
+en diferentes formas que depende de la tecnología de esferoidización. El 
+interés de estas tecnologías es asegurar, que las pérdidas de magnesio 
+sean pequeñas y disminuir la velocidad de la reacción en el baño. Durante 
+la fabricación del hierro nodular se usa Mg puro en la forma siguiente. 
+• Gránulos o polvo introducidos por el método de inyección 
+mediante lanza. 
+
+==================================================
+page_30:
+ 
+ 
+25 
+ 
+• Lingotes usados en equipo especial, ollas de alta presión o en 
+ollas basculantes. 
+• Lingotes cubiertos de materiales aislantes los cuales se 
+introducen en el método de inmersión MAP; estos lingotes 
+fueron desarrollados por Pont-a Mousson. 
+• varillas usadas en ollas JPK. 
+• Briquetas de coque con magnesio elaboradas por Foseco. El 
+coque llamado Mag-coke que contiene de 43 a 45 % de Mg y es 
+un producto comercial de diferentes tamaños 
+• Briquetas llamadas De Flake; este producto es una muestra 
+porosa de acero con magnesio con un 20-25% Mg. 
+•  
+Magnesio puro (pureza comercial). Frecuentemente se aplica por 
+métodos de inmersión, lo cual minimiza la introducción al baño de otros 
+elementos, además el magnesio es más barato. Una desventaja de esto 
+es el peligro laboral en el uso de esta tecnología, o la necesidad de uso de 
+equipo adicional costoso. Por lo tanto, muy frecuentemente en lugar de Mg 
+se usan sus aleaciones. 
+ 
+Aleaciones de magnesio. La ventaja del uso de las aleaciones de 
+magnesio en comparación con el magnesio puro radica en que la 
+introducción del esferoidizante, al metal líquido, ocurre de manera menos 
+intensa. Así, a medida que disminuye el contenido de magnesio en su 
+aleación, disminuye también la intensidad de los efectos pirotécnicos. 
+También las pérdidas de magnesio disminuyen, con esto aumenta la 
+eficiencia del proceso referido a la unidad de magnesio. Por otro lado, una 
+desventaja es la gran disminución de la temperatura del baño durante la 
+operación de esferoide ización por el uso de aleaciones. en este caso 
+también se introduce diferentes elementos presentes en la aleación, los 
+cuales frecuentemente no son deseables en el hierro. las selecciones de 
+
+==================================================
+page_31:
+ 
+ 
+26 
+ 
+mayor importancia industrial son: Mg-Ni, Mg-Si, y algunas veces se usan 
+aleaciones con cobre. 
+ 
+Aleaciones base níquel. Las aleaciones Mg-Ni son las más 
+antiguas en cuanto a uso en el proceso de esferoidización del hierro. Se 
+comportan mejor en el baño, son de fácil operación y ofrecen un mayor 
+aprovechamiento del magnesio. Las aleaciones tipo Incomag, tienen 
+mayor densidad en comparación con el hierro líquido, siendo esta 
+propiedad muy importante en la práctica porque permite sumergir la 
+aleación directamente en el baño. Por lo tanto, la tecnología del proceso 
+de esferoidización es simple y el aprovechamiento del magnesio es grande 
+(aproximadamente del 60-90%). en el caso de la aleación Incomag 1 y 2, 
+el aprovechamiento del magnesio puede alcanzar 90%. Su desventaja es 
+el alto costo, el cual aumenta con el contenido de níquel. La aleación que 
+contiene 30% Mg es más barata, pero su utilización exige un equipo 
+especial de inmersión. 
+Aleaciones a base de ferro-silicio. Se desarrolló este tipo de 
+acciones para bajar el costo del níquel. Estas aleaciones difieren en el 
+contenido de Mg, Ca, Ce y Al se distinguen principalmente tres grupos 
+(tabla 1). 
+El primer grupo denominado 3 tiene un contenido por medio de 
+magnesio de 2% a 3%. Se recomienda su aplicación en el caso del método 
+sándwich. Este es esferoidizante presenta menos efectos pirotécnicos, 
+debido al poco contenido de Mg, y siendo una condición para su 
+aplicación, el contenido de azufre no sobrepase 0.02% S. Por el contrario, 
+a mayor cantidad de azufre, aumenta el consumo y la cantidad de silicio 
+introducida al hierro. La aleación tipo Noduloy 3R contiene mayor cantidad 
+de cerio y las tierras raras lo cual elimina su introducción posterior en el 
+baño. 
+ 
+
+==================================================
+page_32:
+ 
+ 
+27 
+ 
+El segundo grupo denominado “5” contiene cerca del 5% de Mg y 
+está destinado principalmente para la obtención de hierro nodular por el 
+método sándwich. El aprovechamiento del magnesio con estas aleaciones 
+resulta ser de 55%. el nivel de azufre admisible en el hierro es un poco 
+más alto del orden de 0.03% S. 
+ 
+El tercer grupo de aleaciones denominado “9” contiene alrededor 
+de 9% Mg y es utilizado en el método sándwich y por inmersión. el 
+contenido admisible inicial de azufre en la fundición puede ser de 0.05%. 
+ 
+Aleaciones a base de ferro-silicio. 
+ 
+Tabla1. Grupos de esferoidizantes y composición química. Obtenido de  
+(Aleaciones a base de ferro-silicio, 1990) 
+Cerio y sus aleaciones. El cerio es el segundo esferoidizante 
+después del magnesio. En comparación con el magnesio, el serio tiene 
+mayor densidad 6.8% g/cm3, mayor punto de fusión (795° C) y muy alto 
+punto de evaporación (3468° C). Estas propiedades fisicoquímicas causan 
+que durante la inmersión del serio al baño no existen efectos pirotécnicos, 
+
+==================================================
+page_33:
+ 
+ 
+28 
+ 
+lo que facilita el proceso de expedición.  Por supuesto que la aplicación del 
+cerio puro no es económica y por esto se utilizan aleaciones tipo: 
+Michmetal, ferro-silicio con adición de cerio, etc. (tabla 2) 
+ 
+El principal interés en la utilización de las aleaciones de cerio es la 
+neutralización de los esferoidizantes, tales como: plomo, antimonio, 
+bismuto, arsénico, aluminio y titanio. Estos elementos reaccionan en el 
+cerio, los productos de reacción son estables e impiden la formación de 
+grafito laminar. Por otro lado, el cerio es un esferoidizante más débil, en 
+comparación con el magnesio, por lo que industrialmente se usan las 
+aleaciones de cerio juntamente con las aleaciones de magnesio en una 
+relación de alrededor de 1:1. Esta tecnología tiene las siguientes ventajas: 
+disminuye las limitaciones sobre la cantidad de antiesferoidizantes y 
+disminuye los efectos pirotécnicos. Las desventajas de esta técnica 
+estriban en los altos costos de las aleaciones de serio y la dificultad de su 
+análisis químico cuantitativo. 
+ 
+Tabla 2. Esferoidizantes con Cerio. Obtenido de (Fras, Serrano Toledo, & Bustos 
+Acalá, Cerio y sus aleaciones, 1990). 
+ 
+Aleaciones a base de cobre. Estas elecciones se usan raramente 
+en la industria. estas contienen 10% Mg y 90% Cu o 20% Mg y 80% Cu. 
+Al igual que las aleaciones de níquel, estas aleaciones tienen también 
+mayor densidad que el hierro líquido y se hunden en el baño. Por esto, La 
+
+==================================================
+page_34:
+ 
+ 
+29 
+ 
+operación con estas elecciones es simple y no existe el uso de equipo 
+especial. debido al hecho de que el cobre tiene la habilidad para promover 
+la formación de perlita, entonces sus selecciones se usan solamente 
+durante la fabricación de hierro nodular con una matriz perlica, ya que es 
+muy difícil obtener el hierro nodular con una matriz ferrítica. conclusiones 
+similares se obtienen con otras aleaciones a base de cobre, por ejemplo 
+40% Si, 15% Cu 12% Mg, 33% Fe (Fras, Serranos, & Bustos, 1990). 
+ 
+Cálculo de la cantidad de esferoidezante. Controlar la cantidad 
+de magnesio durante la producción de hierro nodular es importante ya que 
+el magnesio es un desoxidante y desulfurate muy importante, una parte 
+del magnesio introducido en el baño se consume, ya que se forma MgO 
+(óxido de magnesio) y MgS (sulfuro de magnesio). El magnesio agregado 
+al baño (Mga) puede separarse en cuatro partes: 
+• Mge: cantidad en por ciento de magnesio perdido por 
+evaporización 
+• Mgs, Mgo: cantidad en por ciento de magnesio perdido por la 
+formación de Mgs y Mgo respectivamente. 
+• Mg: cantidad en por ciento de magnesio que permanece en el 
+baño. 
+Las pérdidas de MgO son relativamente pequeñas, y por lo tanto 
+puede decirse que la cantidad de magnesio agregado al baño es un total 
+de tres partes únicamente. 
+𝑴𝒈𝒂 = 𝑴𝒈𝒔 + 𝑴𝒈𝒆 + 𝑴𝒈 [%] 
+ 
+2.2.1.4. Métodos de esferoidización de la fundición. 
+La adición de agentes esferoidizantes al hierro fundido es un paso 
+importante en la producción de hierro nodular. El magnesio y sus 
+
+==================================================
+page_35:
+ 
+ 
+30 
+ 
+aleaciones poseen bajas temperaturas de vaporización, de ahí que su 
+adición en el hierro fundido deba de hacerse con extremo cuidado. 
+ 
+Método de vaciado directo. Este método de tratamiento 
+(Ilustración 1) es el más simple que se utiliza, mediante el mismo la 
+cantidad requerida de la aleación esferoidizante se coloca en el fondo de 
+una olla abierta calentada lo más rápido posible previamente, a la cual se 
+le agrega una cantidad de hierro base a la temperatura de tratamiento. La 
+eficiencia del elemento esferoidizante en este método varía de entre 20 a 
+25% dependiendo dicha eficiencia de factores, en donde algunos son 
+inherentes al propio magnesio, ya que tiene una temperatura de 
+vaporización baja, y una solubilidad en el hierro pequeña. Por estas 
+razones, es deseable un baño profundo, para prolongar el contacto entre 
+el hierro y el magnesio se incrementa el uso del elemento esferoidizante. 
+Por lo tanto, la profundidad de la olla de deberá ser de 2 a 3 veces el 
+diámetro y el metal deberá ser vaciado en la olla tan rápido como sea 
+posible. También, por razones similares, mediante este método, 
+aleaciones esferoidizantes más densas producen mejores recuperaciones 
+que aleaciones ligeras. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_36:
+ 
+ 
+31 
+ 
+Método de vaciado directo. 
+ 
+ 
+Ilustracion 1. Olla para método de vaciado directo. Tomado de (Fundiciones de 
+hierro, 1990) 
+ 
+ 
+
+==================================================
+page_37:
+ 
+ 
+32 
+ 
+El método del sándwich. La popularidad del método anterior 
+condujo a una mejor técnica de tratamiento conocida como el método 
+Sándwich (Ilustración 2). La configuración de la cuchara permanece en la 
+forma similar al caso anterior excepto que el fondo de la cuchara tiene una 
+depresión o desnivel para retener la aleación de tratamiento. El término 
+sándwich se basa en el hecho, de que un material de recubrimiento o 
+capas sándwich, se adiciona encima de la aleación esferoidizante antes 
+de la adición de hierro fundido, para retardar el comienzo de la reacción. 
+Este material generalmente es de pedantería de acero o placa en una 
+proporción entre el 1-2% del peso total del baño. Además de la reacción 
+retardante, el material de recubrimiento enfría el metal en la vecindad 
+inmediata de la reacción del magnesio; y la recuperación de magnesio se 
+incrementa cuando la temperatura disminuye. Del 50 al 75% de ferro silicio 
+son utilizados como material de recubrimiento para mejorar la 
+recuperación de magnesio y al mismo tiempo inocular e incrementar el 
+contenido de silicio en el hierro hasta el nivel deseado. La recuperación de 
+magnesio mejora sustancialmente con el tratamiento sándwich y puede 
+llegar hasta 40 a 45%. Las ventajas son: tiempos de tratamiento más 
+cortos, simplicidad, flexibilidad, alta recuperación de magnesio con menos 
+escoria, humos, etc. La desventaja estriba en pérdidas ligeramente 
+mayores debido al calentamiento adicional requerido para fundir de 1-2% 
+del material de recubrimiento de acero.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_38:
+ 
+ 
+33 
+ 
+Método del sándwich  
+Ilustración 2. Olla para método sándwich. Tomado de. (Fundiciones de hierro, 
+1990) 
+ 
+
+==================================================
+page_39:
+ 
+ 
+34 
+ 
+Método Trigger. Fue desarrollado por International Mechanite 
+Metal Company. En el método Trigger (Ilustración 3) se usa una olla en 
+cuyo fondo se encuentra una cavidad para alojar el esferoidizante que 
+contiene 5% de Mg. Este esferoidizante se cubre con una capa de carburo 
+de calcio CaC2 con una granulometría de 0.3 a 0.7 mm, después de llenar 
+la olla el CaC2 se funde parcialmente formando una cáscara de escoria, la 
+cual, en determinado momento se perfora con una barra de acero. 
+Después de la perforación comienza lentamente la reacción entre la 
+esferoidizante y el hierro. En Checoslovaquia se usa en lugar de CaC2 el 
+silicato de aluminio de granulometría de 1-30 mm la cual depende del 
+tamaño de la olla. 
+ 
+Método Trigger. 
+ 
+Ilustración 3. Olla para Método Trigger. (Fundiciones de hierro, 1990) 
+ 
+
+==================================================
+page_40:
+ 
+ 
+35 
+ 
+Método Tundish-Cover. Es una nueva modificación del método 
+sándwich, descrita por primera vez por Forrest R. y Wolfenberger. El 
+principio sobre el que se basa este método es el hecho de limitar la 
+cantidad de aire (oxígeno) disponible, mientras ocurre la reacción líquido-
+esferoidizante ya que la olla es parcialmente cerrada por medio de una 
+tapa en la parte superior de ésta (Ilustración 4,5,6,7 y 8). El metal base se 
+vacía en un recipiente que contiene esta etapa y a través de un orificio de 
+llenado se dirige al fondo de la olla por el extremo opuesto al lugar donde 
+se encuentra el esferoidizante. El método tu Tundish-Cover se divide en 2 
+grupos básicos con diferentes modificaciones (tabla 3) . 
+ 
+Tabla 3. Método Tundish-Cover. Ollas de tapa móvil y tapa fija. Tomado de 
+(Fundiciones de hierro, 1990).  
+ 
+ 
+ 
+ 
+
+==================================================
+page_41:
+ 
+ 
+36 
+ 
+Método Tundish-Cover.  
+Diferentes construcciones de olla Tundish-Cover.  
+ 
+Ilustración 4. Olla Tundish-Cover tradicional. Tomado de (Fundiciones de hierro, 
+1990).  
+ 
+ 
+Ilustración 5. Olla tipo Mixto Top. Tomado de (Fundiciones de hierro, 1990).  
+ 
+ 
+
+==================================================
+page_42:
+ 
+ 
+37 
+ 
+Método Tundish-Cover.  
+ 
+Ilustración 6. Olla tipo UPO. Tomado de (Fundiciones de hierro, 1990). 
+ 
+ 
+Ilustración 7. Olla tipo Teapod. Tomado de (Fundiciones de hierro, 1990). 
+ 
+ 
+ 
+
+==================================================
+page_43:
+ 
+ 
+38 
+ 
+Método Tundish-Cover. 
+ 
+Ilustración 8. Olla tipo Teapot con doble pico. Tomado de (Fundiciones de hierro, 
+1990). 
+ 
+Este tipo de ollas se recomienda para las pequeñas y medianas 
+fundiciones, asegurando los siguientes beneficios: 
+• Disminuye la generación de óxidos de Mg y el que se produce 
+normalmente se deposita en la parte superior de la tapa de la 
+olla. Además, la cantidad de humo que sale de la misma es 
+mínima. 
+• Al reducirse la cantidad de Mg que se combina con el O2 del 
+aire, lo cual aumenta el coeficiente de recuperación de 
+
+==================================================
+page_44:
+ 
+ 
+39 
+ 
+magnesio (a 60%), se aprecia una notable ventaja económica 
+comparada con los métodos de la olla abierta y Sándwich. 
+• Desaparece por completo los relámpagos y las explosiones con 
+proyección de partículas. 
+• Los costos de fabricación de hierro nodular son bajos en 
+comparación con los métodos de olla abierta y Sándwich 
+tradicional. 
+Método de inmersión. Entre otras cosas el grado de avance de la 
+reacción entre el hierro fundido y la aleación esferoidizante, determina la 
+eficiencia del proceso de tratamiento individual. Los métodos descritos 
+anteriormente son bastante efectivos, pero en algunos casos la técnica de 
+inmersión es superior. Un refractario en forma de campana que contiene 
+el material esferoidizante, se sumerge profundamente dentro de la olla de 
+hierro. Esta inmersión y mantenimiento del material por debajo de la 
+superficie del hierro evita que el material flote y de aquí que usualmente 
+se obtenga un incremento de la recuperación del magnesio. El material es 
+priorizan que usualmente es mantenido en el refractario por medio de un 
+envase metálico u otro recipiente adecuado. El tratamiento de inmersión 
+es ampliamente usado y versátil el cual consta de las siguientes partes 
+mostradas en la siguiente Ilustración.  1. Cilindro de aire, 2. Varilla de 
+pistón, 3. Tapa, 4. Olla, 5. Línea de metal, 6. Campana de inmersión, 7. 
+Levantamiento de olla. 
+ 
+Prácticamente todas las formas de materiales esferoidizantes son 
+usadas incluyendo el coque impregnado de magnesio y combinaciones de 
+tierras raras. La recuperación de magnesio mediante este método es 
+elevado y puede exceder fácilmente al 50%, debido a que el método tiene 
+la ventaja de requerir menos materiales esferoidizantes que los métodos 
+antes mencionados. El costo adicional del refractario tipo campana y el 
+trabajo, pueden, sin embargo, eliminar la reducción en costos. Otra ventaja 
+es que no necesariamente se requiere de una olla completamente vacía, 
+
+==================================================
+page_45:
+ 
+ 
+40 
+ 
+para cada tratamiento como en los casos anteriores (olla abierta o 
+Sandwich). La principal desventaja de este método es que existen 
+mayores pérdidas de temperatura, debidas al montaje frío de refractario 
+tipo campana. El proceso no es flexible para volúmenes pequeños a tratar. 
+Además, el tiempo de tratamiento es mayor que en los métodos anteriores. 
+ 
+Método de inmersión. 
+ 
+Ilustración 9. Olla de inmersión típica. Tomado de. (Fundiciones de hierro, 1990). 
+
+==================================================
+page_46:
+ 
+ 
+41 
+ 
+Selección del método de tratamiento La selección del método de 
+tratamiento requiere de muchos factores. Las prioridades deben enfocarse 
+hacia los factores más importantes después de las consideraciones 
+debidas. Los criterios involucrados en seleccionar un método de 
+tratamiento incluyen: 
+• volumen a producir. Tratamientos de volúmenes muy 
+pequeños eliminan métodos, como el método de inmersión. La 
+capacidad de cada planta puede dictar la cantidad de volumen 
+a producir dentro de los límites muy estrechos. 
+• Requisitos de temperatura. Coladas de piezas ligeras de 
+espesor delgado requieren hierro más caliente y podrían dictar 
+el uso de métodos muy rápidos. 
+• Costo. Fundiciones que manejan altos volúmenes prefieren un 
+tratamiento altamente eficiente con material para esferoidizar de 
+bajo costo. 
+• Posibilidades de mecanización. Operaciones altamente 
+repetitivas, que involucran trabajo manual, pueden ser más 
+fácilmente mecanizarlas en algunos métodos específicos de 
+tratamiento. 
+• Simplicidad. Falta de experiencia y confianza en la gente y la 
+necesidad de equipo sofisticado puede ser un factor en la 
+selección de equipo. 
+• Consideraciones ambientales. La evolución de humos varía 
+en el método seleccionado. 
+• Reproducibilidad. La variabilidad inherente a algunos métodos 
+puede ser muy grande para los requisitos de control de calidad. 
+• Hierro base. La cadencia de la colada y el equipo de fundición 
+puedan resultar en hierro base, que elimina la posibilidad de uso 
+de ciertos materiales y métodos de tratamiento. 
+• Limitaciones físicas. Distribución de planta, y la necesidad del 
+pesado del metal tratado puede imponer restricciones. 
+
+==================================================
+page_47:
+ 
+ 
+42 
+ 
+• Tiempo de ciclo. Las limitaciones de volumen deben 
+considerarse desde el punto de vista del tiempo de ciclo o 
+tiempo de permanencia después del tratamiento. 
+• Necesidad de inoculación. Esta necesidad puede dictar la 
+obligación de recuchareo y consecuentemente puede tener 
+algún peso sobre el método de tratamiento a seleccionar. 
+2.2.1.5. inoculación de hierro nodular. 
+Objetivo del tratamiento de inoculación. 
+Para la fabricación de hierro nodular de alta calidad hay que realizar 
+también un tratamiento tecnológico a saber (tratamiento de inoculación de 
+hierro), lo cual aumenta el número de gérmenes de grafito durante la 
+solidificación de la pieza fundida. Si no se realiza este tratamiento 
+entonces es imposible obtener piezas fundidas en zonas duras en las 
+paredes delgadas. Estas piezas tienen propiedades mecánicas no 
+homogéneas, sus paredes delgadas no se pueden maquinar, por lo que 
+quedan defectuosas y es necesario darles un tratamiento térmico. En 
+ambos casos los costos de producción aumentan, lo cual siempre es 
+indeseable.  
+ 
+El proceso de inoculación aumenta el grado de nodulización, el 
+número de las esferas de grafito disminuye sus dimensiones y hace la 
+estructura de hierro más homogénea en comparación con las piezas 
+fundidas no inoculadas. 
+ 
+ 
+ 
+Elección del tipo de inoculante. Existen cerca de 200 diferentes 
+tipos de inoculantes, el técnico debe saber elegir cuál de ellos es el más 
+apropiado para la producción de hierro nodular. Se sabe que el primer 
+paso 
+es 
+eliminar 
+los 
+inoculantes 
+que 
+contienen 
+elementos 
+
+==================================================
+page_48:
+ 
+ 
+43 
+ 
+antiesferoidizantes. De la experiencia práctica de muchos años resulta, 
+que los inoculantes más usados para la fabricación de hierro nodular son 
+los representados (tabla 2). De ellos, el más frecuentemente usado en la 
+industria, el inoculante número 1, es decir Fe-Si, mediante el cual se 
+produce alrededor del 75% de la producción mundial de hierro nodular.  
+ 
+Tabla 4. Composición quimica de diferentes inoculantes. Tomado de 
+(Composicíon quimica de inoculantes, 1994)  
+ 
+Su influencia sobre la estructura se muestra (ilustración 8), donde 
+resulta que sin el proceso de inoculación se obtiene poca cantidad de 
+nódulos irregulares y muchos carburos. Debido a esto se obtiene alta 
+dureza y baja elongación. En cambio, después del tratamiento de 
+nodulización, obtenemos un importante número de granos auténticos que 
+tienen una forma más adecuada en una matriz sin ledeburita con mayor 
+cantidad de ferrita. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_49:
+ 
+ 
+44 
+ 
+Elección del tipo de inoculante. 
+ 
+Ilustración 10. Influencia de la inoculación sobre la estructura del hierro nodular. 
+a) Hierro base después de esferoidización, pero antes de Inoculación; b) hierro después 
+de esferoidización e inoculación. Tomado de (Fras, Serrano Toledo, & Bustos Acalá, 
+Eleccion de tipo de inoculante, 1994). 
+ 
+Por esta razón, se modifican en las propiedades mecánicas de la 
+fundición, es decir, la dureza disminuye y aumenta la elongación. El 
+consumo de inoculante considerado, depende las paredes de las piezas 
+fundidas que se fabrican. De los resultados de las investigaciones 
+experimentales que para la fabricación de piezas fundidas que tengan 
+paredes con espesor de 10 a 25 mm se debe introducir en el baño 0.7% 
+del inoculante. En cambio, cuando se producen piezas fundidas, que 
+tienen paredes más delgadas, el consumo de inoculante aumenta y es del 
+orden del 1% para paredes de 6 mm. 
+ 
+El inoculante complejo número 2 contiene tres inoculantes simples, 
+es decir, Aluminio, Calcio, Bario y también un suplemento de Manganeso. 
+El Manganeso en este inoculante disminuye la temperatura de fusión. 
+Debido a esto, el inoculante 2 se disuelve más rápido en el baño que otros 
+inoculantes. Cuando esta aleación se usa para la postinoculación de hierro 
+
+==================================================
+page_50:
+ 
+ 
+45 
+ 
+dúctil no se debe usar en cantidades excesivas. La adición recomendada 
+es de 0.25 a 0.40% dependiendo del tamaño de sección de la pieza 
+fundida. En estas cantidades la adición de Cilicio será un máximo de 
+0.25% el cual es 0.50% menor que una adición de 1% de ferro silicio al 
+75%. A menudo esta adición más baja de Silicio puede ser ventajosa si se 
+requiere una cantidad mayor que la recomendada para lograr los 
+resultados deseados. Esta puede ser reemplazada por ferrosilicio al 75%. 
+El uso de cantidades excesivas de cualquier postinoculante, puede 
+ocasionar escoria excesiva y posiblemente invierta el efecto de reducción 
+del temple superficial, además, no es económico usar más de la cantidad 
+recomendada. 
+ 
+El inoculante número 3, es otro inoculante bien conocido y 
+comercial que se desempeña bien en el hierro gris y dúctil. Además de 
+Aluminio y Calcio, este inoculante contiene Barios, Magnesio y Zirconio. 
+Como en los otros inoculantes, los tres primeros elementos funcionan 
+como agentes nucleadores. El Manganeso reduce el punto de fusión de la 
+aleación, causado así que se disuelva rápidamente en el hierro fundido. El 
+Zirconio se puede cambiar con el oxígeno y nitrógeno en el metal fundido 
+y por consiguiente facilita el proceso de nucleación del grafito. Como el 
+inoculante número 2, esta aleación no debe ser agregada en cantidades 
+excesivas. Los compuestos de circonio son relativamente pesados y 
+pueden ser atrapados en el metal durante la solidificación. 
+ 
+El inoculante número 4 ya ha sido cubierto durante la discusión del 
+inoculante 1. Como se estableció antes, este ferrosilicio más alto en calcio 
+no es ampliamente usado debido a que puede causar escoria excesiva en 
+el hierro fundido, aumentando el peligro de atrapar escoria en las piezas 
+fundidas. 
+El inoculante número 5 contiene 50% ferrosilicio, suficiente aluminio 
+y calcio, para nuclear efectivamente el grafito en el hierro gris y nodular. 
+
+==================================================
+page_51:
+ 
+ 
+46 
+ 
+En muchos casos este producto puede reemplazar la inoculación de 
+ferrosilicio de grado 75%. Sin embargo, este no siempre puede funcionar 
+tan efectivamente como el ferrosilicio de 75%. Por esta razón los 
+rendimientos comparativos de cada post-inoculantes deben ser evaluadas 
+antes de tomar una decisión final. 
+ 
+El inoculante número 6 es una modificación del número 5 por la 
+adición de 1 a 1.5% Mg. Este último inoculante trabaja muy bien en los 
+hierros nodulares tratados con las aleaciones de ferro-silicio-magnesio. De 
+hecho, es posible realizar los tratamientos de nodulización con menor 
+cantidad que las cantidades normales de aleaciones de ferro-silicio-
+manganeso, considerando la adición de Magnesio tardío, introducido en el 
+postinoculante para proveer la diferencia de magnesio necesaria para 
+obtener una buena nodulización. Así, esta aleación sirve para un propósito 
+doble, principalmente asistiendo en el tratamiento de neutralización y 
+simultáneamente postinoculando el hierro, lo cual nos permite usar una 
+cantidad menor del esferoidizante, consecuentemente se genera una 
+menor cantidad de humos y se disminuyen los costos. Los reportes de 
+campo indican una recuperación del 70% de magnesio de este inoculante. 
+El rango de adición normalmente es alrededor del 0.3%. 
+ 
+El inoculante número 7 es un producto que se ha estado disponible 
+por casi 20 años. Este contiene Calcio y Aluminio para propósitos de 
+nucleación y un promedio de 2.25% de magnesio para corregir el 
+desvanecimiento de magnesio durante períodos de retención entre los 
+tratamientos de modulación y nodularización. Este también contiene 
+nitrato de sodio, el cual produce una reacción exotérmica y permite que la 
+aleación se disuelva rápidamente en el hierro fundido sin reducir la 
+temperatura del metal. Este inoculante es especialmente efectivo para una 
+última adición inoculante, cuando el metal fundido ha sufrido pérdidas 
+considerables de temperatura. Debido al nitrato de sodio, se genera algo 
+
+==================================================
+page_52:
+ 
+ 
+47 
+ 
+de humo durante la adición de esta aleación. Sin embargo, no se ha sabido 
+que sea tóxica en alguna forma. La proporción de adición normalmente es 
+de 0.3 a 1.0%. 
+ 
+El inoculante número 8 es un producto muy conocido para 
+inoculación de hierro gris y dúctil. Se trata de un ferro silicio al 75%. Bajo 
+en calcio y en aluminio, conteniendo además ser 0.60 a 1.0% de Estroncio, 
+para su poder de germinación nodular. La experiencia muestra que, en los 
+productos de hierro nodular, si los niveles de calcio y serio de la aleación 
+nodulizante son demasiados altos (realmente ninguna cantidad específica 
+se ha mencionado), este inoculante no tiene ninguna ventaja con respecto 
+al inoculante de ferrosilicio de grado 75%, cuyo costo es menor. Otros 
+consumidores de este producto han expresado que, para tener una buena 
+nucleación de grafito esferoidal, los contenidos de aluminio y magnesio de 
+hierro base deben ser al menos 0.05% y alrededor de 0.10%, 
+respectivamente. 
+ 
+El inoculante número 9 es otra aleación usada para tratar de revivir 
+nodular y gris moldeado. Este producto es más alto en silicio que otros 
+inoculantes. También contiene cantidades controladas de aluminio, calcio 
+y circonio. Para fundiciones en la arena verde, el producto con un 
+contenido de 1.00 a 1.50% de aluminio, se recomienda para evitar la 
+formación de poros llamados “pinholes” (ilustracion 9). 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_53:
+ 
+ 
+48 
+ 
+Pinholes 
+ 
+Ilustración 11. Poros en las piezas causadas por alto contenido de aluminio en el 
+inoculante. Obtenido de (ASI International, 2002). 
+Para aplicaciones en molde seco, el contenido de aluminio puede 
+estar en el rango de 2 a 3%. El aluminio en este rango puede ser benéfico 
+para controlar la tendencia al temple superficial (chilling) y la formación 
+subsecuente de carburos en las piezas fundidas de hierro gris. El circonio 
+se puede combinar con el oxígeno y nitrógeno para formar compuestos 
+estables y de este modo evitar que estos elementos causen porosidades 
+en las fundiciones. Home nosotros inoculantes, el calcio actúa como un 
+efectivo a gente nucleador, para la precipitación de grafito esferoidal 
+durante la solidificación de las fundiciones de hierro dúctil. La adición 
+recomendada de este producto para postinuculación de hierro dúctil varía 
+de 0.2 a 1.0%. 
+ 
+2.2.1.6. Control de la fabricación de hierro nodular. 
+La obtención de hierro nodular de alta calidad no es posible sin un 
+control preciso de las diferentes etapas de su fabricación una 
+especificación precisa de un control completo sería demasiado extenso, lo 
+cual queda fuera del alcance de este trabajo. Por esta razón, nos 
+limitaremos solamente a presentar un ejemplo (ilustración 10). En dicha 
+figura se resumen los pasos más importantes para el control de la 
+
+==================================================
+page_54:
+ 
+ 
+49 
+ 
+fabricación de hierro modular, utilizando un horno de inducción y el método 
+tundish-discover. 
+ 
+Control de la fabricación de hierro nodular. 
+Ilustracion 12. Esquema de control de la fabricación de hierro nodular. Obtenido de. 
+(Control de la fabricación de hierro nodular, 1994). 
+3. CAPÍTULO III. MARCO METODOLÓGICO. 
+
+==================================================
+page_55:
+ 
+ 
+50 
+ 
+3.1 
+Hipótesis.  
+Las cantidades de nodulizante (ferro silicio magnesio 5911) 
+agregadas al metal líquido influye en la formación de grafito esferoidal, en 
+la microestructura y determina el índice de calidad del metal para las 
+piezas fabricadas.   
+• Variables independientes. 
+Cantidad de nodulizante agregado  
+• Variables dependientes. 
+Formación de grafito esferoidal y calidad del metal. 
+• Variables intervinientes. 
+Materiales introducidos en el horno de cubilote:  
+Caliper de freno. 
+Retorno de hierro nodular.  
+Coque (carbón). 
+Temperatura del hierro líquido 
+a) Enfoque de la investigación. 
+Dado que se busca comprobar la hipótesis previamente 
+establecida, el presente trabajo será elaborado bajo el planteamiento 
+metodológico del enfoque cuantitativo. Este enfoque permitirá la 
+recopilación de datos sobre el proceso que se está usando actualmente 
+en JL FUNDICIÓN, así mismo, permitirá usar técnicas y herramientas 
+matemáticas para cuantificar y analizar las variables ya mencionadas que 
+influyen dentro del proceso de la fabricación del hierro nodular.  
+b) Diseño de la investigación. 
+i. 
+Alcance de la investigación. 
+El alcance de esta investigación es explicativa ya que tiene como 
+objetivo principal explicar las causas y efectos de una variable (la cantidad 
+de nodulizante), y se basa en una hipótesis, la cual propone que una 
+variable (cantidad de nudulizante) influye directamente en otras variables 
+
+==================================================
+page_56:
+ 
+ 
+51 
+ 
+(Formación de grafito esferoidal y calidad del metal), el objetivo de la 
+investigación explicativa es probar esta hipótesis y proporcionar una 
+explicación clara y detallada de la relación entre las variables. 
+ 
+ii. 
+Tipo de estudio. 
+Por como se presentan las variables y el tiempo de la obtención de 
+los resultados, el método tradicional de experimentación, en las 
+investigaciones exploratorias, lo hacen candidato para ser utilizado en este 
+trabajo. El mismo consiste en realizar experimentos en los cuales varía 
+solamente un parámetro y se mantienen constante todo los demás; de este 
+modo, la variación de las respuestas se puede atribuir entonces a un solo 
+factor que es el nodulizante. El tipo de estudio de las variables es similar 
+al que se utiliza en un laboratorio, lo cual es un candidato perfecto para 
+estudiar el comportamiento de estas, ya que en este tipo de estudios se 
+lleva a cabo en un ambiente controlado, donde se pueden manipular las 
+variables de interés para el estudio y se pueden controlar los factores que 
+podrían interferir con los resultados.  
+ 
+iii. 
+Técnicas, instrumentos y herramientas. 
+Técnica. 
+Observación directa. Para esta investigación el método a utilizar 
+para la obtención de hierro nodular, la técnica de observación directa es 
+perfecta, ya que esta técnica implica la recopilación de información y 
+permitirá una comprensión detallada de cómo influye la cantidad de 
+nodulizante en el proceso para la obtención de hierro nodular. Por otra 
+parte, la observación directa proporcionara información en tiempo real lo 
+cual es una gran ventaja ya que al obtener información en tiempo real 
+permitirá tomar decisiones oportunas, identificar rápidamente posibles 
+problemas y a su vez facilitar la coordinación en la obtención de los datos 
+esto con el fin de mejorar la calidad de dichos datos. Mejorar la calidad de 
+
+==================================================
+page_57:
+ 
+ 
+52 
+ 
+los datos permite tomar decisiones, detectar y corregir errores de manera 
+oportuna.  
+ 
+Instrumentos. 
+Como instrumento a utilizar en esta investigación se utilizará una 
+"Checklist". La Checklist será la guía y aliada principal en la evaluación del 
+proceso para la obtención de hierro nodular. Su utilización brindará una 
+estructura sólida y sistemática, y acercará a obtener resultados confiables 
+y de alta calidad en nuestro estudio. Así mismo, será una herramienta 
+importante para garantizar que todos los pasos necesarios se lleven a 
+cabo de manera rigurosa y que no se omita ningún elemento crítico en la 
+investigación (ver anexo 1).  
+ 
+Herramientas. 
+• Olla de tratamiento: es utilizada para hacer le tratamiento del 
+hierro fundido para la obtención de hierro nodular, 
+• Ollas de transporte: son usadas para el transporte hierro 
+nodular fundido a los moldes. 
+• Báscula digital: utilizada para pesar el nodulizante. 
+• Báscula de plataforma: utilizada para pesar las cargas de 
+metal y el coque.  
+• Torno: utilizado para dar forma a las probetas. 
+• Máquina de prueba universal TENSILON RTG: utilizada para 
+hacer las pruebas de compresión, tensión, flexión y esfuerzo. 
+• Microscopio metalográfico: este instrumento permite observar 
+la microestructura de las muestras de hierro nodular, lo que es 
+fundamental para entender su comportamiento y propiedades. 
+• Espectrómetro de emisión óptica: con este equipo se puede 
+analizar la composición química de las muestras de hierro 
+nodular, lo que es útil para determinar la cantidad de 
+
+==================================================
+page_58:
+ 
+ 
+53 
+ 
+elementos como carbono, silicio, manganeso, nitrógeno, entre 
+otros. 
+ 
+iv. 
+Muestreo de la investigación. 
+Para el desarrollo de nuestro estudio, se ha planificado realizar un 
+total de nueve corridas con el objetivo principal de evaluar el efecto del 
+nodulizante en el proceso para la obtención de hierro nodular. Estas 
+corridas nos permitirán analizar y comprender en detalle cómo diferentes 
+cantidades de nodulizante afectan la estructura. 
+Cada una de las nueve corridas representará un experimento 
+independiente en el cual se variará la cantidad de nodulizante utilizado en 
+el proceso. Esta variación nos brindará información valiosa. En cada 
+corrida, utilizaremos una cantidad de metal líquido y añadiremos una 
+cantidad 
+específica 
+según 
+el 
+diseño 
+experimental 
+previamente 
+establecido. Posteriormente, se llevará a cabo el proceso de solidificación 
+y se obtendrá una muestra sólida que será sometida a un análisis 
+metalográfico detallado. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_59:
+ 
+ 
+54 
+ 
+4. CAPÍTULO V. PRESENTACIÓN Y ANÁLISIS DE 
+RESULTADOS 
+4.1 
+Presentación de resultados 
+El grafito nodular se forma a partir de la adición de nodulizantes al 
+hierro fundido y su posterior enfriamiento y solidificación. Sin embargo, 
+para lograr la formación de grafito nodular de alta calidad, es necesario 
+controlar cuidadosamente una serie de factores críticos en el proceso de 
+fundición. Se desarrolló una serie de nueve tratamientos donde varía la 
+cantidad de nodulizante y se mantienen, en promedio, algunos factores 
+críticos para la obtención de hierro nodular. Los factores críticos se 
+encuentran escritos en la siguiente tabla. 
+Num. 
+De 
+tratami
+nto 
+Cantidad 
+de 
+nodulizant
+e en gr 
+Cantidad 
+de hierro 
+fundido 
+Tamaño 
+del Coke 
+Temperatura 
+en °C 
+Porcenta
+je de 
+Azufre 
+Tiempo de 
+enfriamiento 
+1 
+2000 gr 
+200 kg 
+150 a 175 
+mm  
+ 1350 a 1360 
+0.018 
+30 min a 1h 
+2 
+2250 gr 
+200 kg 
+150 a 175 
+mm 
+1350 a 1360 
+0.015 
+30 min a 1h 
+3 
+2500 gr 
+200 kg 
+150 a 175 
+mm 
+1350 a 1360 
+0.017 
+30 min a 1h 
+4 
+2750 gr 
+200 kg 
+150 a 175 
+mm 
+1350 a 1360 
+0.012 
+30 min a 1h 
+5 
+3000 gr 
+200 kg 
+150 a 175 
+mm 
+1350 a 1360 
+0.010 
+30 min a 1h 
+6 
+3250 gr 
+200 kg 
+150 a 175 
+mm 
+1350 a 1360 
+0.016 
+30 min a 1h 
+7 
+3500 gr 
+200 kg 
+150 a 175 
+mm 
+1350 a 1360 
+0.013 
+30 min a 1h 
+8 
+3750 gr 
+200 kg 
+150 a 175 
+mm 
+1350 a 1360 
+0.016 
+30 min a 1h 
+9 
+4000 gr 
+200 kg 
+150 a 175 
+mm 
+1350 a 1360 
+0.015 
+30 min a 1h 
+ 
+Tabla 5. Numero de tratamientos, cantidad de nodulizante y factores críticos para la 
+obtención de hierro nodular. 
+ 
+ 
+
+==================================================
+page_60:
+ 
+ 
+55 
+ 
+ghhEstos tratamientos se hicieron bajo supervisión y siempre 
+basándonos en el control de producción. Este control es fundamental para 
+el proceso del cual se obtuvieron resultados importantes y se muestran a 
+continuación.   
+Num  Cantidad en gr 
+de nodulizante 
+Muestra 
+Análisis metalográfico 
+de la estructura 
+ 
+ 
+1 
+ 
+ 
+2000 gr 
+ 
+ 
+ 
+ 
+Tabla 6. La metalografía 1 muestra la presencia de grafito laminar. 
+ 
+Se llevó a cabo una prueba inicial con una cantidad de 2000 gr de 
+nodulizante que nos ha permitido obtener información relevante sobre la 
+metalografía de la primera muestra analizada. A través de este análisis, se 
+pudovexaminar detalladamente la estructura microscópica del material y, 
+con base a la forma del grafito presente, hemos llegado a una conclusión 
+preliminar: se trata de hierro gris.  
+Durante el examen metalográfico, se realizaron cortes finos de la 
+muestra para luego ser preparados y observados bajo el microscopio. Al 
+observar la imagen de la tabla 6, se pude apreciar claramente la presencia 
+de grafito con una forma laminar. Estas laminillas de grafito se encuentran 
+distribuidas de manera interconectada en la matriz metálica del material, 
+lo que es una característica típica del hierro gris. 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_61:
+ 
+ 
+56 
+ 
+ 
+ 
+Num  Cantidad en gr 
+de nodulizante 
+Muestra 
+Análisis 
+metalográfico de la 
+estructura 
+ 
+ 
+2 
+ 
+ 
+2250 g 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabla 7. Nota. Aún persiste el grafito laminar. 
+ 
+ 
+Esta segunda prueba contenía 2250 gramos de nodulizante y se 
+llevó a cabo nuevamente el análisis metalográfico. Al examinar 
+detalladamente la estructura microscópica de la muestra, se observan 
+similitudes significativas con la metalografía de la muestra anterior. Con 
+base a estas observaciones, se concluye que aún se trata de hierro gris. 
+Al examinar la imagen de la tabla 7, se pudo apreciar una vez más la 
+presencia de grafito con una forma laminar similar a la observada en la 
+muestra anterior. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_62:
+ 
+ 
+57 
+ 
+Num  Cantidad en gr 
+de nodulizante 
+Muestra 
+Análisis 
+metalográfico de la 
+estructura 
+ 
+ 
+3 
+ 
+ 
+2500 gr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabla 8. Presencia de grafito robusto en la metalografía.  
+ 
+En la tercera prueba, se utilizó 2500 gramos de nodulizante y se 
+llevó a cabo nuevamente el análisis metalográfico. Durante este análisis 
+se observó nuevamente la presencia de grafito con una forma laminar, 
+pero esta vez con características distintivas. Al examinar la imagen de la 
+metalografíade a tabla 8, se observa que el grafito laminar es más robusto 
+en comparación con las pruebas anteriores. Las laminillas de grafito son 
+más gruesas y tienen una distribución interconectada por lo que se 
+concluye que sigue siendo hierro gris y no ha logrado la nodulización 
+deseada. La presencia del grafito laminar más robusto y su distribución 
+interconectada indican que el material no ha experimentado una 
+transformación adecuada en su estructura y continúa manteniendo las 
+características del hierro gris. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_63:
+ 
+ 
+58 
+ 
+Num  Cantidad en gr 
+de nodulizante 
+Muestra 
+Análisis 
+metalográfico de la 
+estructura 
+ 
+ 
+4 
+ 
+ 
+2750 gr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabla 9. Combinación de grafito laminar y poco grafito compacto. 
+ 
+En la cuarta prueba, en la cual se utilizaron 2750 gramos de 
+nodulizante, Nuevamente se ha observado la presencia de grafito con una 
+forma laminar en la muestra analizada de la tabla 9. Sin embargo, en 
+comparación con la prueba anterior, se puede apreciar que el grafito 
+muestra un intento de adquirir una forma más compacta. El grafito sigue 
+presentando una forma laminar, pero también se observan intentos de 
+adquirir una forma compacta.  
+ 
+Num  
+Cantidad en 
+gr de 
+nodulizante 
+Muestra 
+Análisis 
+metalográfico de la 
+estructura 
+ 
+ 
+5 
+ 
+ 
+3000 gr 
+ 
+ 
+ 
+              Tabla 10. Presencia de grafito compacto y grafito laminar  
+
+==================================================
+page_64:
+ 
+ 
+59 
+ 
+En la quinta corrida con 3000 gr de nodulizante el análisis 
+metalográfico reveló resultados importantes. Al examinar nuevamente la 
+metalografía, se observó una estructura que presenta tanto grafito laminar 
+como un poco más de grafito compacto. El grafito ha adquirido una forma 
+más compacta y vermicular a la anterior prueba, estos hallazgos indican 
+que el material se trata de hierro con grafito compacto, también conocido 
+como grafito vermicular  
+El grafito vermicular es un tipo de estructura intermedia entre el 
+hierro gris y el hierro nodular. La presencia de grafito laminar y grafito 
+compacto en la metalografía indica que el proceso de nodulización ha sido 
+parcialmente exitoso. Sin embargo, es importante destacar que aún no se 
+ha alcanzado una nodulización completa y el material resultante no puede 
+clasificarse como hierro nodular puro.  
+Num  Cantidad en gr 
+de nodulizante 
+Muestra 
+Análisis 
+metalográfico de la 
+estructura 
+ 
+ 
+6 
+ 
+ 
+3250 gr 
+ 
+ 
+ 
+        
+Taba 11. Aun persiste el grafito laminar y el grafito compacto.  
+ 
+En la sexta prueba el análisis metalográfico de la muestra, 
+utilizando esta vez 3250 gramos de nodulizante, mostró nuevos 
+resultados, con una similitud con los resultados obtenidos en la prueba 
+anterior, pero con una diferencia significativa en la presencia de grafito 
+laminar y grafito compacto. 
+ 
+
+==================================================
+page_65:
+ 
+ 
+60 
+ 
+En comparación con las pruebas anteriores, la metalografía de la 
+tabla 11 indica una menor presencia de grafito laminar y una mayor 
+cantidad de grafito compacto. Esto significa que la cantidad de nodulizante 
+utilizada en esta corrida ha tenido un mayor impacto en la estructura del 
+material en comparación con las pruebas anteriores. 
+ 
+La disminución del grafito laminar y el aumento del grafito compacto 
+sugieren que la nodulización del hierro está progresando en la dirección 
+deseada. 
+Num  
+Cantidad en 
+gr de 
+nodulizante 
+Muestra 
+Análisis 
+metalográfico de la 
+estructura 
+ 
+ 
+7 
+ 
+ 
+3500 gr 
+ 
+ 
+ 
+ 
+        
+Tabla 12. La presencia del grafito en la metalografía tiende a ser más redondo.  
+ 
+En la séptima prueba utilizando 3500 gr de nodulizante y llevando 
+a cabo el análisis metalográfico de la muestra. Los resultados obtenidos 
+en esta metalografía son de gran relevancia, ya que muestran avances en 
+la estructura del material en comparación con las pruebas anteriores. 
+Al examinar la metalografía, se observó una presencia muy mínima 
+de grafito laminar casi nula y una mayor cantidad de grafito compacto. 
+Además, el grafito compacto presente en esta prueba de la tabla 12, tiende 
+a ser más redonda y esferoidal en comparación con la prueba anterior.  
+ 
+
+==================================================
+page_66:
+ 
+ 
+61 
+ 
+La disminución significativa en la presencia de grafito laminar y el 
+aumento en la cantidad de grafito compacto con forma más redonda son 
+indicadores positivos de una nodulización más completa del hierro. 
+Aunque el material resultante todavía se clasifica como hierro compacto, 
+se observa una clara tendencia hacia la formación de hierro nodular. 
+ 
+Num  
+Cantidad en gr 
+de nodulizante 
+Muestra 
+Análisis metalográfico 
+de la estructura 
+ 
+ 
+8 
+ 
+ 
+3750 gr 
+ 
+ 
+ 
+        
+Tabla 13. Presencia de grafito esferoidal y muy poco grafito laminar.  
+ 
+En la octava prueba utilizando 3750 gramos de nodulizante y 
+llevando a cabo el análisis metalográfico de la muestra, los resultados 
+obtenidos en esta metalografía son muy alentadores, ya que muestran 
+avances muy notorios en la estructura del material.  
+Al observar la nuevamente la metalografía de la tabla 13, se pudo 
+apreciar una formación notable de grafito esferoidal y una mínima cantidad 
+de grafito compacto en comparación con las pruebas anteriores. Esta 
+observación indica una mejora sustancial en la nodulización del hierro. Sin 
+embargo, aún se observa una cantidad mínima de grafito compacto que 
+no está bien definido en forma de nódulos. 
+ 
+A pesar de la presencia residual de grafito compacto, los resultados 
+sugieren claramente que el material resultante de esta octava prueba 
+puede clasificarse como hierro nodular.  
+
+==================================================
+page_67:
+ 
+ 
+62 
+ 
+Num  Cantidad en gr 
+de nodulizante 
+Muestra 
+Análisis 
+metalográfico de la 
+estructura 
+ 
+ 
+9 
+ 
+ 
+4000 gr 
+ 
+ 
+ 
+         
+Tabla 14. Presencia de grafito esferoidal definido y nada de grafito lamiar. 
+ 
+En la última prueba utilizamos 4000 gramos de nodulizante y 
+llevamos a cabo el análisis metalográfico. Los resultados obtenidos en 
+esta metalografía son extremadamente importantes y nos permiten 
+concluir de manera contundente que el material obtenido en esta prueba 
+es hierro nodular al 100%.  
+Al examinar la metalografía de la tabla 14, se pudo apreciar de 
+manera evidente la formación de grafito esferoidal, que es una 
+característica distintiva del hierro nodular. Además, se observó que el 
+hierro compacto, que estuvo presente en pruebas anteriores, ha sido 
+completamente transformado y sustituido por la estructura deseada de 
+grafito esferoidal. 
+ 
+Este avance representa un logro en nuestro proceso de 
+nodulización. La formación completa de grafito esferoidal indica que 
+hemos alcanzado una nodulización exitosa y obtenido hierro nodular al 
+100%. 
+ 
+ 
+ 
+
+==================================================
+page_68:
+ 
+ 
+63 
+ 
+4.2 
+Análisis de resultados. 
+los resultados experimentales que confirman la hipótesis afirmando 
+que diferentes cantidades de nodulizante (ferro silicio magnesio 5911) 
+influye en la formación de grafito esferoidal en la producción de hierro 
+nodular.  
+ 
+Num  Cantidad en gr 
+de nodulizante 
+Muestra 
+Análisis metalográfico 
+de la estructura 
+ 
+ 
+1 
+ 
+ 
+2000 gr 
+ 
+ 
+ 
+ 
+Num  
+Cantidad en 
+gr de 
+nodulizante 
+Muestra 
+Análisis 
+metalográfico de la 
+estructura 
+ 
+ 
+5 
+ 
+ 
+3000 gr 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_69:
+ 
+ 
+64 
+ 
+Num  Cantidad en gr 
+de nodulizante 
+Muestra 
+Análisis 
+metalográfico de la 
+estructura 
+ 
+ 
+9 
+ 
+ 
+4000 gr 
+ 
+ 
+ 
+          
+ 
+Las tres tablas presentadas anteriormente son de vital importancia 
+para comprender el efecto de la cantidad de nodulizante agregado al metal 
+líquido en la formación del grafito esferoidal. Estas tablas, basadas en los 
+resultados de nuestro experimento, demuestran de manera clara y 
+coherente cómo la cantidad de nodulizante utilizado tiene un impacto 
+directo en la estructura microscópica del grafito. 
+En la primera tabla, correspondiente a la adición de 2000 gramos, 
+se observa una estructura de grafito predominantemente laminar. Esto 
+indica que la cantidad utilizada no fue suficiente para lograr una 
+nodulización completa y la formación de grafito esferoidal. Aunque se 
+pueden apreciar ciertas áreas con grafito compacto, su presencia es 
+limitada en comparación con el grafito laminar. 
+En la segunda tabla, donde se agregaron 3000 gramos, se observa 
+una combinación de grafito laminar y grafito compacto. Esto indica que la 
+adición de una mayor cantidad de ha permitido una nodulización parcial, 
+lo que se refleja en la presencia de grafito compacto junto con el grafito 
+laminar. Sin embargo, aún no se han formado nódulos bien definidos en 
+toda la estructura. 
+En la tercera tabla, correspondiente a la adición de 4000 gramos 
+de, se aprecia claramente la formación de nódulos bien definidos sin la 
+
+==================================================
+page_70:
+ 
+ 
+65 
+ 
+presencia de grafito compacto. Esto indica que la cantidad de nodulizante 
+utilizada en esta prueba fue suficiente para lograr una nodulización 
+completa y la formación exclusiva de grafito esferoidal. La estructura 
+microscópica muestra una distribución homogénea de los nódulos de 
+grafito, lo cual es altamente deseable en el hierro nodular. 
+Estos resultados corroboran de manera concluyente que la cantidad 
+de nodulizante utilizado en el proceso tiene un impacto directo en la 
+formación del grafito esferoidal. A medida que se aumenta la cantidad, se 
+observa una transición gradual de la estructura laminar del grafito hacia 
+una estructura combinada de grafito laminar y compacto, y finalmente 
+hacia una estructura exclusiva de grafito esferoidal bien definido. En 
+resumen, las tres tablas presentadas muestran claramente la relación 
+entre la cantidad de nodulizante y la formación de grafito esferoidal. 
+A continuación, se presenta el análisis químico de la muestra 
+número 9. El análisis químico se realizará para determinar la composición 
+química exacta, lo que nos permitirá comprender mejor sus propiedades y 
+características.  
+Es importante destacar que esta muestra fue seleccionada 
+específicamente para este análisis ya que la estructura es más completa 
+en comparación con las otras. Con la realización de estos análisis, 
+podremos obtener una comprensión más completa de las propiedades 
+químicas de la muestra, lo que a su vez nos permitirá obtener información 
+valiosa para el proceso de la producción de hierro nodular y su relación 
+con la formación de grafito esferoidal. 
+Análisis químico.   
+Type 
+C 
+Si 
+Mn 
+P 
+S 
+Cr 
+Mo 
+  
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+< x > 
+3.29 
+2.64 
+0.329 
+0.0094 0.0123 0.0411 
+0.004 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Type 
+Ni 
+Al 
+Co 
+Cu 
+V 
+W 
+Fe 
+  
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+< x > 
+0.0255 0.0131 
+0.028 
+0.114 
+0.0028 0.0557 
+93.5 
+
+==================================================
+page_71:
+ 
+ 
+66 
+ 
+ 
+El análisis químico realizado en la muestra en cuestión revela la 
+presencia de varios elementos en diferentes concentraciones. Los 
+elementos analizados que contiene la muestra son: carbono (C), silicio 
+(Si), manganeso (Mn), fósforo (P), azufre (S), cromo (Cr) y molibdeno 
+(Mo), así como también níquel (Ni), aluminio (Al ), cobalto (Co), cobre (Cu), 
+vanadio (V), tungsteno (W) y hierro (Fe). 
+Los resultados del análisis químico se presentan en porcentajes 
+(%), y se obtuvieron valores medios (indicados como <x> ) para cada 
+elemento. Se encontró que la muestra tiene un contenido de carbono del 
+3,29%, lo que indica que se trata de un material con un alto contenido de 
+carbono. El silicio y el manganeso se encuentran presentes en 
+concentraciones del 2,64% y 0,329%, respectivamente. 
+En cuanto a los elementos traza, se encontró una concentración de 
+níquel del 0,0255%, y de aluminio del 0,0131%. También se detectó la 
+presencia de cobalto y cobre en concentraciones de 0,028% y 0,114%, 
+respectivamente. El vanadio y el molibdeno se encontraron presentes en 
+bajas 
+concentraciones, 
+con 
+valores 
+del 
+0,0028% 
+y 
+0,0557%, 
+respectivamente. 
+En términos de impurezas, se encontró una concentración de 
+fósforo del 0,0094% y de azufre del 0,0123%, lo que indica que la muestra 
+contiene cantidades relativamente bajas de estas impurezas. El contenido 
+de cromo se encontró en un valor del 0,0411%.  
+Finalmente, el análisis químico reveló que la muestra contiene una 
+alta proporción de hierro, con un valor del 93,5%. Esto no es sorprendente, 
+dado que la muestra se trata de hierro nodular. 
+ 
+ 
+ 
+
+==================================================
+page_72:
+ 
+ 
+67 
+ 
+5. CAPÍTULO VI. CONCLUSIONES 
+5.1 
+Discusión 
+Los resultados de este trabajo demostraron de manera concluyente 
+que la cantidad de nodulizante utilizado tiene un efecto directo en la 
+formación del grafito esferoidal y en su microestructura. Como se observó 
+en las metalografías previas, al agregar las diferentes cantidades se pudo 
+apreciar un cambio importante en la estructura del grafito.  
+ 
+Estos hallazgos respaldan la afirmación de Fras, Serranos, & 
+Bustos, 1990 donde recomiendan un contenido de ferro-silicio magnesio 
+en el rango del 2% al 3% para obtener mejores resultados, especialmente 
+en el método sándwich. Además, se sugiere que el contenido de azufre no 
+supere el 0.02% para evitar efectos negativos en la calidad del material. 
+Además, como se mención anteriormente en el aparatado de la 
+problémica, los materiales para un fundidor juegan un papel muy 
+importante ya que de este dependerá la calidad de las piezas fabricadas, 
+dado que si utilizamos malos materiales obtendremos malos resultados.  
+ 
+La investigación también concluyo que el tiempo de desmoldeo no 
+es importante, algo que no coincide con el trabajo de NATERA, 2015 
+donde menciona que el tiempo de desmoldeo afecta la microestructura de 
+la pieza. A mayor tiempo de desmoldeo produce un crecimiento de los 
+nódulos de grafito, reduciendo el porcentaje de perlita con un consecuente 
+aumento de ferrita en el área circundante al nódulo. En nuestro estudio no 
+se encontró una conexión significativa entre ambos. Según nuestro 
+resultado obtenido, el tiempo de desmoldeo no parece tener un impacto 
+directo en la formación y características de los nódulos de grafito.  
+ 
+ 
+
+==================================================
+page_73:
+ 
+ 
+68 
+ 
+Sin embargo, lo que sí se pudo evidenciar de manera contundente 
+fue el efecto directo de la cantidad de nodulizante en los resultados 
+obtenidos. A medida que se aumentó la cantidad, se aprecia una mayor 
+formación de grafito esferoidal y una microestructura más deseable en las 
+piezas fabricadas. Aunque es importante destacar que, si bien no se 
+mostró una influencia clara en nuestros resultados, podrían existir otros 
+factores que no se tuvieron en cuenta en este estudio específico y que 
+podrían ser objeto de investigación futura.  
+ 
+La investigación llevada a cabo para la obtención de hierro nodular 
+con el objetivo de sustituir piezas de hierro gris ha sido un esfuerzo 
+significativo para contribuir a la solución de un problema en la industria. Se 
+ha desarrollado un proceso eficiente y optimizado para la obtención de 
+hierro nodular, superando los desafíos técnicos y económicos que implican 
+su producción a gran escala. La aportación de esta investigación a esta 
+industria permite dar una base sólida para adoptar el hierro nodular como 
+material secundario siendo una opción más confiable y duradera.  
+ 
+Además, al sustituir las piezas de hierro gris por hierro nodular, 
+también se generan beneficios económicos y ambientales. El hierro 
+nodular tiene una mayor vida útil y requiere menos mantenimiento, lo que 
+se traduce en ahorros significativos a largo plazo. Además, su mayor 
+resistencia permite reducir el peso y las dimensiones de las piezas, lo que 
+se traduce en ahorros de materiales y energía durante la fabricación. 
+ 
+Esta solución contribuye a la sostenibilidad al reducir el consumo 
+de recursos naturales y minimizar los impactos ambientales asociados con 
+la fabricación y reemplazo frecuente de piezas. Esta investigación en la 
+obtención de hierro nodular como sustituto del hierro gris representa un 
+avance importante al solucionar un problema. 
+ 
+
+==================================================
+page_74:
+ 
+ 
+69 
+ 
+5.2 
+Conclusiones 
+ 
+La investigación realizada ha logrado determinar de manera 
+concluyente que diversos factores desempeñan un papel crucial en la 
+obtención de hierro nodular. Entre estos factores destacan el tipo de 
+material de carga utilizado en el horno, la cantidad de nodulizante 
+empleado y el porcentaje de azufre presente en el proceso. Asimismo, se 
+ha comprobado que un método de inoculación adecuado durante el 
+proceso conlleva a resultados positivos y satisfactorios. 
+ 
+Estos hallazgos respaldan plenamente la hipótesis planteada al 
+comienzo de la investigación, ya que se ha confirmado de manera 
+fehaciente que la cantidad de nodulizante, en particular el ferro silicio 
+magnesio 5911, tiene un impacto directo en la formación del grafito 
+esferoidal, en la microestructura del metal resultante y en la determinación 
+del índice de calidad de las piezas fabricadas. 
+ 
+Por otro lado, se ha observado que una técnica de inoculación 
+adecuada y una selección cuidadosa de la materia prima también influyen 
+significativamente en los resultados obtenidos. En caso de no tomar en 
+cuenta estos aspectos fundamentales, se podrían derivar complicaciones 
+en el proceso y obtener resultados no deseados en términos de calidad y 
+características del metal producido. 
+ 
+Se ha demostrado que los resultados son claros y contundentes ya 
+que la cantidad de nodulizante utilizado, junto con el material de carga, el 
+porcentaje de azufre y la técnica de inoculación, son factores cruciales 
+para obtener hierro nodular de calidad. Estos descubrimientos son de gran 
+relevancia, ya que proporcionan información valiosa para mejorar los 
+procesos de producción y garantizar la calidad de las piezas fabricadas. 
+ 
+
+==================================================
+page_75:
+ 
+ 
+70 
+ 
+5.3 
+Recomendaciones.  
+Establecidas las conclusiones de esta investigación se recomienda 
+lo siguiente:  
+Evitar los sobretratamientos de nodulizante (ferro silicio magnesio 
+5911) ya que el contenido de este en exceso de 0.05% tiende a promover 
+la formación de silica de magnesio y óxido de magnesio en forma de 
+escoria, así mismo un contenido en el rango de 0.07% o más alto, ocasiona 
+que los nódulos de grafito tomen la forma de trozos o forma de araña. A 
+medida que se aumenta el contenido comienzan a aparecer áreas de 
+grafito laminar. Por otra parte, el exceso de nodulizante también ocasiona 
+formaciones de microporos que comúnmente se atribuyen a aluminio o a 
+otras causas.   
+ 
+Los Microporos son un problema frecuente y generalmente ocurren 
+en las piezas de hierro nodular que se han vaciado demasiado cerca a la 
+temperatura de solidificación, los microporos también se asocian con 
+moldeo por arena verde y se cree que los vapores de magnesio que se 
+expulsan del hierro nodular reaccionando con la humedad de la arena del 
+moldeo, se recomienda el uso de pinturas refractarias que contengan 
+óxidos de hierro ya que estas tienden a reaccionar con el vapor del 
+magnesio el hierro nodular. Este problema puede ser eliminado por el uso 
+de pinturas a base de grafito o carbón. 
+ 
+El Rechupe (efecto de contracción) ocurre durante las últimas fases 
+de solidificación y pueden ser generalmente eliminados cuando se 
+generan cantidades adecuadas de grafito en la solidificación. Esto es 
+importante en piezas que tienen áreas que son difíciles de alimentar 
+efectivamente. El rechupe tiende a aumentar a medida que desciende la 
+temperatura de vaciado, y es más pronunciado en secciones ligeras o 
+medianas dependiendo de la relación de área volumen, o sea la velocidad 
+de enfriamiento del metal a medida que se llena el molde.  
+
+==================================================
+page_76:
+ 
+ 
+71 
+ 
+Cuando las temperaturas del metal caen por debajo de 1260 °C la 
+precipitación del grafito comienza. Vaciados demasiados lentos o sistemas 
+de coladas que causen incrementos excesivos pueden también causar 
+rechupes. Se recomienda que la cavidad del molde se llene antes de que 
+la temperatura del metal baje a más de 1260 °C y que la distribución del 
+metal sea tal que la temperatura sea tan uniforme como sea posible de tal 
+forma que la expansión debido a la precipitación del grafito se contenga 
+dentro del molde. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==================================================
+page_77:
+ 
+ 
+72 
+ 
+ANEXOS Y APÉNDICES 
+Anexo 1 
+LISTA DE CHEQUEO:  
+CONTROL DE PRODUCCION DE HIERRO.  
+Ítem/s inspeccionado/s: 
+Fecha: 
+Puntos chequeados:        1          2         3         4         5        
+6       7                         
+Inspector: 
+ 
+1. Preparación del molde 
+Verificar que el molde esté limpio y libre de cualquier residuo antes de 
+su uso. 
+     SI         NO        
+N/A 
+Revisar el diseño del molde y confirmar que se ajusta a las especificaciones 
+del producto deseado. 
+     SI         NO        
+N/A 
+Verifique que el molde esté correctamente cerrado y sellado. 
+     SI         NO        
+N/A 
+ 
+2. Carga del horno 
+Verificar que el horno este en buen estado y limpio antes de su uso. 
+     SI         NO        
+N/A 
+Asegúrese de que la cantidad de hierro cargado en el horno se ajuste a 
+las especificaciones requeridas. 
+     SI         NO        
+N/A 
+Verificar que la cantidad de fundente agregada sea la correcta según la 
+proporción requerida. 
+     SI         NO        
+N/A 
+Asegurarse de que la temperatura del horno sea la adecuada para el 
+proceso. 
+     SI         NO        
+N/A 
+ 
+3. Preparación de la inoculación  
+Verificar que se tenga la cantidad suficiente de hierro fundido para el 
+proceso de producción. 
+     SI         NO        
+N/A 
+Asegurarse de que el nodulizante sea el adecuado y que este en buenas 
+condiciones. 
+     SI         NO        
+N/A 
+Mezclar el hierro fundido y el nodulizante de manera uniforme. 
+     SI         NO        
+N/A 
+ 
+4. Verificación para la fundición 
+Verificar que la temperatura del hierro fundido se haya alcanzado antes 
+de verter en el molde. 
+     SI         NO        
+N/A 
+Asegúrese de que el molde este en su lugar y que no haya fugas. 
+     SI         NO        
+N/P 
+Verter el hierro fundido en el molde de manera uniforme. 
+     SI         NO        
+N/P 
+  
+5. Verificación para el desmoldeo. 
+
+==================================================
+page_78:
+ 
+ 
+73 
+ 
+Retirar la pieza del molde con cuidado y asegurarse de que no se 
+rompa. 
+     SI         NO        
+N/A 
+Cortar los canales y los residuos sobrantes de la pieza. 
+     SI         NO        
+N/A 
+Inspeccionar visualmente la pieza para detectar cualquier defecto o 
+imperfección. 
+     SI         NO        
+N/A 
+ 
+6. verificación para la inspección y pruebas. 
+Inspeccionar visualmente la pieza para detectar cualquier defecto o 
+imperfección. 
+     SI         NO        
+N/A 
+Inspeccionar visualmente la pieza para detectar cualquier defecto o 
+imperfección. 
+     SI         NO        
+N/A 
+Verificar que la pieza cumpla con las especificaciones requeridas antes 
+de pasar al acabado. 
+     SI         NO        
+N/A 
+ 
+ 
+7. Verificación para el acabado. 
+Limpiar y pulir la pieza para obtener un acabado suave y uniforme. 
+     SI         NO        
+N/A 
+Verificar que la pieza cumpla con los requisitos de acabado antes de ser 
+utilizada o enviada al cliente. 
+     SI         NO        
+N/A 
+ 
+ 
+Observaciones 
+ 
+ 
+ 
+ 
+ 
+N                                     NOTA:   N/A = No aplicable.    N/P = No presenciado. 
+ 
+ 
+ 
+
+==================================================
+page_79:
+ 
+ 
+74 
+ 
+6. REFERENCIAS 
+ 
+Araba. (s.f.). Fundiciones Araba. Obtenido de Moldeo En Arena Verde: http://www.fundicion-
+de-aluminio.es/procesos-de-fundicion/moldeo-en-arena-verde/ 
+Acosta Esqueda, M. A., Martínez Madrid, M., & López, J. A. (2000). El tratamiento de los hierros 
+nodulares en le mejoramiento de los materiales en la industria automotriz. Instituto 
+Mexicano del Trabsporte, Queretaro. 
+Aleaciones a base de ferro-silicio. (1990). En E. Fras , J. L. Serrano Toledo, & A. Bustos Acalá, 
+Fundiciones de Hierro (págs. 231-232). Saltillo, Coahuila, México: ILAFA. 
+Arthur f, S. j. (1979). producción de hierro nodular. mexico: LIMUSA. 
+ASI International. (2002). ASI International. Obtenido de ELIMINACIÓN DE DEFECTOS DE 
+MICROPOROSIDAD SUB-SUPERFICIAL EN ACEROS DE ALEACIÓN AGREGANDO 
+FERROSELENIO: https://www.asi-alloys.com/pdf/SS_2019_Fall-SPA_ASI.pdf 
+ask-chemicals. (s.f.). ask-chemicals. Obtenido de PREVENCIÓN DE DEFECTOS DE FUNDICIÓN: 
+https://www.ask-chemicals.com/es/apoyo/pregunte-al-experto/prevencion-de-
+defectos-de-
+fundicion#:~:text=Las%20posibles%20causas%20de%20tal,de%20la%20cavidad%20del
+%20molde. 
+Composicíon quimica de inoculantes. (1994). En E. Fras, Serrano t, J. L. Serrano Toledo, & A. 
+Bustos Acalá, Fundiciones de Hierro (pág. 257). Saltillo, Coahuila, México: ILAFA. 
+Control de la fabricación de hierro nodular. (1994). En E. Fras, J. L. Serrano Toledo, & A. A. 
+Bustos, Fundiciones de Hierro (págs. 263-264). Saltillo, Coahuila, México: ILAFA. 
+Corporativo Mejorada. (25 de Diciembre de 2019). Corporativo Mejorada. Obtenido de Hierro 
+gris : https://corporativomejorada.mx/soluciones/productos/hierro-gris/ 
+Corporativo Mejorada. (25 de Diciembre de 2019). HIERRO NODULAR. Obtenido de Hierro 
+Nodular o Dúctil: https://corporativomejorada.mx/soluciones/productos/hierro-
+nodular/ 
+Departamento de Energia de EE . UU. (Enero de 1993). Manual de Fundamentos del DOE. 
+Ciencia de Materiales, Volumen 1 y 2. 
+Dolores Tous Zamora, V. F. (2019). Sistemas de Producción. Análisis de las actividades primarias 
+de la cadena de valor. Madrid: ESIC. 
+
+==================================================
+page_80:
+ 
+ 
+75 
+ 
+Edoardo, C. (Enero de 1974). Tecnología de Fundición Tercera Edicion. Barcelona: Gustavo Gili, 
+S.A. 
+fras, E. (1990). FUNDICIONES DE HIERRO. Coahuila: ILAFA. 
+Fras, E., Serrano Toledo, J. L., & Bustos Acalá, A. (1990). En E. Fras, J. L. Serrano Toledo, & A. 
+Bustos Acalá, Fundiciones de hierro (págs. 214-215). Chile: ILAFA. 
+Fras, E., Serrano Toledo, J. L., & Bustos Acalá, A. (1990). En E. Fras, J. L. Serrano Toledo, & A. 
+Bustos Acalá. Saltillo, Coahuila, México: ILAFA. 
+Fras, E., Serrano Toledo, J. L., & Bustos Acalá, A. (1990). Cerio y sus aleaciones. En E. Fras, J. L. 
+Serrano Toledo, & A. Bustos Acalá, Fundiciones de Hierro (págs. 231-232). Saltillo, 
+Coahuila, México: ILAFA. 
+Fras, E., Serrano Toledo, J. L., & Bustos Acalá, A. (1994). Eleccion de tipo de inoculante. En E. 
+Fras , J. L. Serrano Toledo, & A. Bustos Acalá, Fundiciones de Hierro (pág. 257). Saltillo, 
+Coahuila, México: ILAFA. 
+Fras, E., Serrano Toledo, J. L., & Bustos Alcala, A. (1990). Fundiciones de Hierro. México: ILAFA. 
+Fundiciones de hierro. (1990). En E. Fras, J. L. Serrano Toledo, & A. Bustos Acalá, Fundiciones de 
+hierro (págs. 235-236). Saltillo, Coahuila, México: ILAFA. 
+Héctor Daniel Mejía, Á. G. (Abril de 2002). Producción de fundicion en el cubilote eco-eficiente 
+de la Universidad de Antoquia. Facultad de Ingenieria., 25(25). Obtenido de 
+https://revistas.udea.edu.co/index.php/ingenieria/issue/view/2585 
+Insertec. (31 de Agosto de 2016). HORNO CUBILOTE. Obtenido de 
+https://www.insertec.es/blog/horno-cubilote/ 
+ISO 9000. (2015). ISO. Obtenido de ISO 9000 Sistema de Gestion de Calidad.: 
+https://www.iso.org/obp/ui/es/#iso:std:iso:9000:ed-4:v1:es 
+José Luis Enríquez Berciano, E. T. (Diciembre de 2012). UPM. Obtenido de FABRICACIÓN DE 
+FUNDICIÓN NODULAR: https://oa.upm.es/14450/1/Fundici%C3%B3n_nodular.pdf 
+López, Ó. (3 de Octubre de 2022). Guanajuato.gob. Obtenido de La Innovación 4.0: 
+https://boletines.guanajuato.gob.mx/2022/10/03/la-innovacion-4-0-se-vivio-en-
+communiti-leon/ 
+Metalium. (23 de Abril de 2014). Hierro fundido . Obtenido de Hierro fundido gris: 
+https://metalium.mx/hierro-fundido 
+NATERA, J. J. (junio de 2015). OPTIMIZACIÓN DEL PROCESO DE PRODUCCIÓN DE HIERRO . 
+NUEVO LEÓN. 
+
+==================================================
+page_81:
+ 
+ 
+76 
+ 
+PAM SAINT-GOBAIN. (s.f.). Pamline. Obtenido de Características de la fundición dúctil: 
+https://www.pamline.es/informacion-tecnica/fabricacion-y-calidad/caracteristicas-
+fundicion-ductil 
+Pérez Porto, J. M. (25 de marzo de 2023). Producción. Obtenido de Qué es, en la economía, 
+definición y concepto: https://definicion.de/produccion/ 
+Quiroa, M. (4 de Diciembre de 2019). Economipedia. Obtenido de Producción: 
+https://economipedia.com/definiciones/produccion.html 
+Ramírez Natera, J. J. (2015). Optimización del proseso de producción de hierro nodular para 
+piezas automotrices [Tesis de grado,Universidad Autónoma de Nuevo León]. 
+Universidad Autónoma de Nuevo León. 
+Reliance Foundry. (14 de Febrero de 2023). Introducción al Hierro Fundido: Historia, Tipos, 
+Propiedades y Usos. Obtenido de Un metal versátil, el hierro fundido tiene muchas 
+aplicaciones únicas en el mundo comercial e industrial: https://www.reliance-
+foundry.com/blog/hierro-fundido-es 
+Ródenas, J. S. (2011). TECNOMESURA. Obtenido de Calidad: 
+https://www.bdv.cat/perfil/esbarbera/recursos/recursos/confer_ncia_qualitat_2011.p
+df#:~:text=La%20calidad%20es%20un%20conjunto,satisfacer%20necesidades%20impl
+%C3%ADcitas%20o%20expl%C3%ADcitas. 
+Serope Kalpakjian, S. R. (2009). Manufactura, Ingeniería y Tecnología. Naucalpan de Juarez, 
+Edo. de México: PEARSON EDUCACIÓN. 
+Sion, M. d. (22 de Abril de 2019). Hierro Dúctil | La industria del hierro. Obtenido de Fundidora 
+de Alcantarillado Monte de Sion: 
+http://fundidoradealcantarilladomontedesion.com/blog/hierro-ductil-la-industria-del-
+hierro/ 
+Struers. (s.f.). Struers Ensuring Certainty. Obtenido de CARACTERÍSTICAS PRINCIPALES DEL 
+HIERRO FUNDIDO: https://www.struers.com/es-ES/Knowledge/Materials/Cast-
+Iron#:~:text=El%20hierro%20fundido%20ofrece%20una,y%20procesamiento%20de%2
+0industrias%20met%C3%A1licas. 
+William D. Callister, D. G. (Erero de 2016). Ciencia e Ingenieríade Materiales (Vol. 1 y 2). 
+Barcelona: Editorial Reverté, S. A., 2016 . 
+ 
+ 
+
+==================================================

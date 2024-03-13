@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Texto extraído</title>
+</head>
+<body>
+    <h1>Texto extraído</h1>
+    <a href="{{ url_for('home') }}"><button>Regresar</button></a>
+    {% for page, text in pages_text.items() %}
+        <h2>{{ page }}</h2>
+        <p>{{ text }}</p>
+        <hr>
+    {% endfor %}
+</body>
+</html>

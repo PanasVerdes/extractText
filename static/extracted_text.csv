@@ -1,0 +1,4322 @@
+page_1," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNIVERSIDAD DEL SABES 
+ 
+“DIAGNÓSTICO DE EQUIPOS EN MANTENIMIENTO 
+PREDICTIVO CON LA INCLUSIÓN DE TÉCNICAS 
+AVANZADAS COMO TERMOGRAFÍA” 
+ 
+ 
+ 
+PROYECTO DE INVESTIGACIÓN 
+PARA OBTENER EL TÍTULO DE LICENCIATURA EN 
+INGENIERÍA INDUSTRIAL 
+ 
+ 
+ 
+PRESENTA: 
+JOSE JESUS PEÑA MARTINEZ 
+ 
+ASESOR: 
+GLORIA ANGÉLICA HERNÁNDEZ GUTIÉRREZ 
+ 
+San José Iturbide, Guanajuato, AGO 2022 
+ 
+ 
+"
+page_2," 
+ 
+i 
+ 
+"
+page_3," 
+ 
+1 
+ 
+INDICE 
+Contenido 
+INDICE .................................................................................................................................................. 1 
+RESUMEN ............................................................................................................................................ 3 
+INTRODUCCIÓN ................................................................................................................................. 4 
+1. 
+CAPÍTULO I. PLANTEAMIENTO DEL PROBLEMA ............................................................... 6 
+1.1 ANTECEDENTES DEL PROBLEMA ........................................................................................... 7 
+1.2 PLANTEAMIENTO DEL PROBLEMA ......................................................................................... 8 
+1.3 
+OBJETIVOS ............................................................................................................................ 11 
+1.3.1 OBJETIVO GENERAL ......................................................................................................... 11 
+1.3.2 
+OBJETIVOS ESPECÍFICOS ........................................................................................ 11 
+1.4 
+PREGUNTAS DE INVESTIGACIÓN .................................................................................... 11 
+1.5 
+JUSTIFICACIÓN ..................................................................................................................... 12 
+2 
+CAPÍTULO II MARCO CONCEPTUAL Y TEÓRICO. ............................................................ 13 
+2.1 
+MARCO CONCEPTUAL ........................................................................................................ 13 
+2.2 
+MARCO TEÓRICO ................................................................................................................. 16 
+2.2.1 DESARROLLO DEL MANTENIMIENTO PREDICTIVO ................................................. 16 
+2.2.2 DESCUBRIMIENTO DEL INFRARROJO ......................................................................... 16 
+2.2.3 ANTECEDENTES DE LA TERMOGRAFÍA ...................................................................... 17 
+2.2.4 COMPRENSIÓN DEL ESPECTRO ELECTROMAGNÉTICO ........................................ 18 
+2.2.5 DESARROLLO DE LA CAMARA TERMOGRÁFICA ..................................................... 20 
+2.2.6 SISTEMAS TERMOGRÁFICOS ......................................................................................... 21 
+2.2.7 COEFICIENTES EN LOS SISTEMAS TERMOGRÁFICOS ........................................... 22 
+2.2.8 COMPONENTES EN LOS SISTEMAS TERMOGRÁFICOS ......................................... 23 
+3 
+CAPÍTULO III. HIPÓTESIS ...................................................................................................... 26 
+3.1 VARIABLE INDEPENDIENTE: LA IMPLEMENTACIÓN DE UN MANTENIMIENTO PREDICTIVO CON 
+LA INCLUSIÓN DE UN SISTEMA TERMOGRÁFICO. ..................................................................................... 26 
+3.2 
+VARIABLE DEPENDIENTE: AUMENTO DE CONFIABILIDAD Y DISPONIBILIDAD DE LOS 
+EQUIPOS, AUMENTO EFICIENTE DEL FUNCIONAMIENTO. ........................................................................ 26 
+3.3 
+VARIABLES INTERVINIENTES: ......................................................................................... 26 
+4 
+CAPÍULO IV. MARCO METODOLÓGICO. ............................................................................ 27 
+4.2 
+ENFOQUE DE LA INVESTIGACIÓN ................................................................................... 27 
+4.2 DISEÑO DE LAINVESTIGACIÓN ............................................................................................... 28 
+4.2.1 ALCANCE DE LA INVESTIGACIÓN: ................................................................................ 28 
+4.2.2 TIPO DE ESTUDIO: .............................................................................................................. 28 
+4.2.3 INSTRUMENTOS Y HERRAMIENTAS: ............................................................................ 28 
+"
+page_4," 
+ 
+2 
+ 
+4.2.4 MUESTREO DE LA INVESTIGACIÓN: ............................................................................. 30 
+5. 
+CAPÍTULO V. PRESENTACIÓN Y ANÁLISIS DE RESULTADOS ..................................... 31 
+5.1 
+PRESENTACIÓN DE RESULTADOS ................................................................................. 31 
+5.1.1 SELECCIÓN DE EQUIPOS CRÍTICOS. ............................................................................ 31 
+5.1.2 BÚSQUEDA DE DATOS DE PLACA E INFORMACIÓN DE EQUIPOS ..................... 32 
+5.1.3 CREACCIÓN DEL CHECK LIST ÚNICO E HISTÓRICO PARA LOS 
+MANTENIMINETOS PREDICTIVOS EN LOS EQUIPOS ......................................................... 36 
+5.1.4 CAPACITACIÓN A PERSONAL DE MANTENIMIENTO ............................................... 46 
+5.1.5 PRUEBAS DE MANTENIMINETO PREDICTIVO Y LLENADO DE CHECK LIST EN 
+EQUIPOS .......................................................................................................................................... 50 
+5.2 
+ANÁLISIS DE RESULTADOS .............................................................................................. 51 
+5.2.1 MEDICIÓN DE LOS MANTENIMIENTOS PREDICTIVOS ............................................. 51 
+5.2.2 EVALUACIÓN DE CUMPLIMIENTO EN LAS ÁREAS DE MANTENIMIENTO ......... 53 
+6. 
+CAPÍTULO VI. CONCLUSIONES ............................................................................................ 56 
+6.1 
+DISCUCIÓN ............................................................................................................................. 56 
+6.2 
+CONCLUSIONES ................................................................................................................... 56 
+6.3 
+RECOMENDACIONES .......................................................................................................... 58 
+7. 
+REFERENCIA ............................................................................................................................ 60 
+8. ANEXOS ........................................................................................................................................ 63 
+8.1 ANEXO 1......................................................................................................................................... 63 
+8.2 ANEXO 2......................................................................................................................................... 73 
+8.3 ANEXO 3......................................................................................................................................... 80 
+8.4 ANEXO 4......................................................................................................................................... 87 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"
+page_5," 
+ 
+3 
+ 
+Resumen 
+En la empresa FLEX N GATE dedicada a la fabricación de autopartes metálicas, 
+se dividen varias áreas, entre las cuales se encuentra mantenimiento y en esta 
+también está conformada por áreas como soldadura, prensas, cromo, ensamble 
+y servicios generales. Entre estas áreas se encuentran diversos equipos y 
+maquinarias a los cuales seles realizan mantenimientos preventivos y 
+correctivos, la finalidad del área de mantenimiento consiste en asegurar 
+confiabilidad y disponibilidad en los equipos. A través de un análisis se busca 
+crear un listado para medir el nivel crítico de cada equipo dependiendo su 
+necesidad en el proceso, esto para dar prioridad a la implementación de un 
+mantenimiento predictivo a los más críticos de cada área. En la implementación 
+del mantenimiento predictivo se sustenta con análisis termográfico además de 
+los sistemas tradicionales para estos mantenimientos, para registrar la 
+información de los mantenimientos se crea un ckeck list donde se almacenan de 
+manera de manera histórica  los datos recopilados de cada mantenimiento 
+predictivo realizado, aprovechando esta información para intentar predecir los 
+fallos a través de gráficos creados que están enlazados directamente con los 
+apartados donde se registran los datos  de cada mantenimiento, todo esto se 
+crea a través del programa Excel.  Para incluir estos mantenimientos se capacita 
+al personal de mantenimiento en cursos de termografía y mantenimiento 
+predictivo, así como también una capacitación en el llenado correcto del check 
+list durante un mantenimiento. También se toma la opinión tanto de técnicos 
+como de supervisores para realizar ajustes de manera que los mantenimientos 
+sean lo más eficientes posible, así como las tareas de la orden de trabajo sean 
+bastante claras para realizarlas de manera correcta. Una vez que se inicia un 
+mantenimiento predictivo en los equipos, revisando al menos una vez al mes los 
+resultados en los mantenimientos, para buscar una predicción de acuerdo con el 
+análisis de los mantenimientos realizados, así también medir el aumento de la 
+confiabilidad y disponibilidad en los equipos críticos. 
+ 
+"
+page_6," 
+ 
+4 
+ 
+Introducción 
+La aplicación del mantenimiento en los procesos de producción surge de la 
+necesidad de entender la importancia económica, más que solo limitar la 
+reparación de máquinas tras una falla o avería con un mantenimiento correctivo 
+que obliga a paralizar la maquinaria y, en consecuencia, la producción. La 
+reparación por las fallas o averías ocurren junto con la falla misma, y entonces 
+ya no hay nada que hacer. No existen planes de rutina, por lo que la estrategia 
+se resume en reparar los motores, válvulas y otros componentes cuando no hay 
+más remedio.  La idea de competitividad, reducción de costos y productividad 
+aportada inicialmente por la industria automotriz ha elevado la importancia de los 
+activos. Se entiende la falla de un elemento en la cadena productiva significa una 
+demora inaceptable que puede acarrear perdidas masivas a la empresa. La 
+maquinaria es el elemento clave para la producción. (Mancuzo, 2022). 
+Durante del siglo XX la producción a gran escala y la implementación de líneas 
+de producción habían aumentado el trabajo de las máquinas y el rendimiento 
+requiriendo demandaba más de su buen funcionamiento. En el siglo pasado a 
+finales de los 50 un pequeño grupo de Ohio dedicados al mantenimiento 
+preventivo desarrollaron una herramienta capaz de detectar anomalías en ciertos 
+tipos de motores eléctricos que generaban continuos problemas mecánicos. El 
+paro de la maquinaria en los procesos de producción generaba costos elevados 
+y evitarlos, genera ahorros económicos a la empresa. De esta forma se dio inicio 
+al desarrollo de lo que hoy se conoce como mantenimiento predictivo. En la 
+actualidad los programas de mantenimiento predictivo son la mejor herramienta 
+en la industrial a nivel mundial. Se estima que entre un 56 y 64% de las plantas 
+industriales 
+del 
+mundo 
+tienen 
+implementada 
+alguna 
+herramienta 
+de 
+mantenimiento predictivo. En los países desarrollados cerca del 77% cuentan con 
+un programa de mantenimiento establecido, que en la mayoría de los casos es 
+utilizado para la implementación de mejoras dentro de la industria. (BUREAU 
+VERITAS, 2017) 
+"
+page_7," 
+ 
+5 
+ 
+En los últimos años las empresas manufactureras han sido las más importantes 
+en el sector de la industria en Guanajuato, posicionándose en el cuarto lugar a 
+nivel nacional en la producción de autopartes y en el primer lugar del país, en la 
+producción de vehículos ligeros, según lo dio a conocer Alfredo Arzola, director 
+del Clúster Automotriz de Guanajuato, con estadísticas del INEGI. En 2021, la 
+entidad reporto un crecimiento del 6% en la fabricación de vehículos y un 10% 
+en autopartes, Encuestas realizadas por Clúster Automotriz de Guanajuato 
+afirman el 50% de las empresas en la zona Bajío consideraron nuevos proyectos 
+para el 2022. En los últimos 6 meses del año 2021 en Guanajuato el 50% de las 
+empresas de autopartes tuvieron incremento de plantilla, con generación de dos 
+mil empleos, ahondo el representante del sector de autopartes automotriz. 
+(Hernández 2022) 
+Esta investigación se llevó a cabo para implementar un mantenimiento predictivo 
+en los equipos de la planta FLEX N GATE, ya que el gerente y los supervisores 
+percibieron durante recorridos en la  planta y varios antecedentes de los equipos 
+evidenciaron era necesario  mejorar esta situación, Los aspectos que se 
+examinaron fueron la revisión de la condición actual de los equipos, las técnicas 
+utilizadas en los mantenimientos  y las supervisiones en las instalaciones así 
+como los problemas ya existentes  y las propuestas de solución.  
+En FLEX N GATE, se ha estado aumentando el número de equipos y líneas de 
+producción, debido a la ampliación de la planta, por nuevos proyectos. La llegada 
+de estos trae consigo más maquinaria por lo que el área de mantenimiento debe 
+continuar cumpliendo con su objetivo de disponibilidad y confiablidad, en todos 
+los equipos de la planta, sin descuidar ningún área, con el mantenimiento 
+preventivo es suficiente hasta el año 2021 cuando llego una nueva expansión, de 
+debido a nuevos proyectos por lo que se limita el tiempo del personal con el 
+aumento de la maquinaria. Con solo la aplicación del mantenimiento preventivo 
+y la aplicación del mantenimiento correctivo se comienzan a descuidar algunos 
+equipos tanto por la limitación de las técnicas empleadas como la organización 
+en la planeación del mantenimiento debido a la poca precisión en la detención de 
+"
+page_8," 
+ 
+6 
+ 
+fallas que se tiene con estos mantenimientos. Por lo que se ve necesario el 
+implementar un mantenimiento que incluya más técnicas de análisis de equipo y 
+sirva para predecir con más claridad el tiempo de falla en el equipo, ayudando a 
+dar una planeación de mantenimientos programados para optimizar más el 
+tiempo 
+del 
+personal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. CAPÍTULO I. PLANTEAMIENTO DEL PROBLEMA 
+"
+page_9," 
+ 
+7 
+ 
+1.1 ANTECEDENTES DEL PROBLEMA  
+Desde principios del siglo XIX, luego de iniciada la Revolución industrial, se 
+comenzó a implementar el mantenimiento industrial toda vez que requería 
+mejorar la producción de bienes y servicios- Con el tiempo, se fueron 
+especializando los procesos y capacitando al personal hasta llegar a lo que 
+conocemos hoy como uno de los mayores beneficios de la industria. Gonzáles, I. 
+(2020, 24 octubre). 
+La manera de evolucionar el mantenimiento a través de la inclusión de nuevas 
+herramientas a conducido a “la aplicación de la estrategia predictiva en el 
+mantenimiento industrial ha reportado enormes ahorros a aquellas compañías 
+que han sabido aplicarlas estrategias más adecuadas para cada activo”. 
+Ballesteros Robles, F. (2011).  
+Ahora bien, se especifica en un aporte realizado por Teba, C. (2020). 6 errores 
+para evitar en tu programa de mantenimiento predictivo. Las instrucciones de un 
+mantenimiento predictivo deben ser específicas para cada parte de la instalación, 
+ya que las instalaciones pobres en detalle producen errores y actividades de 
+mantenimiento incorrectas. 
+Fue a raíz de las nuevas formas de organización del trabajo de Taylor, H. Ford, 
+y Fayol cuando la función de mantenimiento adquiere especialización y 
+autonomía propia, es entonces cuando aparecen la administración, dirección y 
+control de los sistemas mecánicos y eléctricos mediante programas de 
+mantenimiento preventivo como una necesidad ante la exigencia de 
+disponibilidad que manifestaba la industria de proceso continuo. 
+Durante 1950 un grupo de ingenieros japoneses comenzaron un nuevo concepto 
+de mantenimiento que simplemente realizaba las recomendaciones dadas por los 
+fabricantes del equipo acerca de los cuidados que se debían tener en la 
+operación y el mantenimiento del equipo. esta nueva tendencia se llamó 
+mantenimiento preventivo.  Fue a partir de aquí que los gerentes de planta se 
+interesaron por hacer que sus supervisores mecánicos, electricistas y otros 
+"
+page_10," 
+ 
+8 
+ 
+técnicos, desarrollaran programas de mantenimiento para lubricar y hacer 
+observaciones claves para prevenir danos al equipo. Santos, J. F. (2017, 15 
+marzo).  
+A pesar de que el Mantenimiento Preventivo ayudó a reducir pérdidas de tiempo, 
+seguía siendo una alternativa costosa. La razón era que muchas partes se 
+remplazaban basándose en el tiempo de operación, mientras podían haber 
+durado más tiempo. Además de eso el aplicar varias horas innecesarias de labor 
+sumaba más costo a este mantenimiento. 
+Actualmente en FLEX N GATE se registran una gran cantidad de incidentes en 
+los sistemas eléctricos de la planta, y esto genera paros no programados en las 
+líneas de producción con los que se generan grandes pérdidas económicas. 
+Además de esto se logra detectar una ineficiencia alá hora de realizar los 
+mantenimientos preventivos pues se deduce existen diversas actividades que no 
+aportan historial para predecir fallas futuras y a los técnicos les ace falta actualizar 
+sus métodos y herramientas ya que constantemente las fallas están ocurriendo 
+sin anticiparlas y esto provoca paros de producción, por tal motivo los 
+mantenimientos correctivos están al límite de personal.  
+1.2 PLANTEAMIENTO DEL PROBLEMA  
+Sucesos históricos en las instalaciones de la planta han dado lugar a diversos 
+paros técnicos por fallas en equipos críticos como transformadores o bancos de 
+capacitores que han causado paros en las líneas de producción al menos 
+detectando un problema en ellos cada mes y en pocas ocasiones se han dado 
+lugar a sucesos críticos donde la reparación a estas maquinarías requería 
+grandes sumas de presupuesto  para ser reparadas, pues el mantenimiento 
+predictivo ya se había intentado poner  a prueba en algunos equipos críticos  pero 
+no era del todo eficiente, por lo que se pretende tomar en un inicio como prioridad 
+todos los equipos críticos ya que se desea prevenir la mayor probabilidad de una 
+falla posible. Pues incluso un calentamiento en los transformadores de la planta 
+"
+page_11," 
+ 
+9 
+ 
+puede ocasionar un severo problema por lo que es necesario monitorearlos todos 
+los días para estar al tanto de cualquier aumento de temperatura.  
+Datos importantes demostraron que dentro de la planta el 80% del mantenimiento 
+estaba destinado a corregir las fallas y solo el 20% se invertía en la predicción de 
+estas, siendo así que todo el personal está al límite de tiempo y en los equipos 
+va en aumento los paros no programados por lo que para la predicción de los 
+problemas se decidió la implementación de un mantenimiento predictivo. 
+Constantemente los equipos con motores suelen sobrecalentarse y debido al 
+sobrecalentamiento suelen averiarse, esto pasa con frecuencia en los equipos 
+que trabajan largas horas continuas, siendo así que un paro por este tipo de sobre 
+calentamiento puede detener la producción desde un par de minutos hasta días 
+completos.   
+Se tiene un registro del porcentaje de la medición del desempeño y rendimiento 
+a través del tiempo de inactividad en los equipos, esto es usado como un análisis 
+antes de la implementación del mantenimiento predictivo. La figura 1, muestra la 
+interpretación del desempeño general de mantenimiento durante un periodo en 
+los meses de enero-mayo 2021. 
+ 
+ 
+Figura 1: Desempeño del área de mantenimiento, enero- mayo 2021. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+La gráfica muestra el porcentaje de tiempo muerto durante cada mes y el objetivo 
+que se desea cumplir, en abril se muestra fue la excepción de no cumplir el 
+objetivo. 
+0
+1
+1
+2
+2
+3
+OCTNOVDEC JAN FEB MARAPRMAYJUN JUL AUG SEP OCTNOV
+% Downtime
+Months
+Desempeño (Performance)
+REAL
+TARGET
+"
+page_12," 
+ 
+10 
+ 
+El tiempo muerto se deriva de las 5 áreas principales de mantenimiento en estos 
+meses solo 3 de ellas contribuyeron a la mayoría del porcentaje de tiempo muerto 
+acumulado. La figura 2, muestra los contribuyentes a la mayoría del tiempo de 
+paro. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 2: Contribuidores al tiempo de paro en las líneas. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+Es evidente en el área de soldadura se presentan la mayoría de contribución con 
+los tiempos muertos, aunque en el área de Ecoat y Prensas también se refleja un 
+porcentaje considerable, sumando un total de 82,7 % de tiempo murto total en el 
+área de mantenimiento. 
+La falta de un sistema termográfico  en el mantenimiento  provoca  el dejar pasar 
+por alto diversos puntos calientes  que pueden llevar a  un  sobrecalentamiento 
+en los equipos, ocasionando que estos se  averíen creando una serie de eventos 
+desafortunados para la empresa pues demanda tiempo perdido por el paro no 
+programado del equipo, se solicita mover personal para atender la falla 
+distrayendo a los técnicos de sus actividades ya programadas, además de que 
+se requiere una inversión necesaria para la reparación del equipo.  
+En cuestión de seguridad representa un peligro el no estar al tanto de una posible 
+falla que pudiera ser un riesgo para los técnicos que realizan el mantenimiento. 
+52.30%
+16.80% 13.60%
+0
+0
+0
+0
+0
+1
+1
+Soldadura Ecoat
+Prensas
+% Contribution
+Causes
+5 Contribuidores (Top 5 Issues)
+"
+page_13," 
+ 
+11 
+ 
+Los estudios han revelado que el mantenimiento predictivo prolonga la vida útil 
+de los activos antiguos en un 20%.  Además de que reduce los riesgos de 
+seguridad, salud, ambiente y calidad en al menos 14 %.  
+¿Cómo será reflejado el aumento en la confiabilidad y disponibilidad de los 
+equipos implementando el mantenimiento predictivo en 6 meses? 
+1.3 OBJETIVOS 
+1.3.1 OBJETIVO GENERAL 
+Implementar un programa de mantenimiento predictivo en el área de 
+mantenimiento en la empresa FLEX N GATE, basado en mediciones e 
+interpretación de gráficos consecutivos, utilizando técnicas como la termografía 
+para el mejoramiento de la confiabilidad y disponibilidad de los equipos. 
+1.3.2 OBJETIVOS ESPECÍFICOS 
+-  Evaluar los equipos elegidos para el mantenimiento predictivo. 
+- Crear un check list único para registrar y diagnosticar la toma de datos en los 
+equipos. 
+- Capacitar al personal de mantenimiento en el programa de mantenimiento 
+predictivo y en el uso correcto de la termografía. 
+-  Realizar pruebas exitosas del mantenimiento predictivo en los equipos críticos. 
+- Mejorar y corregir los check list para que sean del todo eficientes. 
+- Evaluar los resultados en la implementación del mantenimiento predictivo. 
+1.4 PREGUNTAS DE INVESTIGACIÓN  
+¿Cuáles son los efectos sobre los técnicos de mantenimiento al implementar un 
+cambio en sus rutinas de trabajo de mantenimientos preventivos a 
+mantenimientos predictivos y la inclusión de técnicas como la termografía? 
+"
+page_14," 
+ 
+12 
+ 
+¿Cuál son los ahorros en la implementación de un mantenimiento predictivo a 
+otros mantenimientos dentro de la planta? 
+¿Por qué es importante incluir el mantenimiento predictivo dentro de una 
+empresa manufacturera? 
+¿Como va a beneficiar el mantener un check list donde se ingresen gráficamente 
+los datos tomados de los mantenimientos anteriores como historial médico de 
+una maquinaria? 
+¿Cómo puede influir en otras plantas los resultados obtenidos en la 
+implementación de este mantenimiento predictivo en FLEX N GATE? 
+1.5 JUSTIFICACIÓN 
+Esta investigación es favorable tanto para el área de mantenimiento en la 
+empresa como para el área de producción ya que se buscan cumplir objetivos 
+compartidos como la disponibilidad de los equipos, en todo momento se busca 
+mantener la disponibilidad de los equipos para evitar los paros no programados 
+en la producción por fallas en los equipos, además de esto el desarrollo de esta 
+investigación pretende mejorar el rendimiento de los equipos influyendo así en 
+los costos de producción al impactar en la reducción de reparaciones en  los 
+equipos. 
+La implementación de esta investigación en la empresa FLEX N GATE es viable 
+ya que se cuenta con el equipo y el personal necesario para llevarla a cabo, al ya 
+contar con la mayoría de estos equipos en la planta y partiendo de un 
+mantenimiento preventivo ya establecido. Además de esto para este proyecto se 
+cuenta con la aprobación por parte de la alta gerencia esto facilitara deláxelo a 
+toda la información necesaria para el análisis y diseño del programa del plan de 
+mantenimiento predictivo, también cuenta con la colaboración del personal 
+técnico de mantenimiento y los operadores de producción. 
+La investigación tiene una utilidad metodológica, ya que podrá utilizarse para 
+futuras investigaciones donde se utilicen metodologías similares, de forma que 
+"
+page_15," 
+ 
+13 
+ 
+se puedan realizar análisis en conjunto, comparaciones entre periodos 
+temporales concretos y evaluaciones de las intervenciones que se estarán 
+llevando a cabo. 
+En un aspecto profesional el estudio pretende contribuir a los avances 
+industriales que se realizan a nivel nacional, y en particular en la empresa FLEXN 
+GATE sobre el aumento de los conocimientos en cuanto a nuevas técnicas y 
+equipos de medición, así como en la optimización del tiempo en los técnicos y 
+desarrollando un sistema esencial para los procesos de mantenimiento, así 
+mismo mejorando el servicio en los equipos de la planta. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 CAPÍTULO II MARCO CONCEPTUAL Y TEÓRICO. 
+2.1 MARCO CONCEPTUAL 
+"
+page_16," 
+ 
+14 
+ 
+Partiendo desde la importancia del mantenimiento predictivo en una 
+instalación eléctrica. Este concepto tiene como base que las máquinas o 
+instalaciones dan una serie de avisos antes de que fallen y haciendo esta clase 
+de mantenimiento se busca reconocer los síntomas para tomar acciones y las 
+decisiones de reparación o cambio antes de que pueda producirse un fallo. Esta 
+clase de mantenimiento se lleva a cabo antes de que se produzca una avería o 
+un fallo en la instalación eléctrica. Se trata de revisar de forma periódica 
+diferentes aspectos relacionados con los componentes de un equipo que influyen 
+en un correcto funcionamiento del sistema y también en la integridad de la 
+infraestructura. Muntatges, B. (2019, 21 enero).  
+Mantenimiento predictivo es aplicado como serie de acciones que se toman y 
+técnicas que se aplican con el objetivo de detectar posibles fallos y defectos de 
+maquinaria en etapas tempranas. Mientras que el mantenimiento preventivo es 
+el destinado a la conservación de los equipos o instalaciones mediante la 
+realización de revisión y limpieza que garantice el buen funcionamiento y 
+fiabilidad. 
+Mantenimiento correctivo es la forma más básica del mantenimiento consiste 
+en localizar averías o defectos en las instalaciones o equipos y repararlos. 
+Diario de campo: El diario de campo es una herramienta de investigación que 
+contiene todos los datos recogidos sobre el terreno en una investigación de 
+campo. Generalmente, el investigador utiliza un diario de campo para registrar 
+sus observaciones y pensamientos de forma ordenada, ya que este registro 
+permite recoger pistas sobre el funcionamiento de un sistema social. (Ortega, 
+2021). 
+Registro fotográfico: se utiliza como un medio para la recolección de 
+información durante el trabajo de campo. El resultante de las tomas, las fotos, 
+conforman un corpus de datos que posteriormente deberán ser analizados 
+atendiendo a las categorías elaboradas en el marco de la investigación. 
+"
+page_17," 
+ 
+15 
+ 
+ Guía de observación: es un instrumento que permite al observador situarse de 
+manera sistemática en aquello que realmente es objeto de estudio para la 
+investigación; también es el medio que conduce la recolección y obtención de 
+datos e información de un hecho o fenómeno. (Criollo, 2021). 
+Compresor industrial: dispositivo que comprime aire y nos sirve para usar una 
+amplia gama de herramientas neumáticas.  Son maquinas cuya función es 
+desplazar fluidos aumentando progresivamente y según la necesidad de la tarea, 
+la presión que ejerce. Loa fluidos que circulan dentro del compresor de aire se 
+conocen como “comprensibles” estos son el aire de los gases y los vapores. 
+Aumenta los llamados fluidos comprensibles para desplazar mediante 
+comprensión mecánica. 
+Aire comprimido en la industria: Se considera el cuarto recurso del cual no se 
+puede prescindir, este resulta de vital importancia parala operación de 
+maquinarias industriales múltiples aplicaciones. Se estima que más del 20% de 
+la energía consumida en la industria proviene del aire comprimido.   (Sanches, 
+2021) 
+Prensa hidráulica: esta “se basa en el Principio de Pascal y en realidad, es un 
+funcionamiento bastante simple.  La prensa está formada por cilindros, pistones, 
+tuberías hidráulicas, liquido entre otros. El sistema costa de dos cilindros con 
+émbolos de diámetros diferentes que se llenan con un fluido. El fluido está 
+presente en ambos cilindros y suele ser aceite o agua. Cuando se inserta un 
+pistón en el cilindro esclavo (el más pequeño) esta presión hace que el fluido se 
+mueva a través de una tubería y dentro del cilindro maestro (el más grande).  La 
+fuerza aplica sobre el fluido da como resultado una gran fuerza que, junto a la 
+placa de prensa, permite que el material que se quiere trabajar se perfore o se 
+triture en laminas. (solpress, 2020). 
+Rectificadores: son dispositivos electrónicos o circuitos que logran transformar 
+la corriente alterna en corriente continua. Se utilizan con frecuencia para hacer 
+"
+page_18," 
+ 
+16 
+ 
+funcionar motores de corriente continua de alta potencia y para alimentar los 
+circuitos de equipos electrónicos. (Silva, 2019). 
+La Termografía es una Técnica que permite registrar gráficamente las 
+temperaturas de un cuerpo u objeto. 
+Sistemas eléctricos: comprende los medios y elementos parala generación, el 
+transporte y la distribución de la energía eléctrica. 
+Técnicos de mantenimiento: es el centro de la evolución de los sistemas 
+industriales y su principal objetivo es prevenir más que reparar las averías. 
+Check list: método de control que relaciona diversas tareas, actividades. Se 
+debe seguir para alcanzar un resultado de forma sistemática. 
+ 
+2.2  MARCO TEÓRICO 
+2.2.1 DESARROLLO DEL MANTENIMIENTO PREDICTIVO 
+A finales de los 50 del siglo pasado, un pequeño grupo de emprendedores de 
+Ohio (Estados Unidos) dedicados al mantenimiento predictivo y motivados por 
+una necesidad económica, desarrollaron una herramienta capaz de detectar 
+anomalías en ciertos tipos de motores eléctricos que generaban continuos 
+problemas mecánicos. Por otra parte, las paradas de las maquinas en algunos 
+procesos de producción implicaban costos altos y evitarlos, significaba 
+importantes ahorros de dinero de esta forma se dieron los primeros pasos en el 
+desarrollo de lo que hoy se conoce como mantenimiento predictivo. C. (2017, 17 
+julio). 
+2.2.2 DESCUBRIMIENTO DEL INFRARROJO 
+Desde un comienzo se le acredita el descubrimiento del infrarrojo a Sir William 
+Herschel, se cuenta esto sucedió mientras realizaba experimentos de 
+temperatura con un prisma, hizo que la Luz del sol pasara a través del prisma de 
+vidrio, reflejando así los distintos colores del espectro, entre ellos (violeta, índigo, 
+"
+page_19," 
+ 
+17 
+ 
+Azul, Verde, Amarillo, Naranja y Rojo). Con el uso de un termómetro tomo las 
+diferentes temperaturas de cada color individualmente y encontró que a medida 
+que movía el termómetro de los colores más fríos como el índigo o el azul, hacia 
+los colores más cálidos como el naranja o el rojo, existía un aumento de 
+temperatura asociado. Galán, J. (2019, diciembre). 
+De hecho, cuando movió el termómetro más allá de los rayos de color rojo, 
+descubrió que había temperaturas más altas. Ahora esta región se denomina 
+“infrarrojo”. 
+Esta Radiación infrarroja descubierta en 1800 por el astrónomo sir William 
+Herschel, quien descubrió el tipo de radiación invisible en el espectro de menor 
+energía que la luz roja, mediante su medición través del termómetro. También se 
+comprobó que más de la mitad de la energía total que llega del sol a la tierra es 
+en forma de infrarrojos. Y este equilibrio entre la radiación infrarroja absorbida y 
+emitida tiene un efecto considerable en el clima de la tierra.  
+Podemos encontrar que William Herschel escribió sobre sus experimentos en la 
+publicación philosophical Transactions of the Royal Society durante el 27 de 
+marzo, 24 de abril y 15 de mayo en 1800. Siendo el 15 de mayo cuando dijo 
+“Siendo a hora evidente que había una refracción de rayos provenientes del sol 
+que, si bien no eran aptos para la visión, estaban altamente investidos de un 
+poder de ocasionar calor. Procedo a examinar su alcance de la siguiente forma.”  
+2.2.3 ANTECEDENTES DE LA TERMOGRAFÍA 
+Se conoce la existencia de la termografía desde la década de los ´50, se dice que 
+fue usada para usos militares desde ese entonces, tiempo después en la década 
+de los ´60, en Suecia sale a la venta la primera cámara echa por la empresa 
+sueca AGA ya usada para propósitos civiles y comerciales en 1960. T.A.S.A. 
+(2018).  
+Esta cámara al ser la primera era un sistema un tanto grande que requería incluso 
+de toda una camioneta para ser transportada, aunque cabe señalar que las 
+imágenes eran las más desatacada puesto que eran las primeras en ser 
+"
+page_20," 
+ 
+18 
+ 
+reconocidas y esto a su vez atraía la atención de muchas personas, ya que ver 
+una imagen infrarrojo era descriptivamente sorprendente además de los grandes 
+beneficios que traía consigo este nuevo paso en la tecnología infrarroja.  
+Siendo anunciadas estas imágenes de termografías como revolucionarias dentro 
+de las industrias de servicios eléctricos. 
+Para las aplicaciones militares se continuó trabajando con avances en el 
+desarrollo de cámaras más pequeñas y ligeras, por la década de los 70´s estas 
+cámaras mostraron un constante uso en las industrias, además de que se 
+desarrollaron nuevos sistemas enfriados con nitrógeno líquido, tiempo después 
+se presentaron otras cámaras como la Hughes Probeye y la AGA Thermovision 
+110. Ambos diseños eran sistema de escaneado, la Probeye se enfriaba con gas 
+argón comprimido a alta presión y la 110 se enfriaba eléctricamente.  
+Al comienzo de los 80´s comenzaron a comercializarse los primeros sistemas de 
+escaneado de medición directa, estos permitían la medición de la temperatura 
+radiométrica directamente sobre la imagen, aun mostrando un tamaño bastante 
+grande estos sistemas comenzaron a mostrar un nivel impresionante de 
+confiabilidad y precisión radiométrica. Aun en estos sistemas se continuaba 
+utilizando criogénicos para enfriar, pero se presentaron en el mercado unidades 
+enfriadas termoeléctricamente que fueron bien recibidas.  
+La mayoría de estos sistemas creados o disponibles hasta estas fechas utilizaban 
+tecnología de escaneado, tiempo después se descubrieron otros sistemas 
+envase a tubos de vidicón piro eléctrico (PEV) electrónicos térmicamente 
+sensibles similares a los usados en la industria de la televisión. En estos sistemas 
+los escáneres tenían menor sensibilidad y presentaban la ventaja de no necesitar 
+enfriamiento.  
+2.2.4 COMPRENSIÓN DEL ESPECTRO ELECTROMAGNÉTICO 
+El experimento de Herschel fue importante porque fue la primera vez que alguien 
+demostrada empíricamente que había tipos de luz no visibles al ojo humano lo 
+que ejerce la había descubierto era una forma de luz más allá de la roja lo que 
+"
+page_21," 
+ 
+19 
+ 
+hoy conocemos como radiación infrarroja nuestros ojos están diseñados para 
+detectar la luz visible pero hay otras formas de luz que no podemos ver como 
+descubrió Herschel pocos animales ven los infrarrojos no obstante las serpientes 
+de cascabel y otras víboras poseen dos pequeños. 
+órganos o fosas entre los ojos y la nariz capaces de detectar los rayos infrarrojos 
+así incluso en la oscuridad son capaces de atacar con total precisión a sus presas 
+de sangre caliente, pues el ojo humano sólo alcanza a ver una mínima parte del 
+espectro electromagnético en un extremo no es capaz de ver los rayos gamma 
+la luz ultravioleta ni los rayos x- y, en el otro no es capaz de distinguir los rayos 
+infrarrojos las microondas y las ondas de radio los infrarrojos, están a medio 
+camino entre el espectro visible y las microondas del espectro electromagnético. 
+La diferencia entre la luz infrarroja y la visible es la longitud de onda de los 
+infrarrojos es demasiado grande para nuestros ojos, otra forma de ilustrar esto 
+mismo es con la ley de la radiación de Max Planck formulada en 1900. 
+Cuanto mayor es la temperatura de un cuerpo más cantidad de energía emite en 
+cada longitud de onda y menor es la longitud de onda en la que el nivel de emisión 
+es más alto. 
+Suena complicado, pero no lo es, esta es la curva 37 grados centígrados la 
+temperatura corporal normal del ser humano, la radiación máxima se emite a 
+unos 93 micrómetros y la única manera de verla es con una cámara de infrarrojos.  
+Todos los días estamos expuestos a rayos infrarrojos el calor de la luz solar del 
+fuego de un radiador son formas de infrarrojos y aunque nuestros ojos no los 
+vean los nervios de nuestra piel los perciben como calor, cuanto más caliente es 
+un objeto más radiación de infrarrojos emite.  
+ 
+"
+page_22," 
+ 
+20 
+ 
+2.2.5 DESARROLLO DE LA CAMARA TERMOGRÁFICA 
+Las cámaras de infrarrojos también llamadas termográficas miden la cantidad de 
+rayos infrarrojos que inciden en su detector cuando se calibran de forma especial 
+algunas cámaras térmicas son capaces de medir la temperatura de los objetos. 
+La termografía no es lo mismo que usar gafas de visión nocturna, en absoluto 
+estas gafas lo único que hacen es amplificar pequeños haces de luz visible para 
+poder ver los objetos por la noche, solo funcionan si hay luz por muy poca que 
+sea de la luna o de las estrellas. 
+La termografía funciona al detectar el calor radiante de los cuerpos, no necesita 
+la presencia de luz. 
+La primera cámara termográfica se diseñó en 1958 Gabor Force, en Suecia, con 
+fines militares en 1965 se vendió la primera unidad para aplicación industrial el 
+mismo año se lanzó al mercado un escáner Comercial. 
+Hoy en día se desarrollan y comercializan nuevas cámaras termográficas más 
+sofisticadas en el mercado con detectores con y sin refrigeración, pero ¿cómo 
+funciona una cámara termográfica? 
+Aunque las cámaras termográficas se parecen mucho a las cámaras normales 
+están lejos de ser lo mismo el cristal no es un buen conductor de rayos infrarrojos 
+por eso las lentes de una cámara de hierro están hechas de germanio un metal 
+muy costoso pero muy buen conductor de la radiación de infrarrojos. 
+La energía de infrarrojos que irradia un objeto se enfoca con el sistema óptico 
+sobre un detector de infrarrojos el detector envía los datos al sensor electrónico 
+para procesar la imagen y el sensor traduce los datos en una imagen compatible 
+con el visor y visualizable en un monitor de vídeo estándar o una pantalla de 
+cristal. 
+La termografía de infrarrojos es el arte de transformar una imagen de infrarrojos 
+en una imagen radio métrica que permita leer los valores de temperatura. 
+"
+page_23," 
+ 
+21 
+ 
+Para entender bien las temperaturas hay que tener en cuenta un importante factor 
+la emisividad, pues la emisividad se define como la capacidad que tiene un 
+cuerpo para emitir energía infrarroja y depende en gran medida de las 
+propiedades de los materiales del cuerpo, así es importante configurar bien la 
+emisividad de la cámara para no medir mal las temperaturas, si enfocamos a un 
+hombre y bajamos el punto de visibilidad las temperaturas que miramos 
+aumentarán drásticamente y esto no solo se cumple con los seres humanos sino 
+también con otros materiales por eso es tan importante fijar bien el punto de 
+emisividad de las cámaras termográficas, estos ajustes predefinidos de 
+emisividad para muchos materiales si no lo encuentra en la cámara se pueden 
+buscar una tabla de emisividades. 
+Como se sabe después del hallazgo de Herschel las cámaras termográficas son 
+muy compactas y muy fáciles de usar, las cámaras integran los más avanzados 
+conceptos tecnológicos tanto de hardware como de software lanzando el sector 
+termográfico con sistemas más utilizados en una amplia variedad de aplicaciones 
+comerciales industriales, además de gubernamentales investigaciones recientes 
+en materia de tecnología de detectores han generado múltiples usos prácticos 
+para la radiación de infrarrojos en el mantenimiento predictivo máxima visión e 
+investigación.  
+2.2.6 SISTEMAS TERMOGRÁFICOS 
+Las ventajas que ofrece la termografía se utilizan para detectar pérdidas de calor 
+en edificios, medir tensiones y fallos de sistemas mecánicos y eléctricos y vigilar 
+los niveles de contaminación, en la lucha anti-incendio.  
+Las cámaras termográficas mostrada en la figura 3, permiten localizar a personas 
+atrapadas en humo denso y detectar puntos calientes en incendios Forestales 
+también hay muchas aplicaciones de visión nocturna que no requieren 
+mediciones de temperatura por ejemplo la seguridad y la vigilancia el sector 
+marítimo, la industria de la automatización, las fuerzas de seguridad del estado y 
+muchos otros se benefician de las potentes ventajas de la termografía gracias al 
+magnífico descubrimiento de William Herschel.  
+"
+page_24," 
+ 
+22 
+ 
+ 
+Figura 3. Cámara termográfica, Modelo: Fluke Ti32 
+Fuente: FLEX N GATE. 
+ 
+La termografía es la ciencia encargada de estudiar el uso de dispositivos ópticos- 
+electrónicos para detectar y medir la radiación infrarroja a partir de la cual se 
+obtiene la temperatura de la superficie del cuerpo bajo el estudio. 
+Aunque no es difícil aprender a usar un equipo de imagen térmica infrarrojo como 
+la cámara termográfica. Tampoco es difícil cometer errores al momento de 
+interpretar lo que se observa a primera vista, de aquí la importancia de conocer 
+las limitaciones de la tecnología, ya que siempre se debe considerar la cámara 
+termográfica como solo como un instrumento que se manipula de acuerdo con la 
+destreza de quien la manipula, asimismo el uso que le demos dependerá de 
+nuestras capacidades para comprender su funcionamiento. 
+ 
+2.2.7 COEFICIENTES EN LOS SISTEMAS TERMOGRÁFICOS 
+La inclusión de un sistema termográfico es indispensable para captar los 
+aumentos de temperatura en los equipos, motores y sistemas eléctricos donde 
+se tiene “el grupo de componentes identificados como principales presentan un 
+tipo de fallo funcional el cual debe evitarse que ese presente y su magnitud a 
+analizar con la técnica predictiva es la temperatura, esta información ayuda a 
+escoger la técnica de termografía”. Loya Ñato, D. (2020). 
+"
+page_25," 
+ 
+23 
+ 
+La termografía conlleva su propia medición, la emisividad, esta es una propiedad 
+del material que describe la eficiencia con la cual una superficie irradia o emite 
+calor, esta emisividad es medible en un valor entre 0.0 – 1.0. 
+Los materiales brillosos tienen una emisividad baja a diferencia de los objetivos 
+no metálicos estos tienen emisividad elevada. 
+2.2.8 COMPONENTES EN LOS SISTEMAS TERMOGRÁFICOS 
+Los sistemas termográficos por lo general están formados por varios 
+componentes comunes con los cuales se debe estar familiarizado para tomar 
+termografías confiables. 
+Las lentes, sirven para enfocar la radiación entrante sobre el detector.  Por lo 
+general no son transparentes a la luz visible y los materiales comúnmente 
+utilizados paralas lentes son germanio (Ge) Silicio (Si) y Selenuro de zinc (ZnSe) 
+Detector es donde se centra la radiación y se produce una respuesta mensurable, 
+ya sea una carga eléctrica o un cambio en la resistencia. Los materiales 
+comúnmente utilizados para los detectores son silicio de platino (PtSi), teluro de 
+cadnio y mercurio (HgCdTe) y antimonuro de indio (InSb). 
+Diversos controles en el sistema permiten realizar ajustes para controlar la 
+entrada de radiación infrarroja o la salida de datos. Estopor lo general incluye 
+ajustes de rango e intervalo, nivel térmico, emisividad otras funciones de 
+medición de temperatura. 
+Display: Los datos procesados salen en un display ya sea una pantalla visor o 
+display de cristal líquido, Con frecuencia los datos también se pueden descargar 
+en una computadora a través de un puerto RS-232. La salida de video o S-video 
+le permite mostrar la imagen térmica en cualquier monitor o grabarla en una 
+videograbadora. 
+2.2.9 MANTENIMIENTO DE EQUIPOS INDUSTRIALES 
+"
+page_26," 
+ 
+24 
+ 
+En los mantenimientos de los equipos el principal objetivo es evitar las 
+consecuencias de los fallos del equipo, buscando prevenir las incidencias antes 
+de que ocurran. “El impacto de las paradas por intervenciones en las maquinas 
+según una estrategia reactiva, preventiva o predictiva. Con las estrategias 
+preventiva y predictiva el tiempo de preparación no es un tiempo improductivo, 
+puesto que al programarse la reparación ya se conoce sobre que componentes 
+se ha de actuar y, por lo tanto, se preparan los trabajos con antelación.” 
+Ballesteros Robles, F. (2011). 
+Para las maquinas como las prensas su mantenimiento requiere tareas tales 
+como lavado, limpieza, filtrado, ajustes, entre otros. Además de estas tareas se 
+debe realizar inspecciones, detecciones, exámenes y pruebas para garantizar la 
+fiabilidad y seguridad que se exige. Se deben realizar rutinas de mantenimiento 
+en las válvulas neumáticas, para el correcto funcionamiento de freno y embrague. 
+Con la finalidad de hacer eficiente el proceso operacional se deben comprobar el 
+consumo óptimo de lubricante y neumáticos. Así como también revisar el 
+subsistema eléctrico y Recuperación de la funcionalidad del sistema, mediante 
+sustitución, reparación, Restauración o renovación, en el caso de que haya una 
+avería. En la figura 4. Muestra prensa mecánica de estampado VERSON. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 4. Prensa mecánica de estampado. 
+Fuente: enprotech industrial technologies,2017. 
+Elaborado por: enpromech.com 
+"
+page_27," 
+ 
+25 
+ 
+ 
+Al igual que en los demás equipos se debe tomar las mediciones de Voltaje, 
+Amperaje, Vibraciones y termografía en todos los motores de la prensa.  Es 
+evidente que no será posible tomar la medición en algunos casos especiales por 
+la ubicación del motor y motivos de seguridad hacia los técnicos. Pero es 
+importante tomar todas las medidas posibles y hacer saber las que no son 
+posibles para hacer eficiente los mantenimientos predictivos. 
+Los rectificadores utilizados en la mayoría de la planta son principalmente 
+Dynapower, se muestra en la figura 5. Un plan de mantenimiento en estos 
+equipos está diseñado para garantizar la confiabilidad y el rendimiento continuo, 
+cubriendo una serie de verificaciones de salud, seguridad, rendimiento y 
+cumplimiento. Estando diseñados para extender el tiempo entre las fallas, así 
+como aumentar la efectividad generada por el equipo. 
+ 
+Figura 5: Rectificador Dynapower. 
+Fuente: Products Finishing México. (2021, 1 junio). 
+Elaborado por: Garner Business Medina. 
+En si el mantenimiento en estos equipos está basado en informes de calibración, 
+Verificación de seguridad, un seguimiento del rendimiento eléctrico, verificación 
+del funcionamiento del rectificador durante el proceso según las tolerancias 
+"
+page_28," 
+ 
+26 
+ 
+permitidas, verificación visual de la presión del medidor, así como observaciones 
+visuales. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 CAPÍTULO III. HIPÓTESIS 
+Hipótesis 
+“La implementación de un mantenimiento predictivo con la inclusión de un 
+sistema termográfico en el área de mantenimiento aumenta la confiabilidad y 
+disponibilidad de los equipos al igual que hace más eficiente su funcionamiento” 
+3.1 VARIABLE INDEPENDIENTE: La implementación de un mantenimiento 
+predictivo con la inclusión de un sistema termográfico. 
+3.2   VARIABLE DEPENDIENTE: Aumento de confiabilidad y disponibilidad de 
+los equipos, aumento eficiente del funcionamiento. 
+3.3  VARIABLES INTERVINIENTES: 
+- 
+Herramientas de trabajo 
+- 
+Capacitación del personal operativo 
+- 
+Disponibilidad del personal 
+"
+page_29," 
+ 
+27 
+ 
+El que los técnicos cuenten con las herramientas y la capacitación necesaria para 
+los mantenimientos, la disponibilidad de los equipos y personal para realizar las 
+pruebas, la cooperación y coordinación de la gerencia para la realización de los 
+mantenimientos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 CAPÍULO IV. MARCO METODOLÓGICO. 
+4.2  ENFOQUE DE LA INVESTIGACIÓN  
+La presente investigación se desarrollará conforme a un planteamiento 
+metodológico del enfoque cuantitativo, debido a que es el que mejor se adapta a 
+las necesidades y características de la investigación. 
+El enfoque cuantitativo busca probar la hipótesis establecida, en este se utiliza 
+análisis y recolección de datos para contestar la pregunta de investigación. 
+metodológicamente “Se caracteriza por privilegiar la lógica empírico-deductiva, a 
+partir de procedimientos rigurosos, métodos experimentales y el uso de técnicas 
+de recolección de datos estadísticos”. Solís, L. D. M. (2020, 22 septiembre). 
+De este enfoque cuantitativo se emplearán técnicas como Muestreo 
+probabilístico para recolectar información de los equipos con mantenimientos 
+preventivos en la planta y la revisión de documentos para fortalecer la 
+"
+page_30," 
+ 
+28 
+ 
+investigación a través de evidencia física de los antecedentes de los 
+mantenimientos y el estado actual de los equipos. 
+ 
+4.2 DISEÑO DE LAINVESTIGACIÓN  
+4.2.1 ALCANCE DE LA INVESTIGACIÓN: 
+Debido a la investigación cuantitativa se utilizará un estudio descriptivo ya que 
+“es un método que intenta recopilar información cuantificable para ser utilizada 
+en el análisis estadístico de la muestra de población.  Además de esto es una 
+herramienta popular de investigación de mercado que permite recopilar y 
+describir la naturaleza del segmento demográfico.” (Muguira 2021) 
+En la investigación descriptiva también se pueden medir las tendencias de los 
+datos a lo largo del tiempo en los análisis de las máquinas y equipos de la planta 
+o realizar comparaciones de los mantenimientos ya que la investigación 
+descriptiva también se puede utilizar para comparar los servicios. 
+4.2.2 TIPO DE ESTUDIO: 
+Con respecto al alcance de la investigación se elige el estudio descriptivo ya que 
+permite mostrar categorías o dimensiones un fenómeno como el mantenimiento 
+de los equipos, sirve para delimitar lo que se pretende medir como es la 
+confiabilidad y disponibilidad de los equipos en la planta. A través de este estudio 
+se identifica la población de estudio, que serán los equipos críticos. 
+4.2.3 INSTRUMENTOS Y HERRAMIENTAS: 
+Los datos fueron recolectados mediante una observación estructurada en los 
+equipos de la planta tomando de inicio los más críticos siendo elegidos mediante 
+los supervisores, esta selección de equipos es mediante un cuestionario que 
+sirve como guía de entrevista, con preguntas estratégicamente diseñadas, como: 
+1. ¿El equipo en situación de paro en la planta causa también un paro al 
+cliente? 
+"
+page_31," 
+ 
+29 
+ 
+2. ¿Existe algún equipo alterno que pueda sustituirlo de inmediato en la 
+línea? 
+3. ¿En caso de paro de este equipo cuantas líneas se paran en la planta? 
+Para evaluar e identificar si los equipos son suficientemente importantes para ser 
+tomados como críticos, con el cuestionario se conoce si los equipos cumplen con 
+las necesidades a candidatos críticos, lo cual permitirá ejecutar diferentes 
+estrategias para medir prioridades, esto facilita el proceso de selección de 
+equipos. 
+Después de la selección de equipos se continua con la consulta de información 
+histórica documentada para lo cual se utilizan Diarios de campo, Registros 
+fotográficos y guías de observaciones, que evaluaban el estado actual de los 
+equipos y su rendimiento. Todos los datos se utilizan para creación de un check 
+list donde se realiza la evaluación y la validez por parte de los supervisores 
+apoyados por expertos del área así como expertos de los equipos a evaluar, 
+después se utiliza una revisión de análisis crítica a través de los mismos 
+supervisores y técnicos de mantenimiento aportan sus comentarios para 
+corrección y simplificación del check list, dejando lo más eficiente posible el 
+formato que servirá  para la detección de la confiabilidad utilizando graficas que 
+identificaban en automático los datos ingresados al sistema. Los datos se 
+recolectaron durante agosto 2021 – noviembre 2021, de manera colectiva cada 
+registro implicó alrededor de una semana, en cada observación fuera de lo 
+normal se veía la intervención del supervisor de mantenimiento predictivo para 
+apoyar en la situación. Los datos de cada equipo fueron clasificados acorde al 
+área de la planta en este caso Soldadura, Estampado, Servicios Generales, 
+Pintura, Cromo y Pulido, en cada área se realizaron solo check list para los 
+equipos críticos y de estos se tomaron como replica base para todos los demás 
+equipos del área. Una vez realizadas las primeras observaciones se ajustó a el 
+check list de tal manera que fuese claro en las ordenes de trabajo y fácil de llenar. 
+Se preveía a la aplicación de herramientas como la cámara termográfica, 
+multímetro, analizador de vibraciones, entre otros, cada técnico de 
+"
+page_32," 
+ 
+30 
+ 
+mantenimiento fue capacitado de tal manera que pudiera utilizar las herramientas 
+que se pedían utilizar y capacitados en el llenado del check list, así como se les 
+dio una prueba en campo para la realización física  del mantenimiento predictivo, 
+de la misma manera antes de cada  mantenimiento predictivo los técnicos se 
+aseguran de revisar la calibración de sus instrumentos de medición. La 
+consistencia de los datos se estimó será constante y las anomalías serán 
+detectadas fácilmente. 
+4.2.4 MUESTREO DE LA INVESTIGACIÓN: 
+Para la investigación se utilizará un muestreo estratificado debido se puede 
+implementar por cantidades pequeñas, representando cada grupo y con estas 
+realizar más rápido el levantamiento de datos en los equipos que en su mayoría 
+son similares en cada área.  
+“El muestreo aleatorio estratificado es un método en el que el investigador divide 
+la población en grupos más pequeños que no se superponen, sino que 
+representan a toda la población. Durante el muestreo, estos grupos pueden 
+organizarse y luego extraer una muestra de cada grupo por separado”.  (Ortega, 
+2021). 
+Los objetos de estudio son equipos de la planta como robots, transformadores, 
+bancos de capacitores, prensas, rectificadores, extractores donde cada equipo 
+está destinada aúna are diferente de mantenimiento, por lo que se programa una 
+reunión con la presencia de un supervisor de cada área reuniendo 5 supervisores 
+del primer turno se realiza un listado de los equipos a evaluar a partir de un 
+cuestionario planteado. Los supervisores de cada área son quienes eligen los 
+equipos críticos y con base a su elección se crea un listado general de los equipos 
+críticos por área (Véase en anexo 1). 
+Como los equipos críticos fueron demasiados, los supervisores del primer turno 
+elijan prioridad entre los equipos críticos, y acorde a los resultados de la pequeña 
+encuesta se decide tomar de inicio los primeros críticos, la tabla 1, muestra los 
+equipos elegidos como prioridad entre los críticos. 
+"
+page_33," 
+ 
+31 
+ 
+Área 
+Supervisor 
+Equipos elegidos como prioridad 
+Soldadura 
+Luis Alberto 
+-Celda mig Toyota 989 
+-Celda mig Nissan H60A 
+-Pedestal 2 de Nissan P71(2pistolas) 
+-Robots  
+Prensas 
+Pablo 
+-Prensas 15 DANLY 
+-Prensa 21 Hidro formado 
+ -Convellors 
+Servicios Generales 
+Hernando 
+Compresores 
+Cromo 
+Fernando 
+Rectificadores 
+ 
+Tabla 1: Prioridad de equipos críticos por área. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX NGATE. 
+ 
+Acorde a este listado de equipos de realizaran los primeros check list en cada 
+área para dar seguimiento a la implementación del mantenimiento predictivo en 
+todos los equipos críticos. 
+5. CAPÍTULO V. PRESENTACIÓN Y ANÁLISIS DE 
+RESULTADOS 
+5.1 PRESENTACIÓN DE RESULTADOS 
+5.1.1 SELECCIÓN DE EQUIPOS CRÍTICOS.  
+Al comenzar con el proyecto lo primero es seleccionar los equipos de la planta y 
+elegir los críticos para después solo replicar los check list a los equipos similares 
+y a partir de este muestreo ahorrar tiempo. 
+Los supervisores de mantenimiento y los técnicos son participes de esto a través 
+de sus experiencias y conocimiento dan sugerencias y aportan evidencias para 
+elegir los equipos críticos, y crear el listado de maquinaria critica, se realiza una 
+reunión con los supervisores de mantenimiento donde se eligen los equipos 
+críticos de acuerdo a tres preguntas planteadas y respondiendo a estas 
+preguntas los supervisores ayudan a elegir un listado de los equipos críticos en 
+cada área de la planta (Véase en anexo 1).  
+"
+page_34," 
+ 
+32 
+ 
+5.1.2 BÚSQUEDA DE DATOS DE PLACA E INFORMACIÓN DE EQUIPOS 
+Para comenzar a planear el mantenimiento predictivo como rutina de los técnicos, 
+comenzamos buscando los datos de placa de los equipos seleccionados como 
+críticos y tomar la evidencia fotográfica del equipo para utilizarla más adelante en 
+el check list creado para el mantenimiento predictivo. La figura 6, muestra la foto 
+de placa de un equipo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 6: Placa de un transportador de chatarra. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+En esta nos revela datos importantes como el modelo y número de serie para 
+identificar el equipo, año de fabricación para tomar encuentra su vida útil, poder 
+del motor y R.P.M. del equipo. 
+ Los datos del motor de cada equipo son igual de importantes por lo que también 
+se toma fotografía de la placa del motor en este caso, en la placa encontramos 
+datos del motor como Marca del motor, tipo, serie, Amperaje, R.P.M., temperatura 
+máxima, peso y un diagrama de conexión. Todo esto sirve una vez que el motor 
+llegará a fallar y no haya reparación se puede buscar el motor similar que 
+sustituirá rápidamente este motor, tomando los datos del motor anterior. Esto 
+ayudara a disminuir los tiempos del mantenimiento y paro del equipo. La figura 7, 
+muestra la foto de placa de un motor eléctrico. 
+"
+page_35," 
+ 
+33 
+ 
+ 
+ 
+ 
+Figura 7: Foto de placa de motor eléctrico. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+Una vez teniendo los datos de la placa se continua con la revisión de los 
+mantenimientos preventivos que se le hacían anteriormente para analizar que 
+tareas pueden ser de utilidad y conservarlas en el mantenimiento predictivo. Para 
+esto buscamos una antigua orden de trabajo de mantenimiento preventivo del 
+equipo. La figura 8, muestra una orden de trabajo de mantenimiento preventivo. 
+"
+page_36," 
+ 
+34 
+ 
+ 
+ 
+ 
+Figura 8: Orden de trabajo de mantenimiento preventivo. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+"
+page_37," 
+ 
+35 
+ 
+Analizando la orden de trabajo se conservan las tareas más indispensables como 
+las relacionadas con el control eléctrico en los motores que tenga el equipo y el 
+sistema eléctrico en general del equipo, así como una revisión del estado físico 
+en partes sensibles del equipo y la estructura general. Aportando así en la 
+redacción de más tareas en el concretas en el nuevo check list del mantenimiento 
+predictivo. 
+Una vez revisada la orden de trabajo del mantenimiento preventivo anterior, 
+realizamos una búsqueda en manuales y antecedentes como diarios de campo, 
+se muestra en la figura 9, que puedan aportar nuevas tareas que ayuden a que 
+el mantenimiento sea eficiente.   
+ 
+ 
+Figura 9: Diario de campo. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+Se redactan las tareas que se puedan obtener a partir de estos documentos y 
+continuamos por revisar las técnicas y herramientas, la Figura 10, muestras las 
+herramientas que se deben emplear para poder cumplir con las tareas puestas 
+"
+page_38," 
+ 
+36 
+ 
+en el mantenimiento predictivo, debemos incluir la cámara termográfica en el 
+análisis de termografía, el analizador de vibraciones en el análisis de vibraciones, 
+el multímetro en el análisis de parámetros electicos como voltaje, amperaje y 
+resistencia. 
+ 
+ 
+Figura 10: Herramientas utilizadas en los mantenimientos predictivos. 
+Fuente: FLEX N GATE 
+ 
+5.1.3 CREACCIÓN DEL CHECK LIST ÚNICO E HISTÓRICO PARA LOS 
+MANTENIMINETOS PREDICTIVOS EN LOS EQUIPOS 
+Lo siguiente es crear un check list único e histórico que describa las tareas a 
+realizar en los mantenimientos predictivos las tareas deben ser claras y 
+específicas, en este se incluirán las fotos de placa del equipo y fotos de placa del 
+motor, así como las fotos del equipo en general. 
+La creación del check list es a través del programa Excel para poder almacenar 
+históricamente la información y mostrar gráficos de los datos registrados a través 
+de los mantenimientos predictivos, asimismo se integrará un apartado para cada 
+categoría de análisis.  
+En la primera parte del check list se crea un encabezado, figura 11, que muestra 
+los datos importantes para identificar el equipo. 
+ 
+"
+page_39," 
+ 
+37 
+ 
+ 
+ 
+Figura 11: Encabezado de check list  
+Fuente: FLEX N GATE 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+En esta parte se puede observar el número de equipo y el número de serie para 
+identificar de inmediato el equipo, se menciona el tipo de mantenimiento  que se 
+realiza, se asigna el técnico a realizar el mantenimiento y el supervisor a revisar 
+el mismo, se designa el departamento o área que le corresponde realizar el 
+mantenimiento, se identifica el edificio o nave en este caso donde se ubica el 
+equipo, en este también se  identifican las fecha de inicio del mantenimiento y las 
+fecha de término del mantenimiento para llevar un control, en este mismo 
+apartado se debe poner una foto del equipo como otra manera más rápida de 
+Identificarse, se incluyen los datos de placa del equipo para tener más 
+especificación de la información que podría servir a la hora de realizar el 
+mantenimiento. 
+Después del encabezado del check list se crea la parte donde se designan las 
+tareas a realizar en el mantenimiento, la figura 12, muestra las instrucciones que 
+se deben seguir en la realización de la orden de trabajo de mantenimiento.  
+"
+page_40," 
+ 
+38 
+ 
+ 
+ 
+Figura 12: Check list, técnica de análisis de parámetros electicos  
+Fuente: FLEX N GATE 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Como se puede ver en este apartado se delimitan las tareas que conllevan 
+análisis en parámetros eléctricos, en la parte de la descripción se describen las 
+tareas específicas a realizar, se estima un tiempo promedio en minutos de lo que 
+se podrían tardar en realizar dicha tarea, se debe rellenar con un aceptable o no 
+aceptable después de realizar la tarea y confirmar el estado actual del equipo, 
+todo se debe realizar de acorde a la fecha designada del mantenimiento y por 
+último se deben poner las observaciones encontradas durante alguna anomalía 
+del equipo. 
+Seguido tenemos el apartado con análisis en resistencia de motores, Figura 13, 
+se muestra un apartado para análisis de resistencia en motores, el llenado será 
+similar al anterior. 
+"
+page_41," 
+ 
+39 
+ 
+ 
+ 
+Figura 13: Análisis de resistencia en motores 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+De igual manera en la figura 14, tenemos la técnica de análisis de vibraciones 
+mecánicas, esta se integra al mantenimiento debido a que permite identificar 
+rodamientos dañados, holguras mecánicas que permite verificar la estabilidad 
+hidráulica. 
+ 
+"
+page_42," 
+ 
+40 
+ 
+ 
+ 
+Figura 14: Técnica de análisis de vibraciones mecánicas. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Una técnica demasiado útil que se emplea es la técnica de análisis de lubricación, 
+se presenta en la figura 15, su principal función de esta es verificar los niveles de 
+lubricación además de asegurar que se lubriquen las partes sometidas a fricción. 
+ 
+ 
+"
+page_43," 
+ 
+41 
+ 
+ 
+ 
+Figura 15: Técnica de análisis de lubricación. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Al final de la aplicación de las técnicas se presenta la sumatoria de tiempo 
+promedio que se pudiese tardar en la realización de todas las tareas del 
+mantenimiento predictivo, esto sirve para tener más controlados los tiempos de 
+actividad de los técnicos. Asimismo, se añade un pequeño apartado con el 
+responsable de ejecutar y un responsable de revisar el mantenimiento, como se 
+muestra en la Figura 16. 
+ 
+ 
+Figura 16: Apartado de responsable del mantenimiento en el equipo. 
+Fuente:  FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+"
+page_44," 
+ 
+42 
+ 
+La siguiente parte en el check list es crear la parte del llenado de los valores 
+tomados en la medicion de cada tecnica, la figura 17, muestra el el check list 
+donde se deben tomar voltajes en las tres lineas de un motor,el amperaje 
+igualmente en las tres lineas su resistencia en Ohms, su analisis de vibraciones 
+y su toma de temperatura con la termografia. 
+ 
+ 
+ 
+Figura 17: Toma de datos en un mantenimiento predictivo. 
+Fuente:  FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Una vez que se ingresen los datos en el check list, serán registrados en 
+automático en las gráficas en Excel, la figura 18, muestra la gráfica de voltaje de 
+un motor. Es importante verificar que no exista una diferencia de potencia en un 
+circuito eléctrico. 
+"
+page_45," 
+ 
+43 
+ 
+ 
+ 
+Figura 18: Registro histórico de datos de voltaje en un mantenimiento predictivo. 
+Fuente:  FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Al igual que la gráfica de voltaje se crea la gráfica de registro de amperaje donde 
+los datos capturados  en el check list serán registrados automáticamete 
+permitiendo al supervisor poder analizar cualquier anomalía de manera más 
+rápida y precisa, además de poder ver el comportamiento de estos datos 
+gráficamente .  Es importante ingresar correctamente los valores de corriente de 
+entrada, puesto que estos datos serán de ayuda para localizar o prevenir un 
+problema de arranque ya sea en el motor o en el circuito de arranque. La figura 
+19, muestra el registro gráfico de amperaje. 
+ 
+ 
+"
+page_46," 
+ 
+44 
+ 
+Figura 19: Registro histórico de datos de amperaje en un mantenimiento predictivo. 
+Fuente:  FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Se crea la grafica para el registro de toma de resistencia esta es de igual 
+importancia que el resto de graficos pues con esta se determina sin hay un corto, 
+conecciones flojas oconductores rotos. La figura 20, muestran las graficas de 
+resistencia. 
+ 
+ 
+Figura 20: Registro histórico de datos de Resistencia en un mantenimiento predictivo. 
+Fuente:  FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+La creación de la gráfica de análisis de vibraciones es debido a la gran 
+importancia que se da para detectar fallos en rodamientos, engranes, 
+Lubricación, desbalanceo, desalineación. La grafica 21, muestra la gráfica creada 
+para la vibración. 
+"
+page_47," 
+ 
+45 
+ 
+ 
+ 
+Figura 21: Registro histórico de datos de vibración en un mantenimiento predictivo. 
+Fuente:  FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Por ultimo creamos el grafico para la temperatura  para revisar el 
+comportamiento de esta en el motor y verificar que se mantenga por debajo del 
+nivel optimo, ya que si la temperatura esta muy elevada el motor se 
+sobrecalienta y se probocan severos daños en el motor. La figura 22, muestra la 
+grafica creada para el registro historico de la temperatura 
+ 
+ 
+ 
+Figura 22: Registro histórico de datos de temperatura en un mantenimiento predictivo. 
+"
+page_48," 
+ 
+46 
+ 
+Fuente:  FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Una vez creadas las gráficas para cada apartado de las técnicas utilizadas se 
+ingresa un espacio de observaciones en el check list donde se podrán describir 
+más detalladamente los problemas encontrados durante el mantenimiento 
+predictivo del equipo. adicional se añade una lista de herramientas como muestra 
+la figura 23, estas son necesarias para poder realizar las tareas del 
+mantenimiento predictivo que indica el check list, esto con la finalidad de que los 
+técnicos que realizan el mantenimiento prevengan todas las herramientas antes 
+de dirigirse a realizar dicho mantenimiento en el equipo. 
+ 
+ 
+Figura 23: Registro histórico de datos de temperatura en un mantenimiento predictivo. 
+Fuente:  FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+5.1.4 CAPACITACIÓN A PERSONAL DE MANTENIMIENTO  
+Una vez que se tiene el check list terminado se inicia la capacitación del 
+mantenimiento predictivo y al mismo tiempo comenzar una capacitación de las 
+habilidades faltantes en los técnicos como en este caso es la termografía ya que 
+la mayoría de los técnicos no cuenta con esta habilidad de análisis. 
+"
+page_49," 
+ 
+47 
+ 
+Lo primero es organizar los cursos de capacitación para comenzar a programar 
+a los técnicos de mantenimiento para las capacitaciones en termografía y en el 
+llenado correcto del check list para el mantenimiento predictivo. La figura 24, 
+muestra la lista del personal de mantenimiento en esta se comienzan a programar 
+las fechas de capacitación para todo el personal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 24. Lista de personal de mantenimiento  
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Una vez que se tienen asignadas las fechas de capacitación se ingresan al plan 
+de capacitación de mantenimiento para comenzar a programar los horarios, los 
+instructores y el lugar de la capacitación. La figura 25, muestra la programación 
+de cursos en el plan de capacitación de mantenimiento. 
+"
+page_50," 
+ 
+48 
+ 
+ 
+Figura 25. Plan de capacitación para el área de mantenimiento.  
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Se da inicio a capacitar al personal de mantenimiento en termografía y 
+mantenimiento predictivo. Figura 26, 27, y 28 muestra la capacitación a personal 
+de mantenimiento. 
+ 
+ 
+ 
+Figura 26: Capacitacion en termografia a tecnicos de mantenimiento Prensas 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX  N GATE. 
+ 
+"
+page_51," 
+ 
+49 
+ 
+ 
+ 
+Figura 27: Capacitacion en termografia a tecnicos de mantenimiento Servicios 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX  N GATE. 
+ 
+ 
+ 
+ 
+Figura 28. Capacitación en mantenimiento predictivo a técnicos de mantenimiento Cromo. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Durante las capacitaciones se les explica a los técnicos tanto teoría como 
+practica de la termografía para dar más importancia  al uso de estas técnicas, 
+además se les explica el uso correcto de las herramientas y equipos para las 
+toma de datos en los mantenimientos predictivos con esto se busca disminuir el 
+margen de error por parte de la toma de datos ya que en ocasiones el no saber 
+"
+page_52," 
+ 
+50 
+ 
+utilizar estos equipos provoca mala medición de los parámetros y para que sean 
+de utilidad se debe tomar los datos con la mayor precisión posible. 
+5.1.5 PRUEBAS DE MANTENIMINETO PREDICTIVO Y LLENADO DE 
+CHECK LIST EN EQUIPOS 
+Una vez que se ha capacitado una parte del personal en termografía y en el 
+llenado del check list para los mantenimientos predictivos se comienza a realizar 
+las primeras pruebas físicas en los equipos con la presencia de los técnicos y los 
+supervisores para revisar ajustes necesarios o revisar las tareas descrita sean 
+del todo eficientes al momento de realizar los mantenimientos. La figura 29, 
+muestra la capacitación del mantenimiento predictivo con el llenado correcto en 
+el check list. 
+ 
+ 
+Figura 29. Capacitación mantenimiento 
+predictivo y llenado del primer check list. 
+Fuente: FLEX N GATE 
+ 
+Durante las primeras pruebas de mantenimiento predictivo se revisa el llenado 
+del check list (véase en anexo 2) para verificar y corregir o actualizar algún dato 
+no especificado en el formato con los comentarios de los técnicos que 
+participaron en las pruebas y los supervisores se realizan pequeños ajustes para 
+adaptar las tareas lo más eficiente posible. 
+Después de realizar los ajustes se vuelve a implementar una prueba más en un 
+equipo critico ya con el formato actualizado y se replica para todos los equipos 
+como check list general para todos los mantenimientos predictivos de cada área, 
+"
+page_53," 
+ 
+51 
+ 
+tomando como base el check list adaptado lo mejor posible a los equipos (Véase 
+en anexo 3). 
+5.2  ANÁLISIS DE RESULTADOS  
+5.2.1 MEDICIÓN DE LOS MANTENIMIENTOS PREDICTIVOS  
+A lo largo de 9 meses ya se ha logrado crear al menos el 80% de los check lis de 
+los equipos críticos en cada una de las áreas de mantenimiento. La figura 30 
+muestra el porcentaje de avance en la creación de los check lis en equipos 
+críticos de cada área. 
+ 
+ 
+Figura 30. creación de check list en equipos críticos. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+Con el porcentaje actual de la creación de los check list ya se puede notar el 
+avance en cuanto a la administración del mantenimiento predictivo, se comienzan 
+a visualizar ahorros de tiempo de actividad en los técnicos y detección de fallas 
+en los equipos.  
+Para la ejecución de los mantenimientos predictivos se requirió un total de horas 
+capacitadas para el personal de mantenimiento para aumentar sus habilidades 
+técnicas y con ello el cumplimiento al programa de capacitación requerido en el 
+tema de termografía y predictivos. Figura 31, muestra las horas por curso 
+acumuladas durante el año 2021. 
+70.00%
+75.00%
+80.00%
+85.00%
+90.00%
+95.00%
+Soldadura
+Prensas
+Servicios
+generales
+Cromo
+CREACIÓN DE CHECK LIST CRITICOS
+"
+page_54," 
+ 
+52 
+ 
+ 
+Figura 31. Lista de horas acumuladas por curso. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+La capacitación durante cada año va en aumento debido al plan de capacitación 
+que se tienen en el área de mantenimiento, este fue enlazado con la 
+implementación del mantenimiento predictivo, debido al apoyo que se necesitó 
+por parte de todos los integrantes de mantenimiento para poder organizar al 
+personal y capacitarlo con las habilidades para la implementación del 
+mantenimiento predictivo.  La figura 32, muestra las horas de capacitación 
+acumuladas durante cada año en el área de mantenimiento. 
+"
+page_55," 
+ 
+53 
+ 
+ 
+ 
+Figura 32. Horas de capacitación por año en el área de mantenimiento. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+La grafica muestra las horas de capacitación acumuladas por año en el área de 
+mantenimiento, durante el año 2021 se refleja un aumento considerable de horas 
+debido a que se implementaron más cursos entre ellos capacitaciones en 
+Termografía y Mantenimiento predictivos. 
+ 
+5.2.2 EVALUACIÓN DE CUMPLIMIENTO EN LAS ÁREAS DE 
+MANTENIMIENTO 
+Después de un tiempo de haber iniciado con la implementación en los 
+mantenimientos predictivos se realiza una inspección para revisar el 
+comportamiento de los check list en los mantenimientos, tomando en cuenta un 
+mantenimiento predictivo continuo por 9 meses seguidos se obtiene el siguiente 
+comportamiento en el check list de un equipo (Véase en anexo 4).  En la revisión 
+de este se perciben detalles, como orden en la capturade los datos donde las 
+anomalías son visuales a simple vista y se pueden servir para predecir el 
+comportamiento futuro en el equipo anticipando las fallas antes de que ocurran. 
+Para evaluar la eficiencia de estos mantenimientos se miden el número de quejas 
+durante cada mes, buscando siempre mantener un objetivo medible. La figura 
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+2019
+2020
+2021
+Horas de capacitacion
+"
+page_56," 
+ 
+54 
+ 
+33, muestra el desempeño de mantenimiento en los equipos durante el periodo 
+de enero – mayo 2022. 
+ 
+ 
+Figura 33. Desempeño general en el área de mantenimiento enero- mayo 2022. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Esta medición del objetivo buscado es dividida por cada área y se tiene el 
+porcentaje de cada área durante cada mes, buscando mantener un desempeño 
+general por parte del área de mantenimiento. La figura 34 muestra el desempeño 
+por área de mantenimiento en el periodo enero – mayo 2022. 
+ 
+MANTENIBILIDAD KBM 2022 OBJETIVO 98.3 
+ 
+# 
+ÁREA 
+ENERO 
+FEBRERO 
+MARZO 
+ABRIL 
+MAYO 
+1 
+PRENSAS  
+98.91% 
+99.30% 
+99.34% 
+99.44% 
+99.45% 
+2 
+SOLDADURA  
+99.51% 
+99.48% 
+99.51% 
+99.58% 
+99.48% 
+3 
+CROMO I (Cromo) 
+99.91% 
+99.90% 
+99.89% 
+99.99% 
+100.00% 
+4 
+PULIDO I (Cromo) 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+90
+92
+94
+96
+98
+100
+102
+OCT NOV DEC JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC
+# de fallas
+Meses
+Desempeño
+REAL
+TARGET
+OCT
+NOV
+DEC
+JAN
+FEB
+MAR
+APR
+MAY
+JUN
+JUL
+REAL
+99.578
+99.700
+99.772
+99.440
+99.759
+TARGET
+98
+98.3
+98.3
+98.3
+98.3
+98.3
+98.3
+BIC
+"
+page_57," 
+ 
+55 
+ 
+5 
+CROMO II (Cromo) 
+99.00% 
+99.70% 
+99.80% 
+99.24% 
+99.80% 
+6 
+PULIDO II (Cromo) 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+7 
+ENSAMBLE  
+99.96% 
+99.92% 
+99.92% 
+99.84% 
+99.91% 
+8 
+SERVICIOS Generales 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+100.00% 
+9 
+E-COAT (Cromo) 
+99.00% 
+99.65% 
+99.54% 
+99.60% 
+99.29% 
+10 
+TOP COAT (Cromo) 
+99.49% 
+99.05% 
+99.72% 
+96.71% 
+99.66% 
+ 
+TOTAL 
+99.58% 
+99.70% 
+99.772% 
+99.440% 
+99.759% 
+ 
+Figura 34. Desempeño por área en mantenimiento durante enero – mayo 2022. 
+Fuente: FLEX N GATE. 
+Elaborado por: Mantenimiento FLEX N GATE. 
+ 
+Mientras que el desempeño se mantiene por encima del objetivo también indica 
+que se mantiene la disponibilidad y confiabilidad en la maquinaria, solo en el área 
+de Top coat perteneciente a cromo se registró porcentaje por debajo del objetivo, 
+en general el desempeño que se está teniendo es favorable e incluso pronostica 
+mejoramiento. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"
+page_58," 
+ 
+56 
+ 
+6. CAPÍTULO VI. CONCLUSIONES 
+6.1 DISCUCIÓN 
+En los resultados del proyecto se pudo apreciar que la capacitación y la inclusión 
+de nuevas herramientas son factores que contribuyen a mejorar los sistemas de 
+mantenimiento como es el check list con sus tareas designadas de manera 
+específica, pues las instrucciones pobres en detalle producen errores y 
+actividades de mantenimiento incorrectas, se coincide con la Investigaciones de 
+Teba (2020), tener instrucciones poco claras aumenta el riesgo de un mal 
+mantenimiento. 
+La investigación apoya la inclusión un sistema termográfico y el registro histórico 
+de este para captar los fallos en los sistemas eléctricos en los equipos, esto 
+también coincide en con Loya Ñato, D. (2020), En la aplicación de la termografía 
+para prevenir un tipo de fallo funcional o evitar que se presente o aumente su 
+magnitud al analizar algún aumento de temperatura. 
+Algo que coincide directamente con la hipótesis planteada en esta investigación 
+es la investigación de Ballesteros Robles, F. (2011). En su trabajo basado en la 
+estrategia predictiva en el mantenimiento industrial, coincide con los resultados 
+demostrados en su investigación menciona el mantenimiento preventivo a 
+intervalos fijos realiza más intervenciones de las realmente necesarias, por lo 
+cual pierde rentabilidad frente al mantenimiento basado en la condición o 
+mantenimiento predictivo que promueve la reducción de intervenciones. 
+6.2  CONCLUSIONES 
+Una vez desarrollada la investigación, se identifican demasiados equipos críticos 
+en la empresa que pueden ocasionar tanto paro de líneas en más de alguna o 
+incluso paro directamente al cliente en caso de falla y entre estos equipos existen 
+algunos que tienen mayor prioridad debido a no tener remplazo de inmediato, al 
+identificar esto a través de la encuesta realizada a los supervisores de 
+mantenimiento,  se considera la aplicación inmediata del mantenimiento 
+"
+page_59," 
+ 
+57 
+ 
+predictivo en estos equipos ya que la falla de alguno puede ocasionar un 
+problema significativo en la empresa.  
+Durante la implementación se percibe el apoyo en la capacitación al personal de 
+mantenimiento ya que aporta demasiado valor a la realización correcta de los 
+mantenimientos, se identifica el aumento de conocimiento y habilidades en los 
+técnicos, esto también refleja más cuidado en el uso y conservación de las 
+herramientas de trabajo. Esto deja a la capacitación como pieza importante en la 
+implementación del proyecto. 
+La realización de una prueba antes de la implementación es una medida de 
+seguridad para verificar que sea correcto el funcionamiento y descartar errores 
+en las tareas especificadas del mantenimiento, pues durante las pruebas se 
+comprobó que las tareas no descritas de manera clara confunden a los técnicos 
+al momento de realizarlas físicamente, por lo que se observó importante la 
+comunicación en las capacitaciones y en las pruebas para resolver dudas en la 
+realización de las tareas descritas en el check list. 
+El corregir los check lits después de las pruebas deja como resultado una rutina 
+de mantenimiento especifica donde se minimizan las acciones a realizar dejando 
+las más necesarias y facilita a los supervisores el analizar los errores encontrados 
+durante el reporte de la orden de mantenimiento realizada por los técnicos.  
+Una vez que se analiza la información sobre los mantenimientos predictivos con 
+el check list como muestra el anexo 4, y los mantenimientos preventivos 
+realizados con una orden de trabajo como en la figura 8, se puede apreciar 
+mejoras en el desempeño como muestra la figura 33, con la implementación del 
+mantenimiento predictivo en comparación con un mantenimiento preventivo 
+como se muestra en la figura 1,  la diferencia del desempeño se refleja mínima a 
+favor de los mantenimientos  predictivos, solo se debe tomar en cuenta que este 
+desempeño es solo con la  implementación en los equipos más críticos de la 
+planta, lo que deja a considerar cuanto aumentara el desempeño con la 
+implementación en tos los equipos de toda la planta.  La medición de aumento 
+"
+page_60," 
+ 
+58 
+ 
+de desempeño en mantenimiento conlleva aumento de confiabilidad y 
+disponibilidad en los equipos. 
+ 
+6.3  RECOMENDACIONES 
+Se recomienda utilizar la evaluación los equipos para realizar un orden de 
+prioridad en cuanto a la maquinaria de cada área y en base a esta continuar con 
+la aplicación de los mantenimientos predictivos al resto de equipos una vez que 
+se termina la aplicación de los críticos, a un ritmo que la empresa considere. 
+Se recomienda que una vez terminados al 100% los check list en los equipos 
+críticos seleccionados se de inicio a una investigación para elegir un área donde 
+se consideren el resto de los equipos en la planta dando prioridad a las áreas que 
+más requieran de un mantenimiento predictivo, evaluando las áreas de acorde a 
+prioridad en la planta. 
+Se recomienda que incluyan en su matriz de habilidades los cursos de 
+entrenamiento para continuar capacitando al personal de mantenimiento en 
+técnicas que aporten beneficios en cuanto a las habilidades necesaria para el 
+crecimiento y diciplina en el personal, así como también se recomienda se 
+realicen encuestas al personal para identificar la falta de conocimiento en el uso 
+de alguna otra herramienta como la cámara termográfica. 
+Se recomienda seguir trabajando en la investigación de nuevas pruebas donde 
+se integren análisis más eficientes si es que se tiene la posibilidad de invertir en 
+más herramientas de análisis para los equipos. 
+Se recomienda también seguir trabajando en la modificación o ajustes del check 
+list para encontrar alguna forma de detección automática en base a los datos que 
+se ban registrando de los mantenimientos, pues aún se puede mejorar o incluir 
+nuevas formas de visualizar los datos. 
+"
+page_61," 
+ 
+59 
+ 
+Se recomienda evaluar las gráficas de los mantenimientos mensualmente para 
+evaluar el comportamiento de los datos y encontrar algún patrón de predicción, y 
+de esta manera crear un mantenimiento preventivo antes de que presente una 
+falla y se tenga un paro no planeado en cualquiera de los equipos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"
+page_62," 
+ 
+60 
+ 
+7. REFERENCIA 
+ 
+Teba, C. (2020, 15 mayo). 6 errores a Evitar en tu Programa de Mantenimiento 
+Predictivo. 
+-. 
+Recuperado 
+28 
+de 
+junio 
+de 
+2022, 
+de 
+https://www.dexma.com/es/blog-es/errores-programa-mantenimiento-predictivo/ 
+Mancuzo, G. (2022, 3 agosto). Evolución del Mantenimiento: Historia y 
+Actualidad. Blog - ComparaSoftware. Recuperado 11 de agosto de 2022, de 
+https://blog.comparasoftware.com/evolucion-del-mantenimiento/ 
+Gonzáles, I. (2020, 24 octubre). El mantenimiento y su evolución. Predictiva21. 
+Recuperado 28 de junio de 2022, de https://predictiva21.com/el-mantenimiento-
+y-su-evolucion/ 
+Santos, 
+J. 
+F. 
+(2017, 
+15 
+marzo). 
+HISTORIA 
+Y 
+EVOLUCIÓN 
+DEL 
+MANTENIMIENTO Gestión del mantenimiento. Jesús Figarola Santos - 
+Academia.edu. 
+Recuperado 
+28 
+de 
+junio 
+de 
+2022, 
+de 
+https://www.academia.edu/31886653/HISTORIA 
+Ballesteros Robles, F. (2011). La estrategia predictiva en el mantenimiento 
+industrial. PREDITEC, 4. 
+BUREAU VERITAS, C. (2017, 17 julio). El origen y la actualidad del 
+mantenimiento predictivo a nivel mundial | Lubricación Management. 
+management.com. Recuperado 11 de junio de 2022, de https://lubrication-
+management.com/2017/07/17/el-origen-y-la-actualidad-del-mantenimiento-
+predictivo-a-nivel-mundial/ 
+Hernández, Y. (2022, 1 enero). Guanajuato: líder en el sector automotriz. Somos 
+Industria. 
+Recuperado 
+15 
+de 
+abril 
+de 
+2022, 
+de 
+https://www.somosindustria.com/articulo/guanajuato-lider-en-el-sector-
+automotriz/ 
+C. (2017, 17 julio). El origen y la actualidad del mantenimiento predictivo a nivel 
+mundial | Lubricación Management. management.com. Recuperado 28 de junio 
+de 
+2022, 
+de 
+https://lubrication-management.com/2017/07/17/el-origen-y-la-
+actualidad-del-mantenimiento-predictivo-a-nivel-mundial/ 
+Galán, J. (2019, diciembre). El Experimento Herschel [d49o1pkx9849]. 
+IDOCPUB. Recuperado 23 de mayo de 2022, de https://idoc.pub/documents/el-
+experimento-herschel-d49o1pkx9849 
+"
+page_63," 
+ 
+61 
+ 
+¿Qué es mantenimiento predictivo? (2022, 27 mayo). https://www.ibm.com/. 
+https://www.ibm.com/mx-es/services/technology-support/multivendor-
+it/predictive-maintenance 
+Muntatges, B. (2019, 21 enero). Mantenimiento predictivo en una instalación 
+eléctrica. BURRIANA MUNTATGES. Recuperado 26 de junio de 2022, de 
+https://www.bmelectricos.es/blog/mantenimiento-predictivo-en-una-
+instalaci%C3%B3n-el%C3%A9ctrica 
+Criollo, M. G. P. (2021, 5 abril). ¿qué es una guía de observación y ejemplo? 
+ALEPH. Recuperado 11 de julio de 2022, de https://aleph.org.mx/que-es-una-
+guia-de-observacion-y-ejemplo 
+Solís, L. D. M. (2020, 22 septiembre). El enfoque cuantitativo de investigación. 
+Investigalia. 
+Recuperado 
+5 
+de 
+julio 
+de 
+2022, 
+de 
+https://investigaliacr.com/investigacion/el-enfoque-cuantitativo-de-investigacion/ 
+Parra, A. (2021, 24 septiembre). Técnicas de investigación cuantitativa para 
+recolectar datos. QuestionPro. Recuperado 5 de julio de 2022, de 
+https://www.questionpro.com/blog/es/tecnicas-de-investigacion-cuantitativa/ 
+S. (2021, 27 octubre). Alcance de la investigación ejemplo. Diario Nacional. 
+Recuperado 6 de julio de 2022, de https://diarionacional.mx/informacion/alcance-
+de-la-investigacion-ejemplo/ 
+C. (2020, 8 diciembre). ▷ Estudios descriptivos: definición y ejemplo. Estudiando. 
+Recuperado 6 de julio de 2022, de https://estudyando.com/estudios-descriptivos-
+definicion-y-ejemplo/ 
+Muguira, A. (2021, 9 agosto). ¿Qué es la investigación descriptiva? QuestionPro. 
+Recuperado 
+6 
+de 
+julio 
+de 
+2022, 
+de 
+https://www.questionpro.com/blog/es/investigacion-descriptiva/ 
+Loya Ñato, D. (2020). DISEÑO DE UN PLAN DE MANTENIMIENTO 
+PREDICTIVO PARA EL AREA DE ABASTECIMIENTO CORTE TERMICO DE 
+LA EMPRESA SEDEMI. ECUADOR: QUITO  
+Ortega, C. (2021, 9 julio). Métodos de muestreo: Ejemplos y usos. QuestionPro. 
+Recuperado 
+6 
+de 
+julio 
+de 
+2022, 
+de 
+https://www.questionpro.com/blog/es/metodos-de-muestreo/ 
+T.A.S.A. (2018). Historia de la cámara termográfica | Academia Testo. Academia 
+online. 
+Recuperado 
+22 
+de 
+junio 
+de 
+2022, 
+de 
+https://www.academiatesto.com.ar/cms/historia-de-la-camara-termografica 
+"
+page_64," 
+ 
+62 
+ 
+Ortega, C. (2021, 22 diciembre). Diario de campo: Qué es y cómo utilizarlo. 
+QuestionPro. 
+Recuperado 
+11 
+de 
+julio 
+de 
+2022, 
+de 
+https://www.questionpro.com/blog/es/diario-de-campo/ 
+Sanchez, D. (2021, 3 abril). EL USO DE COMPRESORES EN LA INDUSTRIA |: 
+compresores: Fabrica y venta de compresores: Electro Ase Compresores Ltda. 
+Recuperado 7 de julio de 2022, de https://www.compresoreselectroase.com/el-
+uso-de-compresores-en-la-industria/ 
+Sánchez, D. (2018, 10 julio). MANTENIMIENTO DEL COMPRESOR |: 
+compresores: Fabrica y venta de compresores: Electro Ase Compresores Ltda. 
+Recuperado 
+7 
+de 
+julio 
+de 
+2022, 
+de 
+https://www.compresoreselectroase.com/mantenimiento-del-compresor/ 
+da Silva, K. (2019, 24 junio). ¿Cómo funcionan los rectificadores? Techlandia. 
+Recuperado 8 de julio de 2022, de https://techlandia.com/funcionan-
+rectificadores-como_10736/ 
+C. (2021, 24 septiembre). ¿Qué es y cómo funciona un compresor de aire 
+industrial? Link Compresores. Recuperado 8 de julio de 2022, de 
+https://www.linkcompresores.com.co/que-es-y-como-funciona-un-compresor-de-
+aire-industrial/ 
+Products Finishing México. (2021, 1 junio). La nueva familia de rectificadores 
+Dynapower. 
+Recuperado 
+8 
+de 
+julio 
+de 
+2022, 
+de 
+https://www.pf-
+mex.com/productos/la-nueva-familia-de-rectificadores-dynapower 
+Dynapower. (2022, 15 junio). Preventative Maintenance Plans. Recuperado 8 de 
+julio de 2022, de https://dynapower.com/services/preventative-maintenance/ 
+solpress. (2021, 30 marzo). ¿Qué es una prensa hidráulica y cómo funciona? | 
+Solpress BCN. Recuperado 8 de julio de 2022, de https://solpressbcn.com/que-
+es-una-prensa-hidraulica-como-funciona/ 
+ 
+ 
+ 
+ 
+ 
+"
+page_65," 
+ 
+63 
+ 
+8. ANEXOS 
+ 
+8.1 ANEXO 1 
+LISTA DE EQUIPOS CRÍTICOS POR ÁREA 
+ 
+Lista de Maquinaria Critica Mtto Prensas 
+# 
+Equipo 
+CLAVE  
+¿Para directamente 
+al cliente? 
+¿Existe un 
+equipo 
+alterno 
+para esta 
+línea? 
+¿En caso de paro 
+de este equipo, 
+cuantas líneas 
+pararía?  
+Criticidad 
+1 PRENSA 15 DANLY 1000 
+FNG-PM-15 
+SI 
+NO 
+2 o más 
+1 
+2 PRENSA 18 DANLY 1000 
+FNG-PM-18 
+NO 
+NO 
+2 o más 
+1 
+3 PRENSA 21 HIDROFORMADO 
+FNG-PM-21 
+SI 
+NO 
+2 o más 
+1 
+4 PRENSA TRANSFER 31 DANLY 2000 
+FNG-PM-31 
+NO 
+SI 
+2 o más 
+1 
+5 PRENSA TRANSFER 32 DANLY 2000 
+FNG-PM-32 
+NO 
+SI 
+2 o más 
+1 
+6 PRENSA 41 SCHULER TRANS. 2750 
+FNG-PM-41 
+NO 
+SI 
+2 o más 
+1 
+7 ROLADORA 
+FNG-PM-1 
+SI 
+NO 
+2 o más 
+1 
+Lista de Maquinaria Critica Mtto Soldadura 
+# Equipo 
+CLAVE  
+¿Para directamente 
+al cliente? 
+¿Existe un 
+equipo 
+alterno 
+para esta 
+línea? 
+¿En caso de 
+paro de este 
+equipo, 
+cuantas líneas 
+pararía?  
+Importanci
+a 
+1 CÉLULA TOYOTA # 2 
+FNGMWT-
+002 
+SI 
+SI 
+2 o más 
+1 
+2 CÉLULA TOYOTA # 3 
+FNGMWT-
+003 
+SI 
+SI 
+2 o más 
+1 
+3 CELDA MIG TOYOTA 989 
+FNGWMT-
+093 
+SI 
+NO 
+1 
+1 
+2 PEDESTAL DE SOLDADURA 
+NISSAN H60A 
+FNGWMT-
+089 
+SI 
+SI 
+2 o más 
+1 
+3 CELDA DE SOLDADURA MIG 
+NISSAN H60A 
+FNGWMT-
+091 
+SI 
+NO 
+1 
+1 
+4 PEDESTAL DE SOLDADURA 2 DE 
+NISSAN P71 (2 PISTOLAS) 
+FNGWMT-
+096 
+SI 
+NO 
+0 
+1 
+3 
+BATTERY TRAY PEDESTAL DE 
+CLINCHADO OP 10 ""UNA 
+ESTACION"" 
+FNGWMT-
+104 
+SI 
+SI 
+2 o más 
+1 
+4 BATTERY TRAY PEDESTAL DE 
+CLINCHADO OP 20 ""CHAROLA"" 
+FNGWMT-
+105 
+SI 
+SI 
+2 o más 
+1 
+"
+page_66," 
+ 
+64 
+ 
+5 
+BATTERY TRAY PEDESTAL DE 
+CLINCHADO OP 30 ""DOS 
+ESTACIONES"" 
+FNGWMT-
+106 
+SI 
+SI 
+2 o más 
+1 
+4 BATTERY TRAY PEDESTAL SPOT 
+BATTERY STRAPS 
+FNGWMT-
+103 
+SI 
+SI 
+2 o más 
+1 
+5 BATTERY TRAY CELDA PRINCIPAL 
+LADO A 
+FNGWMT-
+107 
+SI 
+SI 
+2 o más 
+1 
+6 BATTERY TRAY CELDA PRINCIPAL 
+LADO B 
+FNGWMT-
+108 
+SI 
+SI 
+2 o más 
+1 
+5 
+BATTERY TRAY CELDA 
+PROYECCIONES Y GMAW 
+CHASSIS/ELECTRICAL 
+FNGWMT-
+110 
+SI 
+SI 
+2 o más 
+1 
+6 CELDA 1 PROYECCIONES (DE ALTA 
+VELOCIDAD) CELDA 6 STEP ASSIST 
+FNGWMT-
+113 
+NO 
+SI 
+2 o más 
+1 
+7 CELDA 2 PROYECCIONES (DE ALTA 
+VELOCIDAD) CELDA 7 
+FNGWMT-
+114 
+NO 
+SI 
+2 o más 
+1 
+6 ROCKER PANEL CELDA-ESTACION 
+A LADO DERECHO 
+FNGWMT-
+115 
+SI 
+SI 
+2 o más 
+1 
+7 ROCKER PANEL CELDA-ESTACION 
+A LADO IZQUIERDO 
+FNGWMT-
+116 
+SI 
+SI 
+2 o más 
+1 
+8 ROCKER PANEL CELDA-ESTACION 
+B LADO DERECHO 
+FNGWMT-
+117 
+SI 
+SI 
+2 o más 
+1 
+7 ROCKER PANEL CELDA-ESTACION 
+B LADO IZQUIERDO 
+FNGWMT-
+118 
+SI 
+SI 
+2 o más 
+1 
+8 ROCKER PANEL CELDA-ESTACION 
+C LADO DERECHO 
+FNGWMT-
+119 
+SI 
+SI 
+2 o más 
+1 
+9 ROCKER PANEL CELDA-ESTACION 
+C LADO IZQUIERDO 
+FNGWMT-
+120 
+SI 
+SI 
+2 o más 
+1 
+8 
+CELDA DE SOLDADURA GMAW 
+12.5K TOW HITCHES ESTACIONES 
+110, 120, 130, 140, 150 A/B Y 160 
+A/B 
+FNGWMT-
+127 
+SI 
+SI 
+2 o más 
+1 
+9 
+CELDA DE SOLDADURA GMAW 
+12.5K 
+TOW HITCHES ESCTION FINAL 
+SALIDAS A/B 
+FNGWMT-
+128 
+SI 
+SI 
+2 o más 
+1 
+1
+0 
+PEDESTAL DE SOLDADURA GMAW 
+TOW HITCHES TUERCAS M14 
+FNGWMT-
+130 
+SI 
+SI 
+2 o más 
+1 
+9 CELDA DE SOLDADURA GMAW 5K 
+TOW HITCHES 
+FNGWMT-
+131 
+SI 
+SI 
+2 o más 
+1 
+1
+0 
+CHRYSLER DJ CELDA 1 DE 
+SOLDADURA SPOT (BLANK) 
+FNGWMT-
+121 
+SI 
+SI 
+2 o más 
+1 
+1
+1 
+CHRYSLER DJ CELDA 2 
+SOLDADURA SPOT Y 
+PROYECCIONES (DASH PANEL) 
+FNGWMT-
+122 
+SI 
+SI 
+2 o más 
+1 
+1
+0 
+CHRYSLER DJ CELDA 3 
+SOLDADURA SPOT Y 
+PROYECCIONES (COWL SIDE) 
+FNGWMT-
+123 
+SI 
+SI 
+2 o más 
+1 
+1
+1 
+CHRYSLER DJ CELDA 4 SPOT, 
+CLINCHADO Y PROYECCIONES 
+(PLENUM) 
+FNGWMT-
+124 
+SI 
+SI 
+2 o más 
+1 
+"
+page_67," 
+ 
+65 
+ 
+1
+2 CHRYSLER DJ SOLDADURA MIG 
+FNGWMT-
+125 
+SI 
+SI 
+2 o más 
+1 
+1
+1 
+CHRYSLER DJ PEDESTAL DE 
+SOLDADURA PROYECCIONES 
+(TUERCAS Y TORNILLOS) 
+FNGWMT-
+126 
+SI 
+SI 
+2 o más 
+1 
+1
+2 
+CHRYSLER DJ PEDESTAL DE 
+SOLDADURA 2 PROYECCIONES 
+(PERNOS) 
+FNGWMT-
+12_ 
+SI 
+SI 
+2 o más 
+1 
+1
+3 CÉLULA SOLDADURA HEAVY DUTY        FNGMWT-
+026 
+NO 
+SI 
+2 o más 
+1 
+1
+2 
+PEDESTAL VOLKSWAGEN OP 10 
+PROJECTION WELD  
+FNGMWT-
+139 
+SI 
+SI 
+2 o más 
+1 
+1
+3 
+PEDESTAL VOLKSWAGEN OP 20 
+ASSEMBLY OIL PAN  
+FNGMWT-
+140 
+SI 
+SI 
+2 o más 
+1 
+1
+4 
+PEDESTAL VOLKSWAGEN OP 30 
+LEAK TEST OIL PAN  
+FNGMWT-
+141 
+SI 
+SI 
+2 o más 
+1 
+1
+3 
+MAQUINA DE SOLDADURA SPOT 
+CELDA CX 727 FDXA2 
+FNGMWT-
+156 
+SI 
+NO 
+2 o más 
+1 
+1
+4 CELDA CX 727 FDXP4 
+FNGMWT-
+161 
+SI 
+NO 
+2 o más 
+1 
+1
+5 CELDA CX 727 FDXA5 
+FNGMWT-
+159 
+SI 
+NO 
+2 o más 
+1 
+1
+4 
+BATTERY TRAY CELDA PRINCIPAL 
+LADO A 
+FNGMWT-
+107 
+SI 
+NO 
+2 o más 
+1 
+1
+5 
+BATTERY TRAY CELDA PRINCIPAL 
+LADO B 
+FNGMWT-
+108 
+SI 
+NO 
+2 o más 
+1 
+1
+6 
+CHRYSLER DJ CELDA 4 SPOT, 
+CLINCHADO Y PROYECCIONES 
+(PLENUM) 
+FNGMWT-
+124 
+SI 
+NO 
+2 o más 
+1 
+Lista de Maquinaria Critica Mtto Ensamble 
+# 
+Equipo 
+CLAVE  
+¿Para directamente 
+al cliente? 
+¿Existe un 
+equipo 
+alterno 
+para esta 
+línea? 
+¿En caso de 
+paro de este 
+equipo, 
+cuantas líneas 
+pararía?  
+Importancia 
+6 NISSAN H60 
+FNGEM-10 
+SI 
+NO 
+1 
+1 
+7 GM K2XX FRONTAL ESTACIONES 
+01 A LA 06 
+FNGEM-06 
+SI 
+NO 
+1 
+1 
+8 GM K2XX FRONTAL ESTACIONES 
+07 AL 11 
+FNGEM-07 
+SI 
+NO 
+1 
+1 
+9 GM K2XX TRASERA ESTACIONES 
+10 AL 80 
+FNGEM-08 
+SI 
+NO 
+1 
+1 
+1
+0 
+GM K2XX TRASERA ESTACIONES 
+90 AL 140 
+FNGEM-09 
+SI 
+NO 
+1 
+1 
+1
+1 
+GM T1XX FRONTAL MCE 
+ESTACIONES 05 A LA 60 
+FNGEM-11 
+SI 
+NO 
+1 
+1 
+1
+2 
+GM K2XX FRONTAL MCE 
+ESTACIONES 70 AL 130 
+FNGEM-12 
+SI 
+NO 
+1 
+1 
+"
+page_68," 
+ 
+66 
+ 
+1
+3 
+CHRYSLER DJ MCA FRONTAL 
+ESTACIONES 110 A 160  
+FNGEM-17  
+SI 
+NO 
+1 
+1 
+1
+4 
+CHRYSLER DJ MCA FRONTAL 
+ESTACIONES 170 A 210  
+FNGEM-18  
+SI 
+NO 
+1 
+1 
+1
+5 
+CHRYSLER DJ MCA TRASERA 
+ESTACIONES 110 A 160  
+FNGEM-19  
+SI 
+NO 
+1 
+1 
+1
+6 
+CHRYSLER DJ MCA TRASERA 
+ESTACIONES 170 A 210  
+FNGEM-20  
+SI 
+NO 
+1 
+1 
+Lista de Maquinaria Critica Mtto Cromo I (Cromo) 
+# 
+Equipo 
+CLAVE  
+¿Para 
+directamente al 
+cliente? 
+¿Existe un 
+equipo 
+alterno para 
+esta línea? 
+¿En caso de 
+paro de este 
+equipo, 
+cuantas líneas 
+pararía?  
+Criticidad 
+1  TRANSPORTADOR SECO NORTE  
+FNGCM-05 
+SI 
+NO 
+2 o más 
+1 
+2  TRANSPORTADOR SECO SUR 
+FNGCM-06 
+SI 
+NO 
+2 o más 
+1 
+3  GRUA VIAJERA #1 
+FNGCM-07 
+SI 
+NO 
+2 o más 
+1 
+4  GRUA VIAJERA #2 
+FNGCM-08 
+SI 
+NO 
+2 o más 
+1 
+5  GRUA VIAJERA #3 
+FNGCM-09 
+SI 
+NO 
+2 o más 
+1 
+6  GRUA VIAJERA #4 
+FNGCM-10 
+SI 
+NO 
+2 o más 
+1 
+7  GRUA VIAJERA #5 
+FNGCM-11 
+SI 
+NO 
+2 o más 
+1 
+8  GRUA VIAJERA #6 
+FNGCM-12 
+SI 
+NO 
+2 o más 
+1 
+9  GRUA VIAJERA #7 
+FNGCM-13 
+SI 
+NO 
+2 o más 
+1 
+1
+0  GRUA VIAJERA #8 
+FNGCM-14 
+SI 
+NO 
+2 o más 
+1 
+1
+1  GRUA VIAJERA #9 
+FNGCM-15 
+SI 
+NO 
+2 o más 
+1 
+1
+2 
+ TINA 7 LIMPIEZA 
+ELECTROACIDO 
+FNGCM-22 
+SI 
+NO 
+2 o más 
+1 
+1
+3  TINA  11 ELECTROLIMPIEZA   
+FNGCM-25 
+SI 
+NO 
+2 o más 
+1 
+1
+4  TINA 13 BAÑO ACIDO (HCL) 
+FNGCM-27 
+SI 
+NO 
+2 o más 
+1 
+1
+5  TINA 15 NICKEL STRIKE 
+FNGCM-29 
+SI 
+NO 
+2 o más 
+1 
+1
+6 
+ TINA 16 TRANSPORTADOR 
+AGUA OR 
+FNGCM-30 
+SI 
+NO 
+2 o más 
+1 
+1
+7 
+ TINA 20 NIQUEL ALTO AZUFRE 
+(TRI-NI) 
+FNGCM-34 
+SI 
+NO 
+2 o más 
+1 
+1
+8 TINA 21 NIQUEL BRILLANTE 
+FNGCM-35 
+SI 
+NO 
+2 o más 
+1 
+1
+9 
+TINA 22 DUR-NI NIQUEL CON 
+PARTICULAS 
+FNGCM-36 
+SI 
+NO 
+2 o más 
+1 
+2
+0 TINA 24 PRE-BAÑO DE CROMO 
+FNGCM-38 
+SI 
+NO 
+2 o más 
+1 
+2
+1 TINA 25 CROMO 
+FNGCM-39 
+SI 
+NO 
+2 o más 
+1 
+2
+2  COMPRESOR #1 
+FNGCM-44 
+SI 
+NO 
+2 o más 
+1 
+"
+page_69," 
+ 
+67 
+ 
+2
+3  COMPRESOR #2 
+FNGCM-45 
+SI 
+NO 
+2 o más 
+1 
+2
+4  CALDERA #1  
+FNGCM-51 
+SI 
+NO 
+2 o más 
+1 
+2
+5  CALDERA #2 
+FNGCM-52 
+SI 
+NO 
+2 o más 
+1 
+2
+6  SISTEMA DE ENFRIAMIENTO #1 
+FNGCM-54 
+SI 
+NO 
+2 o más 
+1 
+2
+7  SISTEMA DE ENFRIAMIENTO #2 
+FNGCM-55 
+SI 
+NO 
+2 o más 
+1 
+2
+8 
+ TAB. DE CONTROL DE SIST. DE 
+ENFRIAMIENTO 
+FNGCM-56 
+SI 
+NO 
+2 o más 
+1 
+2
+9 
+ TABLERO DE FUERZA DE MAKE-
+UP 1-8 
+FNGCM-76 
+SI 
+NO 
+2 o más 
+1 
+3
+0 
+ TABLERO DE CONTROL DE 
+GRUAS 1-5  
+FNGCM-77 
+SI 
+NO 
+2 o más 
+1 
+3
+1 
+ TABLERO DE CONTROLDE 
+GRUAS 6-9 
+FNGCM-78 
+SI 
+NO 
+2 o más 
+1 
+3
+2 
+ TABLERO DE CONTROL DE 
+EXTRACCION 
+FNGCM-79 
+SI 
+NO 
+2 o más 
+1 
+3
+3 
+ TABLERO DE CONTROL 1 - 8 
+RECTIFICADORES 
+FNGCM-80 
+SI 
+NO 
+2 o más 
+1 
+3
+4 RECTIFICADOR #1 (TANQUE #25) 
+FNGCM-81 
+SI 
+NO 
+2 o más 
+1 
+3
+5 
+RECTIFICADOR #2 (TANQUE #3 y 
+#4) 
+FNGCM-82 
+SI 
+NO 
+2 o más 
+1 
+3
+6 RECTIFICADOR #3 (TANQUE #22) 
+FNGCM-83 
+SI 
+NO 
+2 o más 
+1 
+3
+7 
+RECTIFICADOR #4 (AUXILIAR 
+TANQUE #21) 
+FNGCM-84 
+SI 
+NO 
+2 o más 
+1 
+3
+8 
+RECTIFICADOR #5 (MÁSTER 
+TANQUE #21) 
+FNGCM-85 
+SI 
+NO 
+2 o más 
+1 
+3
+9 RECTIFICADOR #6 (TANQUE #7) 
+FNGCM-86 
+SI 
+NO 
+2 o más 
+1 
+4
+0 RECTIFICADOR #7 (TANQUE #20) 
+FNGCM-87 
+SI 
+NO 
+2 o más 
+1 
+4
+1 
+RECTIFICADOR #8 (AUXILIAR 
+TANQUE #19) 
+FNGCM-88 
+SI 
+NO 
+2 o más 
+1 
+4
+2 
+RECTIFICADOR #9 (MÁSTER 
+TANQUE #19) 
+FNGCM-89 
+SI 
+NO 
+2 o más 
+1 
+4
+3 
+RECTIFICADOR #10 (TANQUE 
+#10) 
+FNGCM-90 
+SI 
+NO 
+2 o más 
+1 
+4
+4 
+RECTIFICADOR #11 (TANQUE 
+#11) 
+FNGCM-91 
+SI 
+NO 
+2 o más 
+1 
+4
+5 
+RECTIFICADOR #12 (MÁSTER 
+TANQUE #18) 
+FNGCM-92 
+SI 
+NO 
+2 o más 
+1 
+4
+6 
+RECTIFICADOR #13 
+(AUXILIARTANQUE #18) 
+FNGCM-93 
+SI 
+NO 
+2 o más 
+1 
+4
+7 
+RECTIFICADOR #14 (AUXILIAR 
+TANQUE #17) 
+FNGCM-94 
+SI 
+NO 
+2 o más 
+1 
+"
+page_70," 
+ 
+68 
+ 
+4
+8 
+RECTIFICADOR #15 (MÁSTER 
+TANQUE #17) 
+FNGCM-95 
+SI 
+NO 
+2 o más 
+1 
+4
+9 
+RECTIFICADOR #16 (TANQUE 
+#15) 
+FNGCM-96 
+SI 
+NO 
+2 o más 
+1 
+5
+0 HORNO DE BACK OUT 
+FNGCM-97 
+SI 
+NO 
+2 o más 
+1 
+Lista de Maquinaria Critica Mtto Pulido I (Cromo ll) 
+# 
+Equipo 
+CLAVE  
+¿Para 
+directamente al 
+cliente? 
+¿Existe un 
+equipo 
+alterno para 
+esta línea? 
+¿En caso de 
+paro de este 
+equipo, 
+cuantas líneas 
+pararía?  
+Criticidad 
+1  TRANSPORTADOR DE CADENA 
+AUTOPULIDO I 
+FNGPM-68 
+SI 
+NO 
+2 o más 
+1 
+2  TABLERO DE CONTROL DE 
+AUTOPULIDO 
+FNGPM-70 
+SI 
+NO 
+2 o más 
+1 
+Lista de Maquinaria Critica Mtto Cromo ll (Cromo) 
+# 
+Equipo 
+CLAVE  
+¿Para 
+directamente al 
+cliente? 
+¿Existe 
+un 
+equipo 
+alterno 
+para 
+esta 
+línea? 
+¿En caso de paro de 
+este equipo, cuantas 
+líneas pararía?  
+Criticidad 
+1 TINA #0  
+FNGCM-01 
+SI 
+NO 
+2 o más 
+1 
+2 TINA #1  
+FNGCM-02 
+SI 
+NO 
+2 o más 
+1 
+3 TINA #3 
+FNGCM-04 
+SI 
+NO 
+2 o más 
+1 
+4 TINA #6 
+FNGCM-07 
+SI 
+NO 
+2 o más 
+1 
+5 TINA #10 
+FNGCM-11 
+SI 
+NO 
+2 o más 
+1 
+6 TINA #12 
+FNGCM-13 
+SI 
+NO 
+2 o más 
+1 
+7 TINA #13 
+FNGCM-14 
+SI 
+NO 
+2 o más 
+1 
+8 TINA #18 
+FNGCM-19 
+SI 
+NO 
+2 o más 
+1 
+9 TINA #19 
+FNGCM-20 
+SI 
+NO 
+2 o más 
+1 
+1
+0 TINA #21 PRECROMO 
+FNGCM-22 
+SI 
+NO 
+2 o más 
+1 
+1
+1 TINA #22 CROMO 
+FNGCM-23 
+SI 
+NO 
+1 
+1 
+1
+2 Transportador Seco Norte 101 
+FNGCM-27 
+SI 
+NO 
+2 o más 
+1 
+1
+3 Transportador Seco Sur 102 
+FNGCM-28 
+SI 
+NO 
+2 o más 
+1 
+1
+4 Grúa Viajera # 1 
+FNGCM-29 
+SI 
+NO 
+2 o más 
+1 
+1
+5 Grúa Viajera # 2 
+FNGCM-30 
+SI 
+NO 
+2 o más 
+1 
+1
+6 Grúa Viajera # 3 
+FNGCM-31 
+SI 
+NO 
+2 o más 
+1 
+"
+page_71," 
+ 
+69 
+ 
+1
+7 Grúa Viajera # 4 
+FNGCM-32 
+SI 
+NO 
+2 o más 
+1 
+1
+8 Grúa Viajera # 5 
+FNGCM-33 
+SI 
+NO 
+2 o más 
+1 
+1
+9 Grúa Viajera # 6 
+FNGCM-34 
+SI 
+NO 
+2 o más 
+1 
+2
+0 Grúa Viajera # 7 
+FNGCM-35 
+SI 
+NO 
+2 o más 
+1 
+2
+1 Compresor Robushi # 1 
+FNGCM-36 
+SI 
+SI 
+2 o más 
+1 
+2
+2 Compresor Robushi # 2 
+FNGCM-37 
+SI 
+SI 
+2 o más 
+1 
+2
+3 Rectificador #1 
+FNGCM-40 
+SI 
+NO 
+2 o más 
+1 
+2
+4 Rectificador #2 
+FNGCM-41 
+SI 
+NO 
+2 o más 
+1 
+2
+5 Rectificador #3 
+FNGCM-42 
+SI 
+NO 
+2 o más 
+1 
+2
+6 Rectificador #4 
+FNGCM-43 
+SI 
+NO 
+2 o más 
+1 
+2
+7 Rectificador #5 
+FNGCM-44 
+SI 
+NO 
+2 o más 
+1 
+2
+8 Rectificador #6 
+FNGCM-45 
+SI 
+NO 
+2 o más 
+1 
+2
+9 Rectificador #7 
+FNGCM-46 
+SI 
+NO 
+2 o más 
+1 
+3
+0 Rectificador #8 
+FNGCM-47 
+SI 
+NO 
+2 o más 
+1 
+3
+1 Rectificador #9 
+FNGCM-48 
+SI 
+NO 
+2 o más 
+1 
+3
+2 Rectificador #10 
+FNGCM-49 
+SI 
+SI 
+2 o más 
+1 
+3
+3 Rectificador #11 
+FNGCM-50 
+SI 
+NO 
+2 o más 
+1 
+3
+4 Rectificador #12 
+FNGCM-51 
+SI 
+NO 
+2 o más 
+1 
+3
+5 Elevador #1  
+FNGCM-54 
+SI 
+NO 
+2 o más 
+1 
+3
+6 Elevador #2 
+FNGCM-55 
+SI 
+NO 
+2 o más 
+1 
+3
+7 Torre de Enfriamiento 
+FNGCM-56 
+SI 
+NO 
+2 o más 
+1 
+3
+8 Tablero de Cromo II 
+FNGCM-60 
+SI 
+NO 
+2 o más 
+1 
+Lista de Maquinaria Critica Mtto Pulido II (Cromo) 
+# 
+Equipo 
+CLAVE  
+¿Para 
+directamente 
+al cliente? 
+¿Existe un 
+equipo 
+alterno para 
+esta línea? 
+¿En caso de paro 
+de este equipo, 
+cuantas líneas 
+pararía?  
+Criticidad 
+"
+page_72," 
+ 
+70 
+ 
+1  TRANSPORTADOR DE CADENA 
+AUTOPULIDO Il 
+FNGPM-53 
+SI 
+NO 
+2 o más 
+1 
+2  TABLERO DE CONTROL DE 
+AUTOPULIDO 
+FNGPM-55 
+SI 
+NO 
+2 o más 
+1 
+Lista de Maquinaria Critica Mtto Servicios Generales 
+# 
+Equipo 
+CLAVE  
+¿Para 
+directamente 
+al cliente? 
+¿Existe un 
+equipo 
+alterno para 
+esta línea? 
+¿En caso de paro 
+de este equipo, 
+cuantas líneas 
+pararía?  
+Criticidad 
+2 
+SUBESTACION ELECTRICA 1 
+PROLEC 2500KVA  
+FNG-SM-02 
+SI 
+NO 
+2 o más 
+1 
+3 
+SUBESTACION ELECTRICA 2 
+PROLEC 2500KVA  
+FNG-SM-03 
+SI 
+NO 
+2 o más 
+1 
+4 
+SUBESTACION ELECTRICA 3 
+PROLEC 2500KVA  
+FNG-SM-04 
+SI 
+NO 
+2 o más 
+1 
+5 
+SUBESTACION ELECTRICA 4 
+PROLEC 2500KVA  
+FNG-SM-05 
+SI 
+NO 
+2 o más 
+1 
+6 
+SUBESTACION ELECTRICA 5   2500 
+KVA 
+FNG-SM-06 
+SI 
+NO 
+2 o más 
+1 
+7 
+SUBESTACION ELECTRICA 6 
+3500KVA 
+FNG-SM-07 
+SI 
+NO 
+2 o más 
+1 
+8 
+SUBESTACION ELECTRICA 7 2500 
+KVA 
+FNG-SM-08 
+SI 
+NO 
+2 o más 
+1 
+9 
+SUBESTACION ELECTRICA 8 
+2500KVA 
+FNG-SM-09 
+SI 
+NO 
+2 o más 
+1 
+12 COMPRESOR No.2 300 HP 
+SULLAIR LS 25  
+FNG-SM-12 
+SI 
+SI 
+2 o más 
+1 
+13 COMPRESOR No.3 300 HP 
+SULLAIR LS 25  
+FNG-SM-13 
+SI 
+SI 
+2 o más 
+1 
+16 COMPRESOR No.6 150 HP 
+INGERSOLL RAND 
+FNG-SM-16 
+SI 
+NO 
+2 o más 
+1 
+29 GRUA VIAJERA ESTE NAVE 2 # 32 
+FNG-SM-29 
+SI 
+NO 
+2 o más 
+1 
+30 GRUA VIAJERA OESTE NAVE 2 # 
+31 
+FNG-SM-30 
+SI 
+NO 
+2 o más 
+1 
+31 TRANSPORTADOR DE CHATARRA 
+""A"" NAVE 1 
+FNG-SM-31 
+SI 
+NO 
+2 o más 
+1 
+32 TRANSPORTADOR DE CHATARRA 
+""B"" NAVE I 
+FNG-SM-32 
+SI 
+NO 
+2 o más 
+1 
+33 TRANSPORTADOR DE CHATARRA 
+""C"" NAVE 1 
+FNG-SM-33 
+SI 
+NO 
+2 o más 
+1 
+36 TRANSPORTADOR DE CHATARRA 
+""PRENSA 18"" NAVE 1 
+FNG-SM-36 
+SI 
+NO 
+1 
+1 
+37 TRANSPORTADOR DE CHATARRA 
+""PRENSA 19"" NAVE 1 
+FNG-SM-37 
+SI 
+NO 
+1 
+1 
+38 TRANSPORTADOR DE CHATARRA 
+""B"" NAVE II 
+FNG-SM-38 
+SI 
+NO 
+2 o más 
+1 
+39 TRANSPORTADOR DE CHATARRA 
+""C"" NAVE II 
+FNG-SM-39 
+SI 
+NO 
+2 o más 
+1 
+"
+page_73," 
+ 
+71 
+ 
+46 TORRES DE ENFRIAMIENTO NAVE 
+1 
+FNG-SM-46 
+SI 
+NO 
+2 o más 
+1 
+47 TORRES DE ENFRIAMIENTO NAVE 
+2 
+FNG-SM-47 
+SI 
+NO 
+2 o más 
+1 
+96 LINEA DE GAS NATURAL 
+FNG-SM-96 
+SI 
+NO 
+0 
+1 
+14
+0 
+SUBESTACION PRINCIPAL ABB  
+115 000 V  
+FNG-SM-
+145 
+SI 
+NO 
+2 o más 
+1 
+14
+1 
+LINEA DE   AGUA DOMESTICA  
+FNG-SM-
+146 
+SI 
+NO 
+2 o más 
+1 
+14
+8 
+RSP Tanque gris compresores 
+(PINTURA) 
+FNG-SM-
+154 
+SI 
+NO 
+2 o más 
+1 
+14
+9 
+RSP TQ Azul Compresores 
+FNG-SM-
+155 
+SI 
+NO 
+2 o más 
+1 
+24
+3 
+Transportador de chatarra nave 3 
+FNG-SM-
+249 
+SI 
+NO 
+2 o más 
+1 
+24
+5 
+Torre enfriamiento Nave 3 
+FNG-SM-
+251 
+SI 
+NO 
+2 o más 
+1 
+24
+6 
+SUBESTACION PRINCIPAL 115 kv  
+FNG-SM-
+252 
+SI 
+NO 
+2 o más 
+1 
+24
+7 
+Subestación eléctrica 9 3500kva 
+FNG-SM-
+253 
+SI 
+NO 
+2 o más 
+1 
+24
+8 
+Subestación eléctrica 10 3500kva 
+FNG-SM-
+254 
+SI 
+NO 
+2 o más 
+1 
+24
+9 
+Subestación eléctrica 11 3500kva 
+FNG-SM-
+255 
+SI 
+NO 
+2 o más 
+1 
+25
+6 
+Sistema de CO2 
+FNG-SM-
+262 
+SI 
+NO 
+2 o más 
+1 
+25
+7 
+Sistema de Argón 
+FNG-SM-
+263 
+SI 
+NO 
+2 o más 
+1 
+25
+9 
+Transportador de chatarra nave 3 
+FNG-SM-
+265 
+SI 
+NO 
+2 o más 
+1 
+Lista de Maquinaria Critica Mtto Ecoat (Cromo) 
+# 
+Equipo 
+CLAVE  
+¿Para 
+directamente al 
+cliente? 
+¿Existe un 
+equipo 
+alterno para 
+esta línea? 
+¿En caso de paro 
+de este equipo, 
+cuantas líneas 
+pararía?  
+Criticidad 
+1 ECONO HOIST 
+FNGPEC-01 
+SI 
+NO 
+2 o más 
+1 
+2 LIFT 1 
+FNGPEC-02 
+SI 
+NO 
+2 o más 
+1 
+3 LIFT 2 
+FNGPEC-03 
+SI 
+NO 
+2 o más 
+1 
+4 ESTACION DE CARGA Y 
+DESCARGA 
+FNGPEC-04 
+SI 
+NO 
+2 o más 
+1 
+5 FLOOR CONVEYOR 
+FNGPEC-05 
+SI 
+NO 
+2 o más 
+1 
+6 TRANSP. DEL HORNO 
+FNGPEC-06 
+SI 
+NO 
+2 o más 
+1 
+7 HORNO DE CURADO  
+FNGPEC-07 
+SI 
+NO 
+2 o más 
+1 
+8 TINA 5 DE ACONDIC. POR 
+INMERSION 
+FNGPEC-13 
+SI 
+NO 
+2 o más 
+1 
+9 TINA 6 DE FOSFATO POR 
+INMERSION 
+FNGPEC-14 
+SI 
+NO 
+2 o más 
+1 
+"
+page_74," 
+ 
+72 
+ 
+1
+0 
+TINA 9 DE SELLO POR 
+INMERSION 
+FNGPEC-17 
+SI 
+NO 
+2 o más 
+1 
+1
+1 
+TINA 12 DE ECOAT POR 
+INMERSION 
+FNGPEC-20 
+SI 
+NO 
+2 o más 
+1 
+1
+2 BOILER 
+FNGPEC-27 
+SI 
+NO 
+2 o más 
+1 
+1
+3 
+TABLERO DE CONTROL DE 
+PROCESO (P-2) 
+FNGPEC-30 
+SI 
+NO 
+2 o más 
+1 
+1
+4 
+TABLERO DE CONTROL 
+CARGA/DESC. (P-5) 
+FNGPEC-31 
+SI 
+NO 
+2 o más 
+1 
+1
+5 
+TABLERO DE CONTROL GENERAL 
+(P-4) 
+FNGPEC-32 
+SI 
+NO 
+2 o más 
+1 
+Lista de Maquinaria Critica Mtto Top Coat (Cromo) 
+# 
+Equipo 
+CLAVE  
+¿Para 
+directamente 
+al cliente? 
+¿Existe un 
+equipo 
+alterno para 
+esta línea? 
+¿En caso de paro 
+de este equipo, 
+cuantas líneas 
+pararía?  
+Criticidad 
+1 PANEL DE CONTROL 
+FNGPTC-01 
+SI 
+NO 
+2 o más 
+1 
+2 HORNO DE SECADO (DRYOFF 
+OVEN) 
+FNGPTC-07 
+SI 
+NO 
+2 o más 
+1 
+3 TUNEL DE ENFRIAMIENTO SAL. 
+SECADO 
+FNGPTC-08 
+SI 
+NO 
+2 o más 
+1 
+4 CABINA PRIMER (PRIME 
+SPRAYBOOTH)  
+FNGPTC-09 
+SI 
+NO 
+2 o más 
+1 
+5 HORNO DE CURADO PRIMER 
+FNGPTC-10 
+SI 
+NO 
+2 o más 
+1 
+6 TUNEL DE ENFRIAMIENTO SAL. 
+CURADO PRI 
+FNGPTC-11 
+SI 
+NO 
+2 o más 
+1 
+7 CABINA BASE (BASECOAT 
+SPRAYBOOTH) 
+FNGPTC-12 
+SI 
+NO 
+2 o más 
+1 
+8 CABINA CLARA (CLEARCOAT 
+SPRAYBOOTH) 
+FNGPTC-16 
+SI 
+NO 
+2 o más 
+1 
+9 HORNO DE CURADO FINAL BASE-
+CLARA E1 
+FNGPTC-17 
+SI 
+NO 
+2 o más 
+1 
+1
+0 
+HORNO DE CURADO FINAL BASE-
+CLARA E2 
+FNGPTC-18 
+SI 
+NO 
+2 o más 
+1 
+1
+1 TRANSPORTADOR ELEVADO 
+FNGPTC-19 
+SI 
+NO 
+2 o más 
+1 
+1
+2 AMU PRIMER 
+FNGPTC-21 
+SI 
+NO 
+2 o más 
+1 
+1
+3 AMU BASE 
+FNGPTC-22 
+SI 
+NO 
+2 o más 
+1 
+1
+4 AMU CLEAR 
+FNGPTC-23 
+SI 
+NO 
+2 o más 
+1 
+ 
+ 
+ 
+"
+page_75," 
+ 
+73 
+ 
+ 
+ 
+ 
+8.2 ANEXO 2 
+PRIMERA PRUEBA DE LLENADO DE CHECK LIST EN EQUIPO CRÍTICO  
+Durante esta primera prueba se encuentran detalles a corregir tanto en las 
+instrucciones de las tareas como en el formato del check list, tomando como 
+prueba un transportador de chatarra, se analiza el llenado del check list en el 
+mantenimiento predictivo. 
+ 
+ 
+ 
+Para los técnicos es fácil ubicar el equipo debido a este apartado más sin 
+embargo debemos revisar que todos los check list cuenten con el llenado 
+completo, ya que en esta primera prueba aún faltaba la foto del equipo y el 
+llenado de los datos de placa. 
+ 
+En el siguente apartado de tecnicas de analisis el llenado fue correcto por parte 
+de los tecnicos, solo se realizaron algunos pequeños ajustess en las 
+descripciones de  tareas, ya que durante la capacitacion se hisieron aclarar la 
+mayoria dse dudas que pudieran tener segur las instrucciones del llenado en le 
+"
+page_76," 
+ 
+74 
+ 
+check list y el mantenimiento se realiza es sensillo de seguir para los tecnicos 
+debido a su gran experiencia. 
+ 
+ 
+ 
+ 
+ 
+ 
+"
+page_77," 
+ 
+75 
+ 
+ 
+ 
+ 
+ 
+ 
+"
+page_78," 
+ 
+76 
+ 
+ 
+Durante el llenado de los apartados de análisis se visualiza los técnicos han 
+realizado observaciones con base a los hallazgos durante el mantenimiento.  
+Estos comentarios en las observaciones son importantes para tomar en cuenta 
+en los siguientes mantenimientos ya que ayudan a predecir un comportamiento 
+en el equipo. 
+En la toma de datos para el análisis del motor son claramente fáciles de entender 
+tanto para tomarlos tanto para ingresarlos en el check list. 
+ 
+"
+page_79," 
+ 
+77 
+ 
+En la toma de voltajes se percibe una ligera variación en la línea 2, esto no es 
+una variación demasiado grande mientras continue dentro de los límites, la toma 
+de datos se realizará históricamente por lo que el aumento de este será percibido 
+de manera inmediata, ya que si es un error en la toma del técnico solo se verá 
+reflejado en esta ocasión.  
+En los gráficos los datos ingresados en el check list se grafican de manera 
+correcta, los límites establecidos de acuerdo con la investigación en los datos de 
+placa se pueden ajustar si es sugerido por técnicos o supervisores ya que ellos 
+son los expertos en la maquinaria y esto puede ayudar hacer más sensible los 
+registros dando facilidad a detectar cualquier anomalía en el registro gráfico. 
+ 
+ 
+ 
+"
+page_80," 
+ 
+78 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"
+page_81," 
+ 
+79 
+ 
+ 
+ 
+ 
+ 
+Los ajustes realizados en las gráficas son solo para dar un formato más 
+entendible y la sugerencia de los técnicos y supervisores se reajustan limites en 
+la toma de datos, también se añade un nuevo apartado para subir la termografía 
+tomada en cada motor en la gráfica de temperatura se acompañara con una 
+termografía para revisar el origen del punto caliente en caso de que exista algún 
+aumento de temperatura o revisión del sistema del cableado hacia el motor, todo 
+esto se explica durante la capacitación, dejando espacio a nuevas sugerencia 
+que se puedan dar. 
+"
+page_82," 
+ 
+80 
+ 
+8.3 ANEXO 3 
+PRUEBA EXITOSA EN LLENADO DE CHECK LIST EN EQUIPO CRÍTICO  
+ 
+ 
+ 
+"
+page_83," 
+ 
+81 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"
+page_84," 
+ 
+82 
+ 
+ 
+ 
+ 
+"
+page_85," 
+ 
+83 
+ 
+ 
+ 
+ 
+"
+page_86," 
+ 
+84 
+ 
+ 
+ 
+ 
+ 
+"
+page_87," 
+ 
+85 
+ 
+ 
+ 
+ 
+ 
+ 
+"
+page_88," 
+ 
+86 
+ 
+ 
+ 
+ 
+"
+page_89," 
+ 
+87 
+ 
+ 
+8.4 ANEXO 4 
+SEGUIMIENTO DE UN MANTENIMINETO CONTINUO 
+Después de 9 meses de haber implementado un mantenimiento predictivo en un 
+equipo se pueden revisar las fallas que se han captado a lo largo de este tiempo, 
+también se pude observar algún comportamiento grafico que pueda ayudar a 
+predecir alguna falla y adelantar un diagnóstico del equipo. 
+"
+page_90," 
+ 
+88 
+ 
+ 
+ 
+"
+page_91," 
+ 
+89 
+ 
+ 
+ 
+ 
+ 
+"
+page_92," 
+ 
+90 
+ 
+ 
+ 
+En las técnicas de análisis se logra detectar algunas anomalías durante estos 
+meses, la respuesta aceptable indica el funcionamiento aún está bien, en cambio 
+el no aceptable indica la programación a tiempo de un mantenimiento correctivo,  
+es aquí donde el supervisor debe programar un mantenimiento correctivo 
+dependiendo de la gravedad de la falla por esta razón el técnico realiza una 
+pequeña descripción de por qué no es aceptable la revisión, si la situación es 
+aceptable pero se está comenzando a percibir anomalía de igual manera el 
+técnico redacta un comentario en observaciones para mantener al tanto al 
+supervisor el cual es el encargado de tomar medidas y programar los 
+mantenimientos correctivos. 
+"
+page_93," 
+ 
+91 
+ 
+ 
+Durante los primeros 9 meses de seguimiento la toma de datos en el motor se 
+percibe ordenada y sin mucha varia validad en cuanto a la toma de estos durante 
+cada mantenimiento, si por alguna situación se llegaran a salir de los límites 
+establecidos seria detectado de inmediato en los gráficos programados. 
+ 
+ 
+ 
+"
+page_94," 
+ 
+92 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"
+page_95," 
+ 
+93 
+ 
+ 
+ 
+Una vez se lleva tiempo registrando información puede ser confusa verla en una 
+tabla de registro por lo que la presentación grafica facilita al supervisor analizar 
+cualquier dato fuera de límite establecido. Durante el monitoreo de este equipo 
+aún no se encuentran fallas críticas y los datos que más se acercan al límite 
+tienden a regresar en los siguientes mantenimientos siendo incluso errores de 
+medición a tomar los datos por descuido de algún técnico o errores del equipo, 
+solo que al ser mínimos no se percibe la necesidad de un mantenimiento 
+correctivo, ahorrando tiempo de personal, evitando gastos innecesarios aún. 
+"
+page_96," 
+ 
+94 
+ 
+ 
+ 
+En la toma de la termografía además de ser importante revisar la gráfica de los 
+datos registrados, se debe observar la imagen térmica para visualizar el 
+surgimiento de algún punto caliente en el momento que se observe el aumento 
+de temperatura. Una vez implementados los check lis en cada equipo es 
+responsabilidad del supervisor de cada área revisar el seguimiento de los 
+mantenimientos predictivos en los equipos. 
+"
